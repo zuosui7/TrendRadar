@@ -1,642 +1,11 @@
 {
-  "generated_at": "2026-04-18T13:54:03.723128+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-04-18T16:10:14.880459+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 56,
-      "titles": [
-        {
-          "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
-          "url": "https://www.cls.cn/detail/2347896",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普最兴奋的一天：三个细节，信息量很大",
-          "url": "https://news.ifeng.com/c/8sPvCLdNSdV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
-          "url": "https://news.ifeng.com/c/8sPFMrNRcR5",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
-          "url": "https://wallstreetcn.com/articles/3770301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普称很快发布第一批UFO文件",
-          "url": "https://wallstreetcn.com/livenews/3090367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普认为美伊之间显著分歧不多",
-          "url": "https://news.ifeng.com/c/8sOMvFG8cEL",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国总统特朗普：某天，将把旗插在火星上。",
-          "url": "https://wallstreetcn.com/livenews/3090365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：特朗普1小时内发布7项声明，“均不属实”",
-          "url": "https://wallstreetcn.com/livenews/3090364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
-          "url": "https://wallstreetcn.com/livenews/3090404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "特朗普：签了协议再收缴伊朗核材料就不算出兵",
-          "url": "https://flash.jin10.com/detail/20260418132550117800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗议长：绝不放弃控制霍尔木兹海峡，特朗普妄言摧毁伊朗文明已失败",
-          "url": "https://wallstreetcn.com/livenews/3090314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "美国总统特朗普：已经指示战争部长海格塞斯公布不明飞行物（UFO）文件。 文件发布的程序将很快启动。",
-          "url": "https://wallstreetcn.com/livenews/3090363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://wallstreetcn.com/livenews/3090403",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "美国总统特朗普赞赏油价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3090361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
-          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
-        },
-        {
-          "title": "据AXIOS：特朗普发帖称对黎巴嫩的袭击是“被禁止的”，这一表态震惊了以色列总理内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20260418040259599800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败",
-          "url": "https://flash.jin10.com/detail/20260418035418019800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32994886",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗：特朗普7项声明“均不属实”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
-          "url": "https://wallstreetcn.com/articles/3770302",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 04时11分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普如此命令以色列停火，内塔尼亚胡震惊",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普：以色列，适可而止",
-          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普：美国已禁止以色列这样做，适可而止",
-          "url": "https://www.cls.cn/detail/2348149",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "市场消息：精神航空（Spirit Airlines）因油价飙升威胁复苏，寻求美国政府援助。精神航空已向特朗普政府申请数亿美元的紧急资金支持。",
-          "url": "https://flash.jin10.com/detail/20260418034616824800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 07时11分]"
-        },
-        {
-          "title": "巴西总统：特朗普不是“世界皇帝”",
-          "url": "https://www.toutiao.com/trending/7629134151015153670/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
-          "title": "特朗普称美伊谈判预计周末举行 有望“一两天内”达成协议",
-          "url": "https://flash.jin10.com/detail/20260418005437062800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
-          "url": "https://wallstreetcn.com/livenews/3090399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普：伊朗不会拥有核武器",
-          "url": "https://wallstreetcn.com/livenews/3090398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国白宫：美国总统特朗普将于周六上午9点（北京时间21:00）签署一项行政命令。",
-          "url": "https://wallstreetcn.com/livenews/3090397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
-          "url": "https://flash.jin10.com/detail/20260418040911468800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
-          "url": "https://wallstreetcn.com/livenews/3090356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "【特朗普：美伊谈判预计周末举行，有望“一两天内”达成协议】美国总统特朗普表示，美伊谈判预计将于本周末举行，并称双方“可能在一两天内达成协议”。 特朗普在电话采访中表示，伊朗“希望会面并达成协议”，对谈判进展持乐观态度。同时，他强调在协议正式达成前，不会解除对伊朗的海上封锁，但希望霍尔木兹海峡对所有国家开放。 据了解，尽管双方谈判已取得显著进展，但在关键问题上仍存在分歧，包括伊朗核浓缩暂停期限及浓缩铀库存处理方式。协议讨论内容还包括，美国可能解冻约200亿美元伊朗资产，以换取其放弃高浓铀储备。 此外，特朗普表示，该协议将“让以色列更安全”，并要求以色列停止对黎巴嫩的军事打击。 伊朗方面目前对此暂无回应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3090246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "美国总统特朗普重申：伊朗方面表示霍尔木兹海峡开放。 （针对霍尔木兹海峡的）海上封锁将继续全面实施，直至与伊朗的交易达成。 与伊朗相关的大部分要点已经达成一致意见。 伊朗问题进程将很快。",
-          "url": "https://wallstreetcn.com/livenews/3090354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国总统特朗普声称：我们将赢得中期选举。",
-          "url": "https://wallstreetcn.com/livenews/3090353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普认为美伊之间显著分歧不多",
-          "url": "https://wallstreetcn.com/livenews/3090351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "美国一家上诉法院允许特朗普政府继续建设耗资4亿美元的白宫宴会厅，并定于6月举行听证会，审查华盛顿一名法官叫停该项目的命令。",
-          "url": "https://flash.jin10.com/detail/20260418121258485800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "伊朗官员否认美国总统特朗普有关浓缩铀问题的论调。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3090347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "近日，一个美国代表团在古巴与古巴政府官员举行了会晤，这标志着美古外交势头再度加强。此前，美国总统特朗普威胁要进行干预，而古巴领导人本周也表示，如果这种情况发生，古巴已做好战斗准备。",
-          "url": "https://flash.jin10.com/detail/20260418120110581800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国总统特朗普：有人已经厌倦了胜利吗？",
-          "url": "https://flash.jin10.com/detail/20260418115829475800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "特朗普：与伊朗的会谈可能会在周末进行",
-          "url": "https://wallstreetcn.com/livenews/3090230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        },
-        {
-          "title": "特朗普回应美伊信息不一致：因为伊朗也要迎合其他人",
-          "url": "https://flash.jin10.com/detail/20260418115420223800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国总统特朗普：已经进行了一些非常不错的讨论。 会谈将在本周末继续推进。 与伊朗、黎巴嫩的对话将继续进行。 并不认为与伊朗有太多的分歧。 一旦签署协议，就解除（针对霍尔木兹海峡的）军事封锁。",
-          "url": "https://wallstreetcn.com/livenews/3090338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        },
-        {
-          "title": "特朗普称霍尔木兹海峡不会有收费",
-          "url": "https://flash.jin10.com/detail/20260418113337173800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3090284",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "美国总统特朗普在社交媒体上指责西班牙在美国对伊朗的行动中没有配合美国。",
-          "url": "https://flash.jin10.com/detail/20260418032736894800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时11分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普称，通过霍尔木兹海峡的船舶无需缴纳任何费用。",
-          "url": "https://flash.jin10.com/detail/20260418112949536800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国总统特朗普声称，他认为自己可以相信伊朗人。 特使Witkoff、库什纳将参与（下次的）谈判，副总统万斯可能也会前往。（ABC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 65,
       "titles": [
         {
           "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
@@ -646,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -658,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
@@ -672,6 +41,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 13时54分]"
+        },
+        {
+          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
+          "url": "https://www.cls.cn/detail/2348142",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "美军：全面监视伊朗港口，海上封锁将按需维持",
+          "url": "https://news.ifeng.com/c/8sPeLr0IjwZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         },
         {
           "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
@@ -697,15 +88,43 @@
           "time_info": "[01时38分 ~ 07时11分]"
         },
         {
-          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
-          "url": "https://www.cls.cn/detail/2348142",
-          "source": "财联社热门",
+          "title": "伊朗宣布开放霍尔木兹海峡",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            6,
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32992711",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗宣布开放霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2470001",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
         },
         {
           "title": "伊朗：在停火剩余时间内，霍尔木兹海峡完全开放",
@@ -719,15 +138,27 @@
           "time_info": "[01时38分 ~ 04时11分]"
         },
         {
-          "title": "美军：全面监视伊朗港口，海上封锁将按需维持",
-          "url": "https://news.ifeng.com/c/8sPeLr0IjwZ",
+          "title": "防以袭击，巴基斯坦出动歼-10护送伊朗谈判代表",
+          "url": "https://news.ifeng.com/c/8sQMpjBNOzV",
           "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[16时09分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32995699",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         },
         {
           "title": "伊朗议长：绝不放弃控制霍尔木兹海峡",
@@ -796,6 +227,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "外媒：巴基斯坦出动20多架飞机，护航伊朗谈判代表回国",
+          "url": "https://flash.jin10.com/detail/20260418151455227800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "欧盟因伊朗战争威胁供应拟推动航空燃料多元化",
           "url": "https://wallstreetcn.com/livenews/3090254",
           "source": "华尔街见闻-快讯",
@@ -807,24 +249,34 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗革命卫队在伊朗全国范围内逮捕了120多人，指控他们为“敌人的袭击”做准备。",
+          "url": "https://flash.jin10.com/detail/20260418151231460800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "伊朗外交部：将伊朗浓缩铀移至国外的选项已被否决",
+          "url": "https://wallstreetcn.com/livenews/3090416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB%E6%9C%9F%E9%97%B4%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
           "ranks": [
             6,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗宣布开放霍尔木兹海峡",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            17
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -855,29 +307,51 @@
           "time_info": "[01时38分 ~ 13时54分]"
         },
         {
-          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32992711",
-          "source": "澎湃新闻",
+          "title": "首次！美军公布对伊朗“海上封锁线”具体位置",
+          "url": "https://news.ifeng.com/c/8sPrb7yFfHA",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            16,
-            15,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         },
         {
-          "title": "伊朗宣布开放霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2470001",
-          "source": "抖音",
+          "title": "美以袭击伊朗进入第 50 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028608066787045428",
+          "source": "知乎",
           "ranks": [
-            16
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时38分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "以军披露对伊朗作战细节：哈梅内伊在内的“40名”高官在第一轮袭击中身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32998877",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗发布霍尔木兹海峡船舶通行新规",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E8%88%B6%E9%80%9A%E8%A1%8C%E6%96%B0%E8%A7%84%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -904,15 +378,15 @@
           "time_info": "[01时38分 ~ 07时11分]"
         },
         {
-          "title": "伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32995699",
-          "source": "澎湃新闻",
+          "title": "伊朗宣布部分空域重新开放",
+          "url": "https://www.toutiao.com/trending/7629983680697470470/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "伊朗称军舰被禁止通过霍尔木兹",
@@ -926,48 +400,50 @@
           "time_info": "[13时53分 ~ 13时54分]"
         },
         {
-          "title": "美以袭击伊朗进入第 50 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028608066787045428",
-          "source": "知乎",
+          "title": "伊朗：已否决将浓缩铀移至国外",
+          "url": "https://www.toutiao.com/trending/7629993183346314761/",
+          "source": "今日头条",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
-          "title": "首次！美军公布对伊朗“海上封锁线”具体位置",
-          "url": "https://news.ifeng.com/c/8sPrb7yFfHA",
-          "source": "凤凰网",
+          "title": "美军：已有21艘船按美军指示掉头返回伊朗",
+          "url": "https://wallstreetcn.com/livenews/3090392",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[13时54分 ~ 16时10分]"
         },
         {
-          "title": "以军披露对伊朗作战细节：哈梅内伊在内的“40名”高官在第一轮袭击中身亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32998877",
-          "source": "澎湃新闻",
+          "title": "伊朗陆军司令：伊斯法罕省行动失败是敌方停火主因",
+          "url": "https://wallstreetcn.com/livenews/3090389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[13时54分 ~ 16时10分]"
         },
         {
-          "title": "伊朗发布霍尔木兹海峡船舶通行新规",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%B9%E8%88%B6%E9%80%9A%E8%A1%8C%E6%96%B0%E8%A7%84%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "伊朗民航组织宣布重新开放部分空域",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E8%88%AA%E7%BB%84%E7%BB%87%E5%AE%A3%E5%B8%83%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E9%83%A8%E5%88%86%E7%A9%BA%E5%9F%9F",
+          "source": "百度热搜",
           "ranks": [
-            20
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "time_info": "[16时09分 ~ 16时10分]"
         },
         {
           "title": "伊朗副外长：不接受临时停火",
@@ -992,6 +468,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "伊朗外交部：将伊朗浓缩铀移至国外的选项已被否决",
+          "url": "https://flash.jin10.com/detail/20260418150626922800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗拒绝将浓缩铀运往国外",
           "url": "https://wallstreetcn.com/livenews/3090310",
           "source": "华尔街见闻-快讯",
@@ -1009,9 +496,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "伊朗民航组织宣布伊朗部分空域重新开放",
+          "url": "https://wallstreetcn.com/livenews/3090412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "【伊朗伊斯兰革命卫队：军用船只仍禁止通过霍尔木兹海峡】伊朗伊斯兰革命卫队海军司令部公布了船舶通过霍尔木兹海峡新规。规定如下: 民用船只只能通过伊朗指定的航线通行。 军用船只仍禁止通过该海峡。 所有船只的航行均须经伊朗伊斯兰革命卫队海军许可。 此项新规符合美以伊临时停火协议以及黎巴嫩（和以色列）停火协议的实施。（央视）",
@@ -1025,15 +523,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "美军：已有21艘船按美军指示掉头返回伊朗",
-          "url": "https://wallstreetcn.com/livenews/3090392",
+          "title": "巴代表团结束对伊朗访问",
+          "url": "https://wallstreetcn.com/livenews/3090411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "16时10分"
         },
         {
           "title": "美军：全面监视伊朗港口，海上封锁将按需维持",
@@ -1047,6 +545,17 @@
           "time_info": "07时11分"
         },
         {
+          "title": "伊朗民航组织宣布伊朗部分空域重新开放",
+          "url": "https://flash.jin10.com/detail/20260418143029194800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗军方宣布今年建军节不举行相关活动",
           "url": "https://wallstreetcn.com/livenews/3090296",
           "source": "华尔街见闻-快讯",
@@ -1058,17 +567,6 @@
           "time_info": "04时11分"
         },
         {
-          "title": "伊朗陆军司令：伊斯法罕省行动失败是敌方停火主因",
-          "url": "https://wallstreetcn.com/livenews/3090389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
           "title": "五艘伊朗关联油轮在赴马途中为躲避美国海军掉头",
           "url": "https://flash.jin10.com/detail/20260418004145952800",
           "source": "金十数据",
@@ -1078,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "巴代表团结束对伊朗访问",
+          "url": "https://flash.jin10.com/detail/20260418142514412800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "赫伯罗特（Hapag-Lloyd）：霍尔木兹海峡的开放是好消息，我们目前仍有一些待解决的问题，但这些问题可能会在接下来的24小时内得到解决。 如果所有未决问题都得到解决（即保险覆盖范围、伊朗政府或军方关于具体使用航道及船只离开顺序的明确指令），我们希望尽快通过该海峡。 我们的危机委员会正在开会，并将努力在接下来的24-36小时内与相关方解决所有未决事项。",
@@ -1122,6 +631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "巴基斯坦军方领导人结束对伊朗为期三天的访问。",
+          "url": "https://flash.jin10.com/detail/20260418142110563800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
         },
         {
           "title": "美国中央司令部：美军仍“紧盯伊朗每一个港口”",
@@ -1201,6 +721,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "据报道，美以对伊朗发动战争的首批袭击目标之一是一个开心果仓库。美国开心果产业从美国数十年来对伊朗的强硬政策中获益。",
+          "url": "https://flash.jin10.com/detail/20260418133853136800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军指挥官：敌人在停火期间试图穿越霍尔木兹海峡，已迫使其撤退。",
           "url": "https://wallstreetcn.com/livenews/3090281",
           "source": "华尔街见闻-快讯",
@@ -1210,6 +741,680 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 59,
+      "titles": [
+        {
+          "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
+          "url": "https://www.cls.cn/detail/2347896",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普最兴奋的一天：三个细节，信息量很大",
+          "url": "https://news.ifeng.com/c/8sPvCLdNSdV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://news.ifeng.com/c/8sQ6YK3SkJH",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗发声：特朗普7项声明“均不属实”，绝不放弃控制霍尔木兹海峡，拒绝将浓缩铀运往国外，不接受临时停火",
+          "url": "https://wallstreetcn.com/articles/3770301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
+          "url": "https://news.ifeng.com/c/8sPFMrNRcR5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://www.cls.cn/detail/2348194",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普称很快发布第一批UFO文件",
+          "url": "https://wallstreetcn.com/livenews/3090367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普认为美伊之间显著分歧不多",
+          "url": "https://news.ifeng.com/c/8sOMvFG8cEL",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国总统特朗普：某天，将把旗插在火星上。",
+          "url": "https://wallstreetcn.com/livenews/3090365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：特朗普1小时内发布7项声明，“均不属实”",
+          "url": "https://wallstreetcn.com/livenews/3090364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普：签了协议再收缴伊朗核材料就不算出兵",
+          "url": "https://flash.jin10.com/detail/20260418132550117800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "伊朗议长：绝不放弃控制霍尔木兹海峡，特朗普妄言摧毁伊朗文明已失败",
+          "url": "https://wallstreetcn.com/livenews/3090314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美国总统特朗普：已经指示战争部长海格塞斯公布不明飞行物（UFO）文件。 文件发布的程序将很快启动。",
+          "url": "https://wallstreetcn.com/livenews/3090363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美国总统特朗普赞赏油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3090361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普强称“伊朗让步了”，伊朗“他撒谎”，投资者：“他在与市场谈判，完全无视伊朗”",
+          "url": "https://wallstreetcn.com/articles/3770302",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普如此命令以色列停火，内塔尼亚胡震惊",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "据AXIOS：特朗普发帖称对黎巴嫩的袭击是“被禁止的”，这一表态震惊了以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260418040259599800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "美媒：以总理对特朗普“禁止”轰炸黎巴嫩帖文感震惊",
+          "url": "https://wallstreetcn.com/livenews/3090404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普称若伊不达成停火或发动打击",
+          "url": "https://wallstreetcn.com/livenews/3090403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普：美国已禁止以色列这样做，适可而止",
+          "url": "https://www.cls.cn/detail/2348149",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
+        },
+        {
+          "title": "伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败",
+          "url": "https://flash.jin10.com/detail/20260418035418019800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%B8%96%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32994886",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗：特朗普7项声明“均不属实”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 13时54分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普：将在周六举行新闻发布会。 新闻发布会与伊朗无关。",
+          "url": "https://wallstreetcn.com/livenews/3090399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时10分]"
+        },
+        {
+          "title": "特朗普：伊朗不会拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3090398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时10分]"
+        },
+        {
+          "title": "美媒：特朗普的支持者受够了，历史性联盟已瓦解",
+          "url": "https://news.ifeng.com/c/8sQIOdLMh3T",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普将于周六上午9点（北京时间21:00）签署一项行政命令。",
+          "url": "https://wallstreetcn.com/livenews/3090397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 16时10分]"
+        },
+        {
+          "title": "市场消息：精神航空（Spirit Airlines）因油价飙升威胁复苏，寻求美国政府援助。精神航空已向特朗普政府申请数亿美元的紧急资金支持。",
+          "url": "https://flash.jin10.com/detail/20260418034616824800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 07时11分]"
+        },
+        {
+          "title": "巴西总统：特朗普不是“世界皇帝”",
+          "url": "https://www.toutiao.com/trending/7629134151015153670/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 13时54分]"
+        },
+        {
+          "title": "特朗普称美伊谈判预计周末举行 有望“一两天内”达成协议",
+          "url": "https://flash.jin10.com/detail/20260418005437062800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
+          "url": "https://flash.jin10.com/detail/20260418040911468800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
+          "url": "https://wallstreetcn.com/livenews/3090356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "【特朗普：美伊谈判预计周末举行，有望“一两天内”达成协议】美国总统特朗普表示，美伊谈判预计将于本周末举行，并称双方“可能在一两天内达成协议”。 特朗普在电话采访中表示，伊朗“希望会面并达成协议”，对谈判进展持乐观态度。同时，他强调在协议正式达成前，不会解除对伊朗的海上封锁，但希望霍尔木兹海峡对所有国家开放。 据了解，尽管双方谈判已取得显著进展，但在关键问题上仍存在分歧，包括伊朗核浓缩暂停期限及浓缩铀库存处理方式。协议讨论内容还包括，美国可能解冻约200亿美元伊朗资产，以换取其放弃高浓铀储备。 此外，特朗普表示，该协议将“让以色列更安全”，并要求以色列停止对黎巴嫩的军事打击。 伊朗方面目前对此暂无回应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3090246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普重申：伊朗方面表示霍尔木兹海峡开放。 （针对霍尔木兹海峡的）海上封锁将继续全面实施，直至与伊朗的交易达成。 与伊朗相关的大部分要点已经达成一致意见。 伊朗问题进程将很快。",
+          "url": "https://wallstreetcn.com/livenews/3090354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "美国总统特朗普声称：我们将赢得中期选举。",
+          "url": "https://wallstreetcn.com/livenews/3090353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "尽管特朗普不断声称胜利，但只有15%的美国人认为他已经实现了对伊朗的战争目标。",
+          "url": "https://flash.jin10.com/detail/20260418144846479800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "特朗普认为美伊之间显著分歧不多",
+          "url": "https://wallstreetcn.com/livenews/3090351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普深夜发帖令手下疲于应对",
+          "url": "https://flash.jin10.com/detail/20260418143347454800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时10分"
+        },
+        {
+          "title": "美国一家上诉法院允许特朗普政府继续建设耗资4亿美元的白宫宴会厅，并定于6月举行听证会，审查华盛顿一名法官叫停该项目的命令。",
+          "url": "https://flash.jin10.com/detail/20260418121258485800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "伊朗官员否认美国总统特朗普有关浓缩铀问题的论调。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3090347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "近日，一个美国代表团在古巴与古巴政府官员举行了会晤，这标志着美古外交势头再度加强。此前，美国总统特朗普威胁要进行干预，而古巴领导人本周也表示，如果这种情况发生，古巴已做好战斗准备。",
+          "url": "https://flash.jin10.com/detail/20260418120110581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美国总统特朗普：有人已经厌倦了胜利吗？",
+          "url": "https://flash.jin10.com/detail/20260418115829475800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "特朗普：与伊朗的会谈可能会在周末进行",
+          "url": "https://wallstreetcn.com/livenews/3090230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普回应美伊信息不一致：因为伊朗也要迎合其他人",
+          "url": "https://flash.jin10.com/detail/20260418115420223800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美国总统特朗普：已经进行了一些非常不错的讨论。 会谈将在本周末继续推进。 与伊朗、黎巴嫩的对话将继续进行。 并不认为与伊朗有太多的分歧。 一旦签署协议，就解除（针对霍尔木兹海峡的）军事封锁。",
+          "url": "https://wallstreetcn.com/livenews/3090338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "特朗普称霍尔木兹海峡不会有收费",
+          "url": "https://flash.jin10.com/detail/20260418113337173800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3090284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "美国总统特朗普在社交媒体上指责西班牙在美国对伊朗的行动中没有配合美国。",
+          "url": "https://flash.jin10.com/detail/20260418032736894800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时11分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称，通过霍尔木兹海峡的船舶无需缴纳任何费用。",
+          "url": "https://flash.jin10.com/detail/20260418112949536800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美国总统特朗普声称，他认为自己可以相信伊朗人。 特使Witkoff、库什纳将参与（下次的）谈判，副总统万斯可能也会前往。（ABC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3090334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -1242,6 +1447,31 @@
           "time_info": "[01时38分 ~ 07时11分]"
         },
         {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时11分 ~ 16时10分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 16时10分]"
+        },
+        {
           "title": "美股收盘：三大股指均涨超1% 纳指13连涨续创新高",
           "url": "https://flash.jin10.com/detail/20260418040102520800",
           "source": "金十数据",
@@ -1252,29 +1482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时11分 ~ 13时54分]"
-        },
-        {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 07时11分]"
         },
         {
           "title": "周五（4月17日），美股存储芯片与硬件供应链指数收涨1.90%，报139.09点，本周累计上涨5.94%。 周五当天，成分股Rambus收涨5.75%，泰瑞达TER涨3.95%，希捷科技涨3%，西部数据、拉姆研究至少涨2.54%，应用材料涨1.81%，SanDisk涨0.17%，美光科技跌0.47%。 信息科技指数涨1.21%，报323.02点，本周累涨10.44%，整体平滑地持续走高。 人工智能（AI）赢家指数涨1.34%，报340.68点，本周累涨8.26%。 AI软件先驱指数涨0.70%，报97.60点，本周累涨15.83%。",
@@ -1338,7 +1545,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1367,8 +1574,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         }
       ]
     },
@@ -1398,11 +1605,12 @@
           "url": "https://www.cls.cn/detail/2348169",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         }
       ]
     },
@@ -1418,8 +1626,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时10分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T04:55:18.116536+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-04-29T08:10:34.771242+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
+          "url": "https://www.cls.cn/detail/2358883",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
         },
         {
           "title": "美国务卿鲁比奥：伊朗将霍尔木兹海峡当作\"经济核武器\"",
@@ -24,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
         },
         {
           "title": "普京：全世界都钦佩伊朗人民抵抗美国",
@@ -36,11 +48,24 @@
           "source": "今日头条",
           "ranks": [
             14,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
         },
         {
           "title": "伊朗警方发现“星链”设备等间谍装备",
@@ -48,17 +73,6 @@
           "source": "百度热搜",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -87,6 +101,17 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 08时10分]"
+        },
+        {
           "title": "伊朗“蚊子舰队”如何控制海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -105,20 +130,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时55分"
+          "time_info": "08时10分"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -127,7 +152,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -138,7 +163,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -160,7 +185,277 @@
           "ranks": [
             25
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美国禁止本国个人或实体向伊朗缴纳霍尔木兹海峡通行费",
+          "url": "https://flash.jin10.com/detail/20260429062409813800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "美情报机构正在研判：若特朗普宣布“胜利”，伊朗将如何反应",
+          "url": "https://flash.jin10.com/detail/20260429075831852800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
+          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "伊朗战争丨受战事影响，特朗普支持率跌至任内新低",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "伊战争引发生活成本担忧，特朗普支持率跌至新低",
+          "url": "https://flash.jin10.com/detail/20260429040434165800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2358895",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "特朗普爆伊朗“崩溃”请求开海峡！伊朗却宣布绝对控制，要求缴纳通行费",
+          "url": "https://flash.jin10.com/detail/20260429072129903800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "美国参议院否决限制特朗普对古巴动武的决议",
+          "url": "https://wallstreetcn.com/livenews/3096062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "美参议院否决限制特朗普对古巴动武决议",
+          "url": "https://flash.jin10.com/detail/20260429071003456800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "美最新民调显示特朗普支持率跌至任内新低",
+          "url": "https://wallstreetcn.com/livenews/3096055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "纪念建国250周年 美国将发行印有特朗普肖像的护照",
+          "url": "https://flash.jin10.com/detail/20260429063235658800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "因与特朗普分歧加剧，美驻乌临时代办将离任",
+          "url": "https://wallstreetcn.com/livenews/3096049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "据CBS：特朗普政府要求对移民申请者进行更严格的安全审查。",
+          "url": "https://flash.jin10.com/detail/20260429062107996800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时55分]"
+        },
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
+          "url": "https://flash.jin10.com/detail/20260429000106014800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时32分"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 08时10分]"
+        },
+        {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时10分"
+        },
+        {
+          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
+          "url": "https://wallstreetcn.com/livenews/3095986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
@@ -177,7 +472,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -188,7 +483,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -199,7 +494,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -210,7 +505,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -221,7 +516,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -254,120 +549,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "甲骨文：对与OpenAI的合作感到非常兴奋。",
-          "url": "https://flash.jin10.com/detail/20260429000106014800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
-          "url": "https://wallstreetcn.com/livenews/3095986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 04时55分]"
-        },
-        {
-          "title": "白宫晚宴提前结束，没上桌的2600份龙虾去哪了？特朗普希望重办",
-          "url": "https://news.ifeng.com/c/8sh8ue4fj2Y",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "伊战争引发生活成本担忧，特朗普支持率跌至新低",
-          "url": "https://flash.jin10.com/detail/20260429040434165800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时55分"
         }

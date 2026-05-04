@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T07:31:10.947722+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-05-04T17:08:50.898461+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 66,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 17时08分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 17时08分]"
         },
         {
           "title": "伊朗尚未证实美国特使威特科夫关于美国正在与德黑兰进行对话的说法。",
@@ -49,7 +51,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -71,7 +73,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -85,6 +87,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "市场消息：伊朗革命卫队海军公布霍尔木兹海峡地区新地图，显示该区域处于伊朗武装力量的控制之下。",
+          "url": "https://flash.jin10.com/detail/20260504164357052800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美国特使威特科夫：华盛顿目前正与伊朗进行对话。",
@@ -332,6 +345,17 @@
           "time_info": "[01时36分 ~ 04时07分]"
         },
         {
+          "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "据沙特哈达斯电视台援引巴基斯坦媒体报道称，美国与伊朗之间的讨论已取得重大进展。",
           "url": "https://flash.jin10.com/detail/20260504033129070800",
           "source": "金十数据",
@@ -341,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
+          "url": "https://wallstreetcn.com/livenews/3098443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "西班牙与伊朗两国外长通话 讨论战争相关事态",
@@ -360,9 +395,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与黎巴嫩之间的签证豁免已被取消。",
+          "url": "https://flash.jin10.com/detail/20260504163018247800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美国已于上周日就结束伊朗战争的潜在协议递送了修订版草案，从而回应伊朗最新提出的建议。（Axios）",
@@ -371,7 +417,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -387,6 +433,39 @@
           "time_info": "01时36分"
         },
         {
+          "title": "乌克兰总统泽连斯基：与伊朗的战争将推高各国的生活成本。",
+          "url": "https://flash.jin10.com/detail/20260504162948176800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "欧洲央行企业调查：油价上涨已迅速传导到大多数依赖石油的商品销售价格上。 如果伊朗战争持续数月，供应链阻碍可能会产生类似疫情时期的通胀压力。 更广泛的价格传导过程可能比过去更为缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗外交部发言人表示，伊朗的14点计划聚焦于结束战争。在此阶段，我们不进行核谈判。",
           "url": "https://flash.jin10.com/detail/20260504005210901800",
           "source": "金十数据",
@@ -398,13 +477,24 @@
           "time_info": "01时36分"
         },
         {
+          "title": "伊朗外交部发言人：美国对停火及任何结束战争协议的承诺也将涵盖以色列。",
+          "url": "https://flash.jin10.com/detail/20260504162841703800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "伊朗：正“审议”美方对14点提议回应，目前谈判不涉核",
           "url": "https://wallstreetcn.com/livenews/3098302",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -418,6 +508,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部：谈判仍在继续，我们已收到美国的回应，将通过巴基斯坦中介宣布我们的立场。",
+          "url": "https://flash.jin10.com/detail/20260504162706274800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "据以色列i24News：美国预计将对伊朗的14点提议作出回应，关键分歧点仍是浓缩铀问题。",
@@ -448,9 +549,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部发言人：任何欧佩克成员以“消极反应”的方式退出该组织都是无益的。 关于确保船只安全通过霍尔木兹海峡的协议，伊朗与阿曼的双边谈判正在进行中。",
+          "url": "https://wallstreetcn.com/livenews/3098433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗议员：霍尔木兹通行许可将经最高领袖批准后转达武装部队",
@@ -464,13 +576,35 @@
           "time_info": "04时07分"
         },
         {
+          "title": "伊朗警告美军不要接近霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7635134540138446854/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国应放弃其众多要求。",
+          "url": "https://flash.jin10.com/detail/20260504161835280800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "以色列总理：要求政府所有部长不得就伊朗问题接受媒体采访",
           "url": "https://wallstreetcn.com/livenews/3098307",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -484,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：对手的非常规谈判策略不会动摇我们的决心，反而会增强我们的决心。",
+          "url": "https://flash.jin10.com/detail/20260504161536274800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗第一副总统：石油部门的持续运作确保了经济稳定，帮助国家克服困难局面。",
@@ -503,7 +648,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -517,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国很难放弃其极端要求。 美国导致结束战争的外交进程缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "伊朗国家石油公司经理：石油工业是战斗的一部分，到目前为止，我们的表现都很成功。",
@@ -536,7 +692,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -558,15 +714,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
+          "url": "https://flash.jin10.com/detail/20260504161322608800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗外交部：我们也是一个超级大国",
+          "url": "https://flash.jin10.com/detail/20260504161204148800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "伊朗外交部发言人：欧洲应该拒绝美国政策，采取独立立场。我们始终欢迎欧洲国家在地区安全和核问题上的建设性参与。",
+          "url": "https://flash.jin10.com/detail/20260504161007921800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普与教皇隔空吵架后，鲁比奥将前往梵蒂冈、意大利",
@@ -604,6 +793,40 @@
           "time_info": "[01时36分 ~ 07时31分]"
         },
         {
+          "title": "美财长保证特朗普访华不会再推迟",
+          "url": "https://news.ifeng.com/c/8sqceV545op",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
+          "url": "https://www.cls.cn/detail/2362106",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 17时08分]"
+        },
+        {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "扣船抢油！特朗普不装了：“我们简直就是海盗”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33093469",
           "source": "澎湃新闻",
@@ -614,6 +837,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时36分 ~ 07时31分]"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -646,7 +880,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -658,17 +892,6 @@
             8,
             14,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时36分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
-          "url": "https://www.cls.cn/detail/2362106",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -730,13 +953,35 @@
           "time_info": "[07时30分 ~ 07时31分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "特朗普：美国将开展霍尔木兹海峡被困船只疏导行动",
           "url": "https://wallstreetcn.com/livenews/3098312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -747,7 +992,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -769,7 +1014,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -780,9 +1025,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "四道难关近在眼前 特朗普怎么过",
+          "url": "https://www.toutiao.com/trending/7634889469027581971/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "特朗普称伊朗的“新提议”不可接受",
@@ -802,7 +1058,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -813,7 +1069,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -835,7 +1091,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -862,13 +1118,24 @@
           "time_info": "04时07分"
         },
         {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
           "title": "特朗普的美国检察官终止调查，但仍对美联储主席鲍威尔施压",
           "url": "https://wallstreetcn.com/livenews/3098310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -879,7 +1146,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -887,7 +1154,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
@@ -895,11 +1162,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时06分 ~ 07时31分]"
+          "appearance_count": 5,
+          "time_info": "[04时06分 ~ 17时08分]"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -908,9 +1187,60 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价又又又跌了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%8F%88%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
+          "url": "https://wallstreetcn.com/articles/3771530",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     }

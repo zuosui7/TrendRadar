@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T00:56:43.827928+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-11T01:54:02.927879+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗战争丨超20艘美国军舰参与封锁伊朗任务",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
@@ -26,129 +26,102 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
-          "url": "https://flash.jin10.com/detail/20260511002959971800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
           "url": "https://wallstreetcn.com/livenews/3101146",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
-          "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
-          "url": "https://flash.jin10.com/detail/20260511002628333800",
+          "title": "专家警告：伊朗与美国全面和平协议“遥遥无期”",
+          "url": "https://flash.jin10.com/detail/20260511013416424800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时54分"
         },
         {
-          "title": "海事分析公司：伊朗可能正用快艇护航船只",
-          "url": "https://wallstreetcn.com/livenews/3101143",
-          "source": "华尔街见闻-快讯",
+          "title": "巴林王国谴责伊朗对阿联酋的持续公然攻击。",
+          "url": "https://flash.jin10.com/detail/20260511012236852800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时54分"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
           "url": "https://www.cls.cn/detail/2367306",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
-          "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
-          "url": "https://flash.jin10.com/detail/20260511002527478800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://wallstreetcn.com/livenews/3101140",
+          "title": "海事分析公司：伊朗可能正用快艇护航船只",
+          "url": "https://wallstreetcn.com/livenews/3101143",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
-          "title": "美国能源部长：与伊朗达成的分阶段协议可能无法解决与核计划相关的所有担忧。",
-          "url": "https://flash.jin10.com/detail/20260511002349240800",
+          "title": "内塔尼亚胡：美以对伊朗的军事行动尚未结束",
+          "url": "https://flash.jin10.com/detail/20260511002959971800",
           "source": "金十数据",
           "ranks": [
-            7
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
-          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
-          "url": "https://wallstreetcn.com/livenews/3101138",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长：法英勿加剧危机 只有伊朗能保障霍尔木兹海峡安全",
+          "url": "https://flash.jin10.com/detail/20260511002628333800",
+          "source": "金十数据",
           "ranks": [
-            8
+            4,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33148644",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "阿联酋称拦截伊朗导弹和无人机",
-          "url": "https://wallstreetcn.com/livenews/3101133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -158,19 +131,160 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
+          "url": "https://flash.jin10.com/detail/20260511002527478800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "美国能源部长：与伊朗达成的分阶段协议可能无法解决与核计划相关的所有担忧。",
+          "url": "https://flash.jin10.com/detail/20260511002349240800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
+          "url": "https://wallstreetcn.com/livenews/3101138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "阿联酋称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3101133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
           "url": "https://wallstreetcn.com/livenews/3101127",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://wallstreetcn.com/livenews/3101114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "美国驻联合国大使：伊朗不能将世界经济作为人质。",
+          "url": "https://flash.jin10.com/detail/20260511010410524800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国驻联合国大使：我们对伊朗的红线非常明确。",
+          "url": "https://flash.jin10.com/detail/20260511010402974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国驻联合国大使：正在研究由巴基斯坦转交的伊朗回应。",
+          "url": "https://flash.jin10.com/detail/20260511010349520800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "法国总统马克龙回应伊朗对法英军舰的警告，表示不存在部署问题，但随时准备为国际使命提供协助。",
+          "url": "https://flash.jin10.com/detail/20260511005346732800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         },
         {
           "title": "美国能源部长：目标不是移除伊朗的浓缩铀，而是结束伊朗的核计划。",
@@ -209,17 +323,6 @@
           "title": "据法新社：以色列总理本雅明·内塔尼亚胡周日在接受采访时表示，只有将伊朗的浓缩铀库存“清除掉”，美以对伊朗的战争才算真正结束。",
           "url": "https://flash.jin10.com/detail/20260510233703874800",
           "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗称若敌人再袭将进入新作战领域",
-          "url": "https://wallstreetcn.com/livenews/3101114",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
@@ -272,17 +375,6 @@
           "time_info": "00时56分"
         },
         {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
           "title": "伊朗副外长：海洋安全不能通过军事力量的展示来实现。不安全的根源在于诉诸武力、对沿海国家的持续威胁以及海上封锁。",
           "url": "https://flash.jin10.com/detail/20260510232149952800",
           "source": "金十数据",
@@ -299,17 +391,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
-        },
-        {
-          "title": "伊朗已回应美国提出的结束战争方案",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E6%96%B9%E6%A1%88",
-          "source": "百度热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -341,7 +422,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 大范围开放识图模式，你能用了吗？体验感如何？",
@@ -351,8 +432,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -362,19 +443,31 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时56分"
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
+        },
+        {
+          "title": "Kimi与DeepSeek到底谁更值钱",
+          "url": "https://www.toutiao.com/trending/7638234526786784804/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时53分 ~ 01时54分]"
         }
       ]
     },
@@ -407,8 +500,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时56分 ~ 01时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.75%，暂报3056.02点，逼近2月4日顶部3104.13点、1月31日顶部3352.34点，1月11曾拉升至6268.44点。 MarketVectorTM数字资产100中盘指数涨3.40%，报3325.00点，逼近1月29日顶部3518.94点，2025年11月11日顶部在5063.12点。 MarketVector数字资产100指数涨1.20%，报16100.89点。 目前，Solana涨1.44%，狗狗币跌0.21%，XRP涨3.30%。 比特币涨0.59%，暂报81338.26美元，最近三天迄今累涨1.84%，整体持续走高；以太坊涨0.87%，暂报2349.68美元，最近三天迄今累涨2.66%。",
+          "url": "https://wallstreetcn.com/livenews/3101148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时56分"
+          "time_info": "01时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
+          "url": "https://flash.jin10.com/detail/20260511010532862800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时54分"
         }
       ]
     }

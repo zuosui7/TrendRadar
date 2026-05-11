@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-12T06:54:52.241644+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-05-12T07:59:04.746962+08:00",
+  "total_titles_processed": 611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 47,
       "titles": [
-        {
-          "title": "外交部介绍特朗普访华安排和中方期待",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
-        },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
           "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
@@ -27,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -36,11 +25,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -50,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -63,19 +53,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
           "url": "https://wallstreetcn.com/articles/3771940",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -83,6 +74,17 @@
           "source": "bilibili 热搜",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华安排和中方期待",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
+          "source": "百度热搜",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -97,19 +99,53 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://wallstreetcn.com/livenews/3101894",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时47分 ~ 07时59分]"
+        },
+        {
+          "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
+          "url": "https://www.cls.cn/detail/2368498",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "美国参议院少数党领袖：特朗普将美国拖入战争 民主党将继续推动撤军",
+          "url": "https://flash.jin10.com/detail/20260512074149753800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时59分"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -123,15 +159,16 @@
           "time_info": "01时25分"
         },
         {
-          "title": "特朗普5月13日至15日访华",
-          "url": "https://www.toutiao.com/trending/7638433306853281331/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://wallstreetcn.com/livenews/3101894",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 06时54分]"
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时59分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -144,6 +181,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 03时48分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
+          "url": "https://www.cls.cn/detail/2368480",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
+          "url": "https://wallstreetcn.com/livenews/3101903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -196,9 +266,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
+          "url": "https://flash.jin10.com/detail/20260512071238628800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
@@ -240,7 +321,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -267,6 +348,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "“命悬一线”！特朗普宣布美伊停火濒临崩溃，正权衡对伊朗恢复军事行动",
+          "url": "https://flash.jin10.com/detail/20260512065204690800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美国总统特朗普：我们需要更多关税。",
           "url": "https://flash.jin10.com/detail/20260512042137003800",
           "source": "金十数据",
@@ -284,7 +376,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -309,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：参议院共和党上周公布的720亿美元和解法案充分暴露了他们的优先事项：在毫无监管约束的情况下向ICE和边境巡逻队注入数百万美元资金，同时动用10亿美元纳税人钱款为特朗普修建金碧辉煌的宴会厅，而帮助美国民众应对不断攀升的生活成本的拨款却是零。这是可耻的，民主党人将动用我们手中的一切工具来阻止这项法案。",
+          "url": "https://flash.jin10.com/detail/20260512064933935800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "【特朗普：“停火协议已岌岌可危”】美国总统特朗普5月11日在白宫对媒体表示，伊朗对美国所提方案的回应“愚蠢”，“停火协议已岌岌可危”。 (CCTV国际时讯)",
@@ -342,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://flash.jin10.com/detail/20260512064331490800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国总统特朗普：正在努力降低牛肉价格。",
@@ -424,7 +538,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -434,8 +548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -445,19 +559,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
           "url": "https://wallstreetcn.com/articles/3771985",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
+        },
+        {
+          "title": "美国悬赏1500万美元 打击伊朗革命卫队资金网络",
+          "url": "https://wallstreetcn.com/livenews/3101907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "伊朗议长：“14点提案”无可替代",
@@ -505,6 +631,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "美国悬赏1500万美元 打击伊朗革命卫队资金网络",
+          "url": "https://flash.jin10.com/detail/20260512072604615800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
           "title": "美国财政部：发布新的伊朗相关制裁。",
           "url": "https://flash.jin10.com/detail/20260512030237856800",
           "source": "金十数据",
@@ -514,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "“隐形守护者”入局：伊朗小型潜艇下场，霍尔木兹控制权争夺白热化",
+          "url": "https://flash.jin10.com/detail/20260512072138187800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
@@ -624,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗负责法律事务的副外长加里巴巴迪与挪威副外长、金砖国家新开发银行行长以及法国大使举行了会谈。",
+          "url": "https://flash.jin10.com/detail/20260512065041058800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
@@ -758,11 +917,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时24分 ~ 06时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时24分 ~ 07时59分]"
         },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
@@ -782,20 +942,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时59分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
           "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 07时59分]"
         },
         {
           "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
@@ -827,7 +988,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -972,6 +1133,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
+          "url": "https://flash.jin10.com/detail/20260512065650611800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -981,23 +1170,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
-          "url": "https://flash.jin10.com/detail/20260512044813399800",
-          "source": "金十数据",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,

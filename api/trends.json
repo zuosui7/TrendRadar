@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-17T07:53:25.880767+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-05-17T10:59:50.959457+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
+        },
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
           "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
@@ -15,19 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
-        },
-        {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -45,23 +46,12 @@
           "url": "https://wallstreetcn.com/livenews/3104817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时04分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
-          "url": "https://wallstreetcn.com/livenews/3104818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时04分 ~ 07时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时04分 ~ 10时59分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -70,11 +60,12 @@
           "ranks": [
             6,
             11,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 10时59分]"
         },
         {
           "title": "伊朗一机油工厂发生火灾",
@@ -83,11 +74,25 @@
           "ranks": [
             9,
             14,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时01分 ~ 10时59分]"
+        },
+        {
+          "title": "伊朗：已制定管理霍尔木兹海峡指定航道的专业机制",
+          "url": "https://wallstreetcn.com/livenews/3104818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 07时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时04分 ~ 10时59分]"
         },
         {
           "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
@@ -134,11 +139,12 @@
           "url": "https://wallstreetcn.com/livenews/3104819",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时46分 ~ 07时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时46分 ~ 10时59分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
@@ -240,6 +246,17 @@
           "time_info": "[00时01分 ~ 01时09分]"
         },
         {
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：受霍尔木兹海峡中断的影响，沙特石油产量降至1990年以来的最低水平。",
           "url": "https://flash.jin10.com/detail/20260517001617335800",
           "source": "金十数据",
@@ -251,6 +268,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
+          "url": "https://wallstreetcn.com/articles/3772420",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
           "url": "https://flash.jin10.com/detail/20260517000542291800",
           "source": "金十数据",
@@ -260,6 +288,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "德专家：美以对伊朗军事行动影响德国经济复苏",
+          "url": "https://flash.jin10.com/detail/20260517094714697800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
@@ -295,6 +356,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "伊朗战争推高油价，加剧美国贫富分化",
+          "url": "https://flash.jin10.com/detail/20260517082001664800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国官员怂恿阿联酋夺取伊朗的关键岛屿",
           "url": "https://flash.jin10.com/detail/20260517004855407800",
           "source": "金十数据",
@@ -315,12 +387,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "据伊朗国际电视台：伊朗推出了一项针对途经霍尔木兹海峡船只的新海上保险平台。据相关报道，该系统提供数字化保险保单。",
+          "url": "https://flash.jin10.com/detail/20260517061552694800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -330,19 +413,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "特朗普警告台独",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -352,8 +436,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -363,11 +447,12 @@
             9,
             7,
             5,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "“不考虑美国人经济状况”，特朗普：完美的表态，我可以再说一遍",
@@ -377,19 +462,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
           "url": "https://www.toutiao.com/trending/7640462139869630015/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "外交部就特朗普访华情况答记者问",
@@ -402,19 +488,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "特朗普谈中国行：巨大成功 非常精彩",
           "url": "https://www.toutiao.com/trending/7639309598792663066/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "特朗普结束访华后，明确表示「不希望看到（台湾）有人走向独立」，这一表态有多关键？",
@@ -424,8 +511,30 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美参议院官员删除特朗普白宫宴会厅安保资金条款",
+          "url": "https://flash.jin10.com/detail/20260517102530488800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -439,6 +548,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时53分]"
+        },
+        {
+          "title": "美国民主党人表示，美国参议院一名官员已将特朗普白宫宴会厅项目的拨款从共和党支出方案中删除。",
+          "url": "https://flash.jin10.com/detail/20260517102035886800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "台舆论称特朗普不许台独视美为靠山",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%88%86%E8%AE%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%AE%B8%E5%8F%B0%E7%8B%AC%E8%A7%86%E7%BE%8E%E4%B8%BA%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -502,6 +633,28 @@
           "time_info": "[00时00分 ~ 00时01分]"
         },
         {
+          "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
+          "url": "https://wallstreetcn.com/livenews/3104824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "美国参议院少数党领袖抨击共和党推动特朗普宴会厅计划",
+          "url": "https://flash.jin10.com/detail/20260517093403715800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
           "url": "https://flash.jin10.com/detail/20260517010131045800",
           "source": "金十数据",
@@ -511,12 +664,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普警告“台独”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "原油大涨掀债市抛售潮，美股回落，英伟达跌超4%，长债收益率创数年新高，金属重挫",
@@ -540,8 +704,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -552,11 +716,23 @@
             11,
             9,
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时09分 ~ 07时53分]"
+          "appearance_count": 8,
+          "time_info": "[01时09分 ~ 10时59分]"
+        },
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -645,11 +821,12 @@
           "url": "https://www.cls.cn/detail/2373036",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 07时53分]"
+          "appearance_count": 10,
+          "time_info": "[00时00分 ~ 10时59分]"
         }
       ]
     }

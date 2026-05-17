@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T00:02:23.738392+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-18T01:09:31.770245+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -26,19 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
           "url": "https://flash.jin10.com/detail/20260517233910090800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -48,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -59,19 +60,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
           "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -81,19 +83,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "美媒：伊朗计划收取霍尔木兹海峡海底光缆通行费",
           "url": "https://flash.jin10.com/detail/20260517233156883800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -102,9 +105,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
@@ -113,9 +116,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
@@ -124,9 +127,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "伊朗称美方对伊朗提出5个关键条件",
@@ -135,37 +138,116 @@
           "ranks": [
             27
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时09分]"
+        },
+        {
+          "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
+          "url": "https://flash.jin10.com/detail/20260518003743507800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时09分"
+        },
+        {
+          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260518001615603800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
+          "url": "https://flash.jin10.com/detail/20260518000250093800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
+          "url": "https://flash.jin10.com/detail/20260518000116788800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
+          "url": "https://flash.jin10.com/detail/20260517235350901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
+          "url": "https://flash.jin10.com/detail/20260518005103401800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
+          "url": "https://flash.jin10.com/detail/20260518004343934800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
         {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
           "url": "https://www.toutiao.com/trending/7640276210946179115/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -175,8 +257,20 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
+        },
+        {
+          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517233453161800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "time_info": "[00时02分 ~ 01时09分]"
         },
         {
           "title": "国民党副主席回应特朗普涉台表态",
@@ -190,15 +284,15 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
-          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260517233453161800",
+          "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
+          "url": "https://flash.jin10.com/detail/20260518001435288800",
           "source": "金十数据",
           "ranks": [
-            6
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时09分"
         },
         {
           "title": "韩国青瓦台：韩国总统李在明与美国总统特朗普讨论了韩美联合事实清单。",
@@ -207,7 +301,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
         }
@@ -225,8 +319,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         }
       ]
     },
@@ -242,8 +336,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         }
       ]
     },
@@ -256,11 +350,12 @@
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时09分]"
         }
       ]
     }

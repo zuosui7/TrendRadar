@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-18T07:58:19.816181+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-18T12:02:22.117863+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
           "url": "https://wallstreetcn.com/articles/3772457",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 12时02分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -28,6 +29,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 05时56分]"
+        },
+        {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 12时02分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -46,20 +61,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时58分]"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -307,6 +308,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "伊朗和法国外长讨论外交动态。",
+          "url": "https://wallstreetcn.com/livenews/3105074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
           "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
           "url": "https://flash.jin10.com/detail/20260518000116788800",
           "source": "金十数据",
@@ -346,7 +358,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -354,7 +366,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
         {
           "title": "岛内称特朗普警告“台独”重击赖当局",
@@ -362,11 +374,12 @@
           "source": "今日头条",
           "ranks": [
             15,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时58分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 12时02分]"
         },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -383,6 +396,17 @@
           "time_info": "[00时01分 ~ 06时54分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
           "title": "特朗普访华后续观察",
           "url": "https://www.douyin.com/hot/2502108",
           "source": "抖音",
@@ -394,6 +418,39 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时01分 ~ 05时56分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         },
         {
           "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
@@ -413,7 +470,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -530,6 +587,17 @@
           "time_info": "[03时08分 ~ 04时51分]"
         },
         {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
+        },
+        {
           "title": "国民党副主席回应特朗普涉台表态",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E6%B0%91%E5%85%9A%E5%89%AF%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
           "source": "百度热搜",
@@ -592,7 +660,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -690,15 +758,54 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通：将2026年平均金价预测从5708美元/盎司下调至5243美元/盎司。 随着下半年需求重新加速，基准预测下仍看好年底金价冲向6000美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3105091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "摩根大通：因2026年下半年需求重新加速，基本情景仍然预计到年底黄金价格将达到6000美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518112611087800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "摩根大通：将2026年平均黄金价格预测下调5243美元/盎司，之前为5708美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260518112516148800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -716,17 +823,29 @@
           "url": "https://wallstreetcn.com/articles/3772455",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时54分 ~ 12时02分]"
+        },
+        {
+          "title": "Man Group首席市场策略师Kristina Hooper：日本投资者对当前日债收益率水平充满热情，这将促使更多资金流入日本国内债券市场。但此举将推高其他市场的收益率，尤其会推高美债等资产的收益率。",
+          "url": "https://flash.jin10.com/detail/20260518111033074800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "12时02分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -738,6 +857,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 07时58分]"
+        },
+        {
+          "title": "本周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时01分 ~ 12时02分]"
         }
       ]
     }

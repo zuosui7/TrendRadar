@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-05-22T07:04:38.864732+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-05-22T11:36:50.274449+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 11时36分]"
+        },
         {
           "title": "中方回应特朗普称将与赖清德对话",
           "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时04分]"
-        },
-        {
-          "title": "特朗普称将与赖清德谈对台军售，外交部：敦促美方兑现所作承诺和表态",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205095",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -68,11 +69,45 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205325",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时04分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 11时36分]"
+        },
+        {
+          "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
+          "url": "https://news.ifeng.com/c/8tHcLpLqPgM",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特朗普：历任美国总统都想干预古巴，这次轮到我来做",
+          "url": "https://v.ifeng.com/c/8tHcLpLqPgU",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特朗普若购格陵兰岛，将面临什么国内障碍？",
+          "url": "https://news.ifeng.com/c/8tKJKXPcRAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "消息人士称，美国国土安全部部长马林警告航空公司高管，特朗普政府可能暂停部分“庇护城市”机场的国际旅行处理服务。",
@@ -135,13 +170,57 @@
           "time_info": "[05时45分 ~ 07时04分]"
         },
         {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "美国欲在古巴重演“委内瑞拉剧本”？专家：特朗普另有图谋",
+          "url": "https://news.ifeng.com/c/8tJqOjVcrpo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "特朗普政府押注量子计算，20亿美元换股权！",
+          "url": "https://flash.jin10.com/detail/20260522111058966800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "俄方不排除普京与特朗普11月在华会晤",
+          "url": "https://www.toutiao.com/trending/7642226694478856198/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "美伊表态愿意谈判，报道称5月底举行，特朗普与内塔尼亚胡“激烈通话”",
           "url": "https://wallstreetcn.com/articles/3772759",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -163,9 +242,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "特朗普儿媳再忆中国行直呼震撼",
+          "url": "https://www.toutiao.com/trending/7641561881347309611/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
@@ -281,8 +371,34 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时01分 ~ 11时36分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 11时36分]"
+        },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
           "url": "https://flash.jin10.com/detail/20260522013314516800",
@@ -301,7 +417,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -312,17 +428,6 @@
           "ranks": [
             20,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时04分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -351,19 +456,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 04时01分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时01分 ~ 07时04分]"
         },
         {
           "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
@@ -401,6 +493,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "据伊朗劳工通讯社（ILNA）援引阿拉伯卫星电视台消息，在巴基斯坦斡旋下，美伊协议的最终草案已经达成，预计将在未来数小时内公布。",
           "url": "https://flash.jin10.com/detail/20260522011839860800",
           "source": "金十数据",
@@ -418,7 +521,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -470,7 +573,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股盘中）",
@@ -494,6 +597,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 04时01分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时04分 ~ 11时36分]"
         },
         {
           "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
@@ -532,17 +647,6 @@
           "time_info": "[05时45分 ~ 07时04分]"
         },
         {
-          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
-          "url": "https://www.cls.cn/detail/2378488",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时04分"
-        },
-        {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260522010102692800",
           "source": "金十数据",
@@ -563,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "传美伊协议最终草案达成，原油应声跳水、美股股指探底回升，但传闻随即遭阿拉伯电视台驳斥；北京时间今晚11点，沃什宣誓履新美联储主席......当前金银卖出信号强烈、美油空头占比上升，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260522104812089800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
@@ -610,7 +725,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
         },
@@ -662,7 +777,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -686,6 +801,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时58分 ~ 05时45分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "传美伊最终协议草案达成 美债收益率走低",
@@ -786,7 +912,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "不小心把DeepSeek叫成豆包",
@@ -799,6 +925,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时58分 ~ 07时04分]"
+        },
+        {
+          "title": "DeepSeek引入API并发限制",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%95%E5%85%A5API%E5%B9%B6%E5%8F%91%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月22日（周五）上海金早盘价为992.7元/克，较国际金价(988.9元/克)，高3.8元/克",
+          "url": "https://flash.jin10.com/detail/20260522110439298800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     }

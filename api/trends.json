@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T08:07:56.770523+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-05-23T12:41:17.600066+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -109,6 +109,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美联储新主席宣誓！特朗普呼吁“要遏制通胀，不要遏制伟大”，沃什表态要做格林斯潘",
+          "url": "https://wallstreetcn.com/articles/3772951",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国总统特朗普：股市上涨，说明他们（市场）喜欢沃什。",
           "url": "https://wallstreetcn.com/livenews/3108162",
           "source": "华尔街见闻-快讯",
@@ -144,6 +155,18 @@
           "time_info": "[04时44分 ~ 06时09分]"
         },
         {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 12时41分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
           "url": "https://wallstreetcn.com/livenews/3108245",
           "source": "华尔街见闻-快讯",
@@ -154,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时09分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
+          "url": "https://news.ifeng.com/c/8tMHNGJri8m",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
@@ -211,6 +245,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "如何看特朗普家族获得豁免",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%8E%B7%E5%BE%97%E8%B1%81%E5%85%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国总统特朗普：没有人比沃什更适合领导美联储。",
           "url": "https://flash.jin10.com/detail/20260522235325088800",
           "source": "金十数据",
@@ -244,17 +289,6 @@
           "time_info": "02时55分"
         },
         {
-          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
-          "url": "https://wallstreetcn.com/articles/3772950",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "美国总统特朗普：预计沃什将成为一位伟大的美联储主席。",
           "url": "https://flash.jin10.com/detail/20260522234826295800",
           "source": "金十数据",
@@ -275,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "金十提示：美国总统特朗普与美联储主席提名人沃什进入会场。",
@@ -321,6 +366,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -330,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
+          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "特朗普向沃什施压",
@@ -379,18 +446,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 36,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
           "url": "https://news.ifeng.com/c/8tKwzchzUFC",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时07分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时41分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -413,6 +481,61 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时44分 ~ 08时07分]"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长与伊朗外长深夜会晤 讨论防止局势升级等议题",
+          "url": "https://flash.jin10.com/detail/20260523120953607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://wallstreetcn.com/livenews/3108310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://flash.jin10.com/detail/20260523114721102800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://wallstreetcn.com/livenews/3108305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
@@ -450,6 +573,28 @@
           "time_info": "[04时44分 ~ 08时07分]"
         },
         {
+          "title": "伊朗关闭西部空域",
+          "url": "https://wallstreetcn.com/livenews/3108304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "伊朗关闭西部空域",
+          "url": "https://news.ifeng.com/c/8tMBeOfwbPm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "媒体称美伊已就核问题的总体框架达成谅解 伊朗外交部紧急辟谣",
           "url": "https://flash.jin10.com/detail/20260523015051423800",
           "source": "金十数据",
@@ -459,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://news.ifeng.com/c/8tMFvbzrOEf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗外交部发言人：如果我们试图深入探讨与伊朗高度浓缩铀相关的细节，将无法得出结论。",
@@ -505,6 +661,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://flash.jin10.com/detail/20260523104708612800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，目前阶段未讨论与核问题相关的细节。",
           "url": "https://flash.jin10.com/detail/20260523013343176800",
           "source": "金十数据",
@@ -514,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "伊朗西部大部分机场暂时关闭",
+          "url": "https://flash.jin10.com/detail/20260523104258356800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人称，我们不能说经过几周或几个月的几次访问或会谈之后就一定能够得出结论，外交是需要时间的",
@@ -604,6 +782,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "伊朗外交部发言人：来自卡塔尔的代表团目前正在与伊朗外交部长进行会谈，但巴基斯坦方面仍是谈判中的调解方。",
           "url": "https://flash.jin10.com/detail/20260523012228131800",
           "source": "金十数据",
@@ -637,6 +826,17 @@
           "time_info": "04时44分"
         },
         {
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗外交部发言人称，我们不能说已经到了接近达成协议的阶段。",
           "url": "https://flash.jin10.com/detail/20260523012045149800",
           "source": "金十数据",
@@ -651,19 +851,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
-          "url": "https://wallstreetcn.com/livenews/3108276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260523021145540800",
@@ -682,7 +871,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
         },
@@ -696,6 +885,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 12时41分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 12时41分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股收盘）",
@@ -731,17 +944,6 @@
           "time_info": "[04时44分 ~ 08时07分]"
         },
         {
-          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
-          "url": "https://www.cls.cn/detail/2379649",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
-        },
-        {
           "title": "美股量子计算概念股延续强势，Infeqtion涨近20%",
           "url": "https://wallstreetcn.com/livenews/3108158",
           "source": "华尔街见闻-快讯",
@@ -762,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "本周美股存储芯片指数涨超3.3%，希捷股价八周超过翻倍",
+          "url": "https://wallstreetcn.com/livenews/3108278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -769,6 +982,18 @@
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 12时41分]"
+        },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
           "url": "https://wallstreetcn.com/articles/3772777",
@@ -779,17 +1004,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 06时09分]"
-        },
-        {
-          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
-          "url": "https://wallstreetcn.com/articles/3772907",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时07分"
         },
         {
           "title": "周五（5月22日）纽约尾盘，美国10年期基准国债收益率跌1.18个基点，报4.5578%，美联储理事沃勒讲话之前，在北京时间21:16刷新日低至4.5241%，沃什讲话后继续反弹，22:50刷新日高至4.5837%，凯文·沃什在00:00宣誓就任美联储主席的前后高位企稳，本周累计下跌3.55个基点，整体交投于4.6853%-4.5241%。 两年期美债收益率涨3.79个基点，报4.1210%，也在美股开盘之前刷新日低至4.0505%，沃什讲话后持续走高，沃什宣誓就职之际、在00:05刷新日高至4.1423%，本周累涨5.22个基点，5月20日23:00曾跳水至4.0085%。",
@@ -809,9 +1023,67 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
+          "url": "https://www.zhihu.com/question/2041260640740927118",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 12时41分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -840,24 +1112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
-          "url": "https://www.zhihu.com/question/2041260640740927118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 08时07分]"
         }
       ]
     },

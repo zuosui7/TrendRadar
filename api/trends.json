@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T07:17:40.368949+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-05-28T11:32:54.073868+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -63,6 +74,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "美国总统特朗普：昨晚的初步结果是“中期选举的序幕”。",
           "url": "https://flash.jin10.com/detail/20260528000806685800",
           "source": "金十数据",
@@ -85,6 +107,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
+          "url": "https://www.cls.cn/detail/2383563",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
           "url": "https://flash.jin10.com/detail/20260528000717180800",
           "source": "金十数据",
@@ -102,7 +135,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -148,7 +181,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -162,6 +195,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "美国总统特朗普：伊朗以为他们能拖住我，但事实并非如此。",
@@ -192,7 +236,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -302,7 +346,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -368,7 +412,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -431,7 +475,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -483,22 +527,35 @@
           "url": "https://wallstreetcn.com/articles/3773227",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 11时32分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
           "url": "https://wallstreetcn.com/articles/3773253",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 11时32分]"
+        },
+        {
+          "title": "伊朗先发制人了",
+          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -513,13 +570,35 @@
           "time_info": "[00时37分 ~ 07时17分]"
         },
         {
+          "title": "伊朗革命卫队称对美空军基地进行打击",
+          "url": "https://wallstreetcn.com/livenews/3110422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
+          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "伊朗阿巴斯港发生爆炸 防空系统启动数分钟",
           "url": "https://flash.jin10.com/detail/20260528064119637800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -530,9 +609,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美国伊朗开始爆发直接冲突",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "伊朗阿巴斯港消息人士称，听到远处传来三四声爆炸声，听起来和几天前晚上（发生爆炸）的方向一样。",
@@ -541,7 +631,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -563,7 +653,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -577,6 +667,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "美媒：美军再次短暂空袭伊朗",
+          "url": "https://www.toutiao.com/trending/7644203153613488174/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043104464907629617",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "伊朗阿巴斯港附近传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "欧洲央行首席经济学家：伊朗战争将对通胀产生持久影响",
+          "url": "https://flash.jin10.com/detail/20260528105508319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "伊朗南部发生能源设施装置事故致1死2伤",
@@ -601,6 +735,39 @@
           "time_info": "00时37分"
         },
         {
+          "title": "消息人士：4艘船在伊朗海军鸣枪示警后被迫返航",
+          "url": "https://wallstreetcn.com/livenews/3110386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
+          "url": "https://wallstreetcn.com/livenews/3110377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "美国政府当地时间27日将伊朗新设立的“波斯湾海峡管理局”列入制裁名单。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3110374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "美军事力量将撤出伊朗周边",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E4%BA%8B%E5%8A%9B%E9%87%8F%E5%B0%86%E6%92%A4%E5%87%BA%E4%BC%8A%E6%9C%97%E5%91%A8%E8%BE%B9%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -615,7 +782,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -638,8 +805,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 11时32分]"
+        },
+        {
+          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         },
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油大跌5%，黄金一度跌2%",
@@ -648,9 +826,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
+          "url": "https://www.cls.cn/detail/2383514",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时17分 ~ 11时32分]"
         },
         {
           "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
@@ -674,17 +864,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时37分 ~ 03时25分]"
-        },
-        {
-          "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
-          "url": "https://www.cls.cn/detail/2383514",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
         },
         {
           "title": "现货黄金跌约1.2%，美股盘前逼近4400美元",
@@ -726,7 +905,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
         },
@@ -755,36 +934,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌工程师因涉嫌在Polymarket预测市场进行内幕交易遭起诉",
-          "url": "https://wallstreetcn.com/livenews/3110297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
-          "url": "https://flash.jin10.com/detail/20260528062625089800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
@@ -798,6 +949,17 @@
           "time_info": "03时25分"
         },
         {
+          "title": "美债遭遇“百年最惨熊市”，“末日博士”彼得·希夫：真正的危机才刚开始",
+          "url": "https://wallstreetcn.com/articles/3773219",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
           "title": "大摩：对冲基金青睐的美债策略正在收缩，反映出获利机会稀缺",
           "url": "https://wallstreetcn.com/livenews/3110178",
           "source": "华尔街见闻-快讯",
@@ -807,6 +969,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "DeepSeek网页及API服务中断",
+          "url": "https://flash.jin10.com/detail/20260528105210417800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌工程师因涉嫌在Polymarket预测市场进行内幕交易遭起诉",
+          "url": "https://wallstreetcn.com/livenews/3110297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时32分"
         }
       ]
     }

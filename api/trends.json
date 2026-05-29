@@ -1,103 +1,33 @@
 {
-  "generated_at": "2026-05-29T23:29:24.605059+08:00",
-  "total_titles_processed": 1277,
+  "generated_at": "2026-05-30T02:32:59.937772+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 19时31分]"
-        },
-        {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时36分 ~ 15时56分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：西方消息人士称伊朗与美国之间的谅解备忘录已达成的报道不属实。伊朗尚未通知巴基斯坦调解方文本已最终确定，一旦最终确定，伊朗将向巴基斯坦调解方和公众宣布此事。",
-          "url": "https://flash.jin10.com/detail/20260529022207681800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美国中央司令部：伊朗国家电视台声称伊朗军队在布什尔附近击落了一架美国飞机为不实消息。事实上没有美国飞机被击落，所有美国空中资产均完好。",
-          "url": "https://flash.jin10.com/detail/20260529065130382800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "伊朗媒体：关于西方消息说伊朗与美国已经敲定谅解备忘录的报道不实。",
-          "url": "https://wallstreetcn.com/livenews/3110892",
+          "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
+          "url": "https://wallstreetcn.com/livenews/3111590",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "02时32分"
         },
         {
-          "title": "【伊朗军方称在布什尔附近拦截一架美国无人机】一位军方消息人士证实，在伊朗布什尔附近拦截了一架入侵的美国无人机。 这位军方消息人士称，拦截行动是通过向该无人机发射防御导弹完成的。 当天稍早前，据伊朗方面消息，伊朗武装部队从南部地区向特定目标发射了导弹。 伊朗南部布什尔省有该国唯一的核电站——布什尔核电站，其与科威特隔海相望，距离大约300公里。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3110940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美军：伊朗国家电视台关于在Bushehr附近击落一架美国飞机的报道失实。",
-          "url": "https://wallstreetcn.com/livenews/3110980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社援引谈判团队内部消息人士称，潜在谅解备忘录的文本尚未最终确定或确认。",
-          "url": "https://flash.jin10.com/detail/20260529021933252800",
+          "title": "伊朗外交部：伊美交流仍在继续 尚未达成最终共识",
+          "url": "https://flash.jin10.com/detail/20260530015929992800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "02时32分"
         },
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -106,814 +36,92 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时29分"
+          "time_info": "02时32分"
         },
         {
-          "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
-          "url": "https://flash.jin10.com/detail/20260529191920565800",
-          "source": "金十数据",
+          "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3111587",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "02时32分"
         },
         {
-          "title": "伊朗称过去24小时有24艘船通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3111401",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
+          "url": "https://flash.jin10.com/detail/20260530011326548800",
+          "source": "金十数据",
           "ranks": [
-            5
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时31分"
+          "time_info": "02时32分"
+        },
+        {
+          "title": "伊朗外交部：尚未与美国达成最终协议",
+          "url": "https://wallstreetcn.com/livenews/3111574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：目前，我们专注于结束战争，并未就伊朗核计划进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260530011040138800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
           "url": "https://www.toutiao.com/trending/7645098099924323890/",
           "source": "今日头条",
           "ranks": [
-            20,
-            25,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 23时29分]"
-        },
-        {
-          "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
-          "url": "https://flash.jin10.com/detail/20260529045159520800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时09分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 07时16分]"
-        },
-        {
-          "title": "伊朗国家媒体：Bushehr听到爆炸声。",
-          "url": "https://wallstreetcn.com/livenews/3110935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "伊朗外交部谴责美国对阿曼的威胁",
-          "url": "https://flash.jin10.com/detail/20260529061116002800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "国际观察组织称，哈萨克斯坦提议，接纳伊朗浓缩铀。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3111535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "据伊朗国家媒体：（伊朗布什尔的）爆炸声系防空系统与飞行器交战所致。",
-          "url": "https://flash.jin10.com/detail/20260529043548941800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
-          "url": "https://flash.jin10.com/detail/20260529060346329800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗布什尔听到爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260529043124929800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社（Tasnim）：海面上传来的声响是因向霍尔木兹海峡内的船只发出警告而进行交火所致。",
-          "url": "https://wallstreetcn.com/livenews/3110927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "哈萨克斯坦据悉愿意接收伊朗浓缩铀 前提是美伊达成协议",
-          "url": "https://flash.jin10.com/detail/20260529230815238800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "据英国金融时报：监管机构表示，哈萨克斯坦提议接收伊朗的铀库存。",
-          "url": "https://flash.jin10.com/detail/20260529230443253800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
-          "url": "https://wallstreetcn.com/livenews/3110963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国副总统万斯：伊朗在谈判中带着诚意。 美国与伊朗正在讨论某些措辞。（记者团播报Pool Report）",
-          "url": "https://wallstreetcn.com/livenews/3110962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国副总统万斯：（谈及伊朗）尚未达成协议，但已非常接近。",
-          "url": "https://flash.jin10.com/detail/20260529055249847800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "伦敦铜价反弹，投资者关注美国与伊朗谈判进展和需求前景",
-          "url": "https://wallstreetcn.com/livenews/3110871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
-          "url": "https://wallstreetcn.com/livenews/3110960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：来自海洋的声音是由于霍尔木兹海峡内对船只的警告火交换所致。",
-          "url": "https://flash.jin10.com/detail/20260529041150687800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "伊朗武装部队从南部地区朝着多个特定目标发射导弹。（FARS）",
-          "url": "https://wallstreetcn.com/livenews/3110915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "据以色列i24新闻台中东高级记者：伊朗非官方媒体报道，伊朗革命卫队海军对四艘“违规船只”发射了警告炮弹，这些船只试图在未协调的情况下通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260529040828475800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "伊朗最高领袖强调维护民族团结",
-          "url": "https://wallstreetcn.com/livenews/3110866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "伊官员：伊朗对霍尔木兹海峡的控制已是世界公认的事实",
-          "url": "https://wallstreetcn.com/livenews/3111376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "伊朗武装部队向霍尔木兹海峡附近4艘船只发出警告性射击",
-          "url": "https://flash.jin10.com/detail/20260529051909930800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "美国财长：美国将对伊朗航司实施多方面限制",
-          "url": "https://wallstreetcn.com/livenews/3110865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "伊朗官员：美国一架飞机被伊朗摧毁",
-          "url": "https://flash.jin10.com/detail/20260529045323641800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
-          "url": "https://wallstreetcn.com/livenews/3111511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "伊朗最高领袖军事顾问：伊朗将迫使美国结束海上封锁",
-          "url": "https://wallstreetcn.com/livenews/3111509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "伊朗外长与阿曼外交大臣通话 讨论霍尔木兹海峡未来管理问题",
-          "url": "https://wallstreetcn.com/livenews/3111508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
-          "url": "https://wallstreetcn.com/articles/3773378",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时36分 ~ 19时31分]"
-        },
-        {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 07时16分]"
-        },
-        {
-          "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
-          "url": "https://wallstreetcn.com/livenews/3110890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 11时33分]"
-        },
-        {
-          "title": "【美财长：美伊能否达成协议取决于“总统想要怎么做”】美国财政部长贝森特28日在白宫记者会上表示，美国与伊朗能否达成潜在的协议取决于美总统特朗普是否支持该协议。 据美国媒体当天早些时候援引美官员的话报道，美伊谈判代表已就谅解备忘录条款基本达成一致，有待特朗普最终批准。贝森特在记者会上没有直接回答多次相关提问，而是称“双方团队一直在进行往来磋商”，并强调“一切都取决于总统想要怎么做”。 贝森特说，特朗普有几条明确的“红线”，即伊朗必须交出其高浓缩铀、伊朗不能发展核武器，以及霍尔木兹海峡必须保持开放。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3110937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
-          "url": "https://wallstreetcn.com/livenews/3111539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "无人机制造商Unusual Machines Inc.（UMAC）维持超过68%的涨幅，持稳于盘中历史新高32美元附近，媒体报道称，美国总统特朗普的政府考虑注资该公司，从而提高美国的产量、降低成本。",
-          "url": "https://wallstreetcn.com/livenews/3110888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普说伊朗浓缩铀材料将被挖出销毁",
-          "url": "https://wallstreetcn.com/livenews/3111538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "特朗普的两张稀土王牌，先打上“内战”了",
-          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 07时16分]"
-        },
-        {
-          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
-          "url": "https://news.ifeng.com/c/8tW3etoYczE",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时56分 ~ 19时31分]"
-        },
-        {
-          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
-          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普声称：我们掌握所有的牌，伊朗在军事上被击败。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3110932",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "特朗普说美伊就核问题和霍尔木兹海峡以外次要事项达成一致",
-          "url": "https://flash.jin10.com/detail/20260529231353506800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "【特朗普就结束伊朗战事提出条件】美国总统特朗普29日说，伊朗必须同意永远不拥有核武器。霍尔木兹海峡必须立即开放，双向通行无阻，不收取任何通行费。所有水雷必须予以清除。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3111533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件",
-          "url": "https://flash.jin10.com/detail/20260529231002596800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "特朗普说即将开会就伊朗战事作出最终决定",
-          "url": "https://wallstreetcn.com/livenews/3111530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
-          "url": "https://flash.jin10.com/detail/20260529042337161800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "特朗普说即将开会就伊朗战事作出最终决定",
-          "url": "https://flash.jin10.com/detail/20260529230239683800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "特朗普称将就伊朗问题作出“最终决定” 美国记者解读称特朗普暗示批准协议",
-          "url": "https://flash.jin10.com/detail/20260529230219349800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "特朗普对伊朗协议提出要求，称：将做“最终决定”",
-          "url": "https://wallstreetcn.com/livenews/3111525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "据AXIOS网站记者Barak Ravid：特朗普暗示即将批准与伊朗达成协议。",
-          "url": "https://flash.jin10.com/detail/20260529230217516800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：在另行通知之前，否则不会进行任何资金交换。",
-          "url": "https://flash.jin10.com/detail/20260529230047258800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：滞留在霍尔木兹海峡的船只可能开始返航。",
-          "url": "https://flash.jin10.com/detail/20260529225954047800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "报道：特朗普政府企图让美国车辆制造在USMCA占比达到50%",
-          "url": "https://wallstreetcn.com/livenews/3111516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：其他不那么重要的事项已达成一致。",
-          "url": "https://flash.jin10.com/detail/20260529225925212800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：美国将与伊朗及国际原子能机构协调，挖出铀矿并予以销毁。",
-          "url": "https://flash.jin10.com/detail/20260529225734804800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的铀将被美国挖出来。",
-          "url": "https://flash.jin10.com/detail/20260529225720100800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3110862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时33分 ~ 23时29分]"
-        },
-        {
-          "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
-          "url": "https://wallstreetcn.com/articles/3773196",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 07时16分]"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时33分 ~ 15时56分]"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
-          "url": "https://flash.jin10.com/detail/20260529021834083800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 11时33分]"
-        },
-        {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 11时33分]"
-        },
-        {
-          "title": "高盛交易员认为不受青睐的板块有望迎来轧空，助推美股下一轮上涨",
-          "url": "https://wallstreetcn.com/livenews/3110886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "周四（5月28日），美股行业ETF涨跌各异，网络股指数ETF收涨1.63%，全球科技股指数ETF涨1.44%，医疗业ETF涨1.40%，能源业ETF、银行业ETF、金融业ETF至多跌0.29%，公用事业ETF跌1.13%。",
-          "url": "https://wallstreetcn.com/livenews/3110934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "MongoDB Inc.（MDB）美股盘后V形反转，目前涨14.09%。 业绩报告显示，该公司预计全年营收29.2亿-29.6亿美元，原本预计28.6亿-29亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3110933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "戴尔美股盘后狂飙将近40%，高管直呼“AI机遇未见放缓迹象”",
-          "url": "https://wallstreetcn.com/livenews/3110974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "02时32分"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "美股无人机概念全线暴涨 据称行业有望获美政府资金扶持",
-          "url": "https://www.cls.cn/detail/2384732",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "02时32分"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -922,134 +130,16 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "戴尔美股盘后涨幅扩大至35%，纳指期货目前持平。",
-          "url": "https://wallstreetcn.com/livenews/3110972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "Gap一季度净销售35亿美元，分析师预期35.2亿美元。 预计全年净销售将增长1%-2%，公司原本预计会增长2%-3%。 预计全年调整后每股收益（EPS）大约为2.30-2.40美元，公司原本预计大约2.20-2.35美元。 盖普（GPS）美股盘后跌9.8。",
-          "url": "https://wallstreetcn.com/livenews/3110930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260529040719746800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "金十图示：2026年05月28日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260529040717720800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "戴尔科技美股盘后涨幅扩大至27%。",
-          "url": "https://wallstreetcn.com/livenews/3110950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时56分 ~ 23时29分]"
-        },
-        {
-          "title": "OpenAI确认推出Rosalind BioDefense Program。",
-          "url": "https://wallstreetcn.com/livenews/3111534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时29分"
-        },
-        {
-          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260529111524394800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "OpenAI的Codex怎么玩",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 11时33分]"
-        },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
           "url": "https://www.zhihu.com/question/2042260682780009473",
@@ -1058,153 +148,59 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 23时29分]"
-        },
-        {
-          "title": "梁文锋迁移代码到昇腾",
-          "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%BF%81%E7%A7%BB%E4%BB%A3%E7%A0%81%E5%88%B0%E6%98%87%E8%85%BE&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时29分 ~ 19时31分]"
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "【阿波罗推销360亿美元债务融资，旨在为Anthropic购买谷歌芯片】阿波罗和黑石正在努力吸引更多投资者加入一项约360亿美元的债务融资交易，来帮助Anthropic PBC扩建其人工智能（AI）基础设施。这笔债务将用于购买谷歌名为TPU的定制芯片，随后Anthropic将租赁这些芯片；博通公司将为该交易中最大份额的款项支付提供担保。 该融资计划旨在利用博通的信用资质，为Anthropic提供算力获取渠道。",
-          "url": "https://wallstreetcn.com/livenews/3110939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "据美国得克萨斯州车管局（DMV）网站：谷歌母公司Alphabet旗下Waymo已有577辆AVS、317辆Avride登记。 特斯拉有42辆车在美国得州被登记为无人驾驶出租车（Robotaxi）。",
-          "url": "https://wallstreetcn.com/livenews/3110968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "谷歌云：Nano Banana 2和Nano Banana Pro已正式上线。",
-          "url": "https://wallstreetcn.com/livenews/3110860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 05时09分]"
-        },
-        {
-          "title": "金价又跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "金十图示：2026年05月29日（周五）上海金早盘价为982.78元/克，较国际金价(979.13元/克)，高3.65元/克",
-          "url": "https://flash.jin10.com/detail/20260529110136791800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.25%，暂报2631.0点，北京时间04:00-12:00持续下挫，之后持续交投于2600点附近，日线图上，指数自2月份以来持续窄幅震荡于3000-2300点趋近。 MarketVectorTM数字资产100中盘指数跌4.58%，报2869.46点。 MarketVector数字资产100指数跌2.60，报14472.31点。 目前，Solana跌2.36%，狗狗币跌2.59%，XRP暂时持平。 比特币跌2.17%，暂报73265.71美元；以太坊跌2.16%，暂报2009.17美元。",
-          "url": "https://wallstreetcn.com/livenews/3110872",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.31%，暂报2691.30点，上周五结束交易以来（7*24）累计下跌3.53%，整体呈现出W形走势。 MarketVectorTM数字资产100中盘指数涨1.61%，报2917.71点，期内累跌4.91%，5月24-27日持稳于3050点附近（高位窄幅震荡）。 MarketVector数字资产100指数涨0.92%，报14608.72点，期内累跌3.75%。 最近连续七天迄今，Solana累跌2.58%，狗狗币累跌3.56%，XRP累跌1.15%。 比特币目前涨0.57%，暂报73890.88美元，最近七天累跌2.64%；以太坊涨1.33%，暂报2038.128美元，最近七天累跌1.74%。",
+          "url": "https://wallstreetcn.com/livenews/3111567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "周四（5月28日）纽约尾盘，彭博谷物分类指数涨0.46%，报31.6386点。 CBOT玉米期货涨0.83%，CBOT小麦期货涨0.24%。 CBOT大豆期货涨0.89%，刷新日高至11.96美元/蒲式耳，豆粕期货涨0.97%，豆油期货涨1.86%。",
-          "url": "https://wallstreetcn.com/livenews/3110911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "美元指数跌0.2%",
-          "url": "https://wallstreetcn.com/livenews/3110907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "02时32分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "特朗普",
       "match_count": 1,
       "titles": [
         {
-          "title": "中长期美债收益率跌约3个基点",
-          "url": "https://wallstreetcn.com/livenews/3110909",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
           "ranks": [
-            26
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "02时32分"
         }
       ]
     }

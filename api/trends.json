@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-30T02:32:59.937772+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-30T05:08:07.139689+08:00",
+  "total_titles_processed": 396,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
+          "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
         {
           "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
           "url": "https://wallstreetcn.com/livenews/3111590",
@@ -30,17 +41,6 @@
           "time_info": "02时32分"
         },
         {
-          "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
-          "url": "https://news.ifeng.com/c/8tWwzy1f6k3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        },
-        {
           "title": "【伊朗外交部：伊美交流仍在继续 尚未达成最终共识】伊朗外交部发言人巴加埃对外表示，伊朗与美国之间的交流仍在继续，但尚未达成最终共识。巴加埃还表示，西方任何一方在谈论伊朗时，都不能使用“必须”这种语言。伊朗只会根据伊朗人民的利益和权利自行做决定。 在涉及霍尔木兹海峡通航的问题上，巴加埃表示，霍尔木兹海峡位于伊朗和阿曼的领海范围内，伊朗和阿曼必须采取机制，既保护作为沿海国家的自身利益和国家安全，也向国际社会保证该航道的航运安全。（央视）",
           "url": "https://wallstreetcn.com/livenews/3111587",
           "source": "华尔街见闻-快讯",
@@ -52,6 +52,28 @@
           "time_info": "02时32分"
         },
         {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
+        {
+          "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
+          "url": "https://wallstreetcn.com/livenews/3111625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：霍尔木兹海峡的管理必须由伊朗和阿曼决定。至今尚未与美国达成任何协议。",
           "url": "https://flash.jin10.com/detail/20260530011326548800",
           "source": "金十数据",
@@ -61,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
+        },
+        {
+          "title": "据纽约邮报：美国和伊朗将何时敲定谅解备忘录尚不清楚。",
+          "url": "https://flash.jin10.com/detail/20260530035126096800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "伊朗外交部：尚未与美国达成最终协议",
@@ -85,21 +118,54 @@
           "time_info": "02时32分"
         },
         {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
+          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
+          "url": "https://flash.jin10.com/detail/20260530034847943800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "伊朗军方在格什姆岛附近击落敌对小型无人机",
+          "url": "https://wallstreetcn.com/livenews/3111617",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
+          "url": "https://flash.jin10.com/detail/20260530033805966800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260530033749981800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 12,
       "titles": [
         {
           "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
@@ -109,19 +175,86 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040526961800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "05时08分"
+        },
+        {
+          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。",
+          "url": "https://wallstreetcn.com/livenews/3111637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "金十图示：2026年05月29日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260530040525395800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
+          "url": "https://wallstreetcn.com/livenews/3111636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "周五（5月29日），美股信息科技指数涨2.27%，报437.17点，5月份累涨28.14%。",
+          "url": "https://wallstreetcn.com/livenews/3111635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "周五（5月29日），美股超大规模云服务商（Hyperscalers）收涨1.28%，报105.80点，5月份累涨7.11%。",
+          "url": "https://wallstreetcn.com/livenews/3111634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         },
         {
           "title": "美伊停火预期提振，美股高开，半导体股普涨，戴尔暴涨33%，油价承压，金银齐涨",
           "url": "https://wallstreetcn.com/articles/3773437",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -131,8 +264,130 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
+        {
+          "title": "周五（5月29日），美股存储芯片与硬件供应链指数行1.48%，报210.62点，继续创收盘历史新高，本周（四个交易日）累计上涨11.93%，5月份累涨37.27%。",
+          "url": "https://wallstreetcn.com/livenews/3111628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
+          "url": "https://flash.jin10.com/detail/20260530040220789800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
+          "url": "https://wallstreetcn.com/livenews/3111624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
+          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
+        {
+          "title": "美媒：特朗普推迟就伊朗相关协议作最终决定",
+          "url": "https://wallstreetcn.com/livenews/3111616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
+          "url": "https://flash.jin10.com/detail/20260530033635502800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "美国财长贝森特：应当将总统特朗普印到250面值美元上。",
+          "url": "https://wallstreetcn.com/livenews/3111607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        },
+        {
+          "title": "法官裁定：特朗普目前不得重新命名肯尼迪中心，也不能以翻新为由将其关闭",
+          "url": "https://wallstreetcn.com/livenews/3111606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
+        },
+        {
+          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260530034751105800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
@@ -148,25 +403,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
+          "appearance_count": 3,
+          "time_info": "[02时32分 ~ 05时08分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
+          "title": "美股七巨头收盘播报｜微软收涨超5.4%，5月份谷歌A涨21.6%",
+          "url": "https://wallstreetcn.com/livenews/3111630",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时32分"
+          "time_info": "05时08分"
         }
       ]
     },
@@ -180,23 +435,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
-          "url": "https://news.ifeng.com/c/8tWtCZfg2nz",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,

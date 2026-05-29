@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-05-29T11:33:22.818393+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-05-29T15:56:46.044550+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 29,
       "titles": [
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时56分]"
+        },
+        {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 15时56分]"
+        },
         {
           "title": "据伊朗塔斯尼姆通讯社：西方消息人士称伊朗与美国之间的谅解备忘录已达成的报道不属实。伊朗尚未通知巴基斯坦调解方文本已最终确定，一旦最终确定，伊朗将向巴基斯坦调解方和公众宣布此事。",
           "url": "https://flash.jin10.com/detail/20260529022207681800",
@@ -63,17 +89,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "伊朗称击落一架美军飞机，美方回应",
-          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社援引谈判团队内部消息人士称，潜在谅解备忘录的文本尚未最终确定或确认。",
           "url": "https://flash.jin10.com/detail/20260529021933252800",
           "source": "金十数据",
@@ -83,19 +98,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 11时33分]"
         },
         {
           "title": "伊朗军方称在布什尔附近拦截一架美国无人机",
@@ -121,6 +123,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 07时16分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时56分]"
         },
         {
           "title": "伊朗国家媒体：Bushehr听到爆炸声。",
@@ -244,17 +258,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：来自海洋的声音是由于霍尔木兹海峡内对船只的警告火交换所致。",
           "url": "https://flash.jin10.com/detail/20260529041150687800",
           "source": "金十数据",
@@ -349,6 +352,28 @@
           "time_info": "[02时36分 ~ 07时16分]"
         },
         {
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时56分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 15时56分]"
+        },
+        {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
@@ -358,28 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         },
         {
           "title": "CBOE全球市场公司计划于12月在其CBOE EDGX股票交易所推出23X5美国股票交易；预计在上线初期将有约20种股票可供交易，其中包括“美股七巨头”。",
@@ -467,7 +470,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -530,7 +533,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -553,8 +556,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时36分 ~ 11时33分]"
+          "appearance_count": 6,
+          "time_info": "[02时36分 ~ 15时56分]"
         },
         {
           "title": "美国财长贝森特：石油（价格）将低于美国、以色列发动伊朗战争之前的水平。 石油市场将得到很好的供应。 关于伊朗的条款磋商反反复复。 霍尔木兹海峡将免费开放，将近2000艘船只等待离开波斯湾。 总统特朗普不会接受一份糟糕的协议。",
@@ -623,6 +626,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "黄仁勋披露访华细节：特朗普让我在华盛顿登机，可我在西海岸",
+          "url": "https://news.ifeng.com/c/8tW3etoYczE",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
           "title": "美国总统特朗普：（置评伊朗冲突）我们掌握所有筹码。伊朗在军事上被击败。",
           "url": "https://flash.jin10.com/detail/20260529042337161800",
           "source": "金十数据",
@@ -686,6 +700,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时56分"
+        },
+        {
+          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
+          "url": "https://flash.jin10.com/detail/20260529111524394800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "OpenAI的Codex怎么玩",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -707,7 +760,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -718,7 +771,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
@@ -760,34 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据网络状况监测网站DownDetector的数据，用户报告显示OpenAI的使用出现问题。",
-          "url": "https://flash.jin10.com/detail/20260529111524394800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
-        },
-        {
-          "title": "OpenAI的Codex怎么玩",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E7%9A%84Codex%E6%80%8E%E4%B9%88%E7%8E%A9%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
         }
       ]
     },

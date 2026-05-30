@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T01:04:08.292517+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-31T03:15:17.569651+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
@@ -19,26 +19,27 @@
           "time_info": "[01时03分 ~ 01时04分]"
         },
         {
-          "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
-          "url": "https://flash.jin10.com/detail/20260531003720339800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
           "title": "美国总统特朗普：将不在“自由250”音乐会上演出，但会在华盛顿特区同一地点的竞选集会上发表演讲。",
           "url": "https://flash.jin10.com/detail/20260531001517348800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
+          "url": "https://flash.jin10.com/detail/20260531003720339800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
@@ -48,19 +49,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
           "url": "https://www.zhihu.com/question/2043956365022814533",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
@@ -70,8 +72,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
@@ -81,8 +83,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
@@ -91,9 +93,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
@@ -102,15 +104,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -120,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "联合海上信息中心：美军仍在封锁伊朗港口",
@@ -130,9 +132,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -141,20 +143,32 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
+          "url": "https://flash.jin10.com/detail/20260531024236027800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时15分"
         },
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
           "url": "https://www.zhihu.com/question/2043976799139492397",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -163,9 +177,31 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
+        },
+        {
+          "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
+          "url": "https://flash.jin10.com/detail/20260531022332734800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
+          "url": "https://flash.jin10.com/detail/20260531012608857800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时15分"
         }
       ]
     },
@@ -178,11 +214,12 @@
           "url": "https://wallstreetcn.com/articles/3773491",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -192,8 +229,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 03时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "time_info": "[03时14分 ~ 03时15分]"
         }
       ]
     },
@@ -208,9 +262,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 03时15分]"
         }
       ]
     }

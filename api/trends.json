@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T18:58:15.945621+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-05-31T20:14:25.649163+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
@@ -49,6 +49,18 @@
           "time_info": "[01时04分 ~ 08时02分]"
         },
         {
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 20时14分]"
+        },
+        {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
           "url": "https://wallstreetcn.com/livenews/3111832",
           "source": "华尔街见闻-快讯",
@@ -75,27 +87,15 @@
           "time_info": "[06时03分 ~ 08时02分]"
         },
         {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 18时58分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
-          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗与美国之间关于潜在谅解备忘录草案的交流仍在继续。双方轮流提出修改意见，目前尚未最终确认任何协议。",
+          "url": "https://flash.jin10.com/detail/20260531200724744800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时14分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：伊朗议会主席团成员宣誓就职。仪式由议长卡利巴夫主持，187名代表在线参会，14名代表到场参会。",
@@ -107,28 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
-        },
-        {
-          "title": "伊朗展示一款新型攻击艇",
-          "url": "https://flash.jin10.com/detail/20260531182711783800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "伊朗展示一款新型攻击艇",
-          "url": "https://wallstreetcn.com/livenews/3111922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -170,6 +148,42 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时04分 ~ 08时02分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗南帕尔斯气田的三个海上平台已恢复生产。",
+          "url": "https://flash.jin10.com/detail/20260531182835723800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://flash.jin10.com/detail/20260531182711783800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗展示一款新型攻击艇",
+          "url": "https://wallstreetcn.com/livenews/3111922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
         },
         {
           "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
@@ -238,6 +252,54 @@
           "time_info": "[06时03分 ~ 12时47分]"
         },
         {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://wallstreetcn.com/livenews/3111919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+          "url": "https://wallstreetcn.com/livenews/3111918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗批准20种农产品及加工产品出口",
+          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
+          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3111914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 20时14分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
           "url": "https://wallstreetcn.com/livenews/3111863",
           "source": "华尔街见闻-快讯",
@@ -250,48 +312,15 @@
           "time_info": "[12时47分 ~ 16时15分]"
         },
         {
-          "title": "伊朗批准20种农产品及加工产品出口",
-          "url": "https://wallstreetcn.com/livenews/3111919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
-          "url": "https://wallstreetcn.com/livenews/3111918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "伊朗批准20种农产品及加工产品出口",
-          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "title": "据伊朗迈赫尔通讯社：在格什姆岛和阿巴斯港听到的声响，是因销毁战争遗留爆炸物所致。",
+          "url": "https://flash.jin10.com/detail/20260531190212564800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
-        },
-        {
-          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3111914",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "20时14分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：敌人企图通过施加经济压力和发动媒体战来煽动分裂，破坏国家凝聚力。",
@@ -300,9 +329,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛传出爆炸声。目前尚不清楚爆炸声响的性质和来源。",
+          "url": "https://flash.jin10.com/detail/20260531185930815800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，外交的工作是将军事领域获得的胜利转化为政治和法律成果。",
@@ -311,7 +351,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -333,7 +373,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -344,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
@@ -352,8 +392,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时46分 ~ 20时14分]"
+        },
         {
           "title": "美伊局势迷雾重重：特朗普被曝推迟作“最终决定” 双方仍各说各话",
           "url": "https://www.cls.cn/detail/2385988",
@@ -388,19 +442,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时03分 ~ 08时02分]"
-        },
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 18时58分]"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -545,6 +586,17 @@
           "time_info": "[01时04分 ~ 03时15分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-31）",
+          "url": "https://flash.jin10.com/detail/20260531191112757800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时14分"
+        },
+        {
           "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
           "url": "https://flash.jin10.com/detail/20260531103926927800",
           "source": "金十数据",
@@ -573,7 +625,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         },
@@ -637,8 +689,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时57分 ~ 18时58分]"
+          "appearance_count": 3,
+          "time_info": "[18时57分 ~ 20时14分]"
         }
       ]
     },

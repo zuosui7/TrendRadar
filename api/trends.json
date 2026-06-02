@@ -1,22 +1,216 @@
 {
-  "generated_at": "2026-06-03T01:23:13.574673+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-03T04:48:58.512262+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美股",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
+        },
+        {
+          "title": "周二（6月2日），美股AI软件先驱指数跌3.37%，报128.60点。",
+          "url": "https://wallstreetcn.com/livenews/3113281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "周二（6月2日），美股人工智能（AI）赢家指数涨2.45%，报447.26点。",
+          "url": "https://wallstreetcn.com/livenews/3113280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260603005621906800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "周二（6月2日），美股信息科技指数涨2.38%，报461.64点，连续多日创收盘历史新高，5月19日以来累计上涨23.35%。 标普500信息技术/科技板块涨0.92%，报7262.03点，也连续三天创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "周二（6月2日），美股超大规模云服务商（Hyperscalers）跌2.51%，报103.13点。",
+          "url": "https://wallstreetcn.com/livenews/3113278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "周二（6月2日），美股存储芯片与硬件供应链指数涨2.07%，报222.31点，连续六个交易日创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3113277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（6月2日），美国科技股七巨头（Magnificent 7）指数跌1.03%，报225.46点。 “超大”市值科技股指数跌0.07%，报473.57点。",
+          "url": "https://wallstreetcn.com/livenews/3113276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "GitLab对全职员工裁员大约14%，退出22个国家。 该公司一季度调整后每股收益（EPS）为0.23美元，分析师预期0.21美元。 预计全年营收11.1亿-11.2亿美元，公司原本预计11.0亿-11.2亿美元。 预计二季度营收2.72亿-27.4亿美元，分析师预期2.732亿美元。 GitLab美股盘后涨13%。",
+          "url": "https://wallstreetcn.com/livenews/3113272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522463800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "可转债ETF收涨1.2%，与新兴市场ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3113271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260603040522026800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
+          "url": "https://wallstreetcn.com/livenews/3113269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260603004322353800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 迈威尔科技大涨超30%",
+          "url": "https://flash.jin10.com/detail/20260603040117832800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "派拓网络第三财季调整后每股收益（EPS）为0.85美元，分析师预期0.79美元。 预计全年营收114.2亿-114.3亿美元，公司原本预计112.8亿-113.1亿美元。 派拓网络（PANW）美股盘后涨12%。",
+          "url": "https://wallstreetcn.com/livenews/3113267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
           "url": "https://news.ifeng.com/c/8tdYs26KHgt",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -26,8 +220,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
+        },
+        {
+          "title": "特朗普：美伊暂停谈判？假新闻！",
+          "url": "https://news.ifeng.com/c/8tdl2ZQctsW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -36,7 +241,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -47,7 +252,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -58,7 +263,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -69,7 +274,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -81,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "丹麦首相公布福利推进计划，并对特朗普展现强硬姿态",
@@ -91,7 +296,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -99,40 +304,54 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
           "url": "https://news.ifeng.com/c/8tdbOC5wjyj",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "以总理扬言伊朗政权将覆灭",
           "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（关于世界杯）美国决心不让与伊朗革命卫队有关的人士“混进他们的代表团”。",
+          "url": "https://flash.jin10.com/detail/20260603040701151800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         },
         {
           "title": "美国中央司令部：“亚伯拉罕·林肯”号航空母舰正在穿越阿拉伯海，继续支持美国对伊朗实施的封锁。美国军方已重新引导122艘商船改道，以确保合规。",
@@ -141,7 +360,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -152,65 +371,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2388757",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260603005621906800",
+          "title": "美国制裁伊朗加密货币交易平台及相关人员",
+          "url": "https://flash.jin10.com/detail/20260603033217597800",
           "source": "金十数据",
           "ranks": [
-            8
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2026年06月02日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260603004322353800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "04时48分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -220,8 +400,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
@@ -230,9 +410,59 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "标普500指数初步收涨0.1%，公用事业板、原材料、能源、工业板块至少涨约1%，电信板块跌2.6%。 纳斯达克100指数初步收涨0.5%，成分股中，黄仁勋一句话让迈威尔科技/美满科技初步收涨32.2%，Lumentum涨13.9%，应用材料涨7.1%，思科、高通涨超3.4%，谷歌A跌3.8%，Autodesk跌4.3%，Palantir跌5.4%，Workday跌6%，Zscaler跌7.6%，汤森路透跌7.9%，财捷跌8.9%，Strategy跌9.2%。 卡特彼勒涨超5%，IBM涨超3%，苹果涨约2.8%，与思科领跑道指成分股，波音、微软、Salesforce、耐克至少跌超3%表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3113264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数总市值历史上首次突破69万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3113200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "美元指数2日上涨",
+          "url": "https://flash.jin10.com/detail/20260603035246747800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
+        },
+        {
+          "title": "周二（6月2日）纽约尾盘，ICE美元指数持平，报99.205点，日内交投区间为99.049-99.329点，整体呈现出W形反转。 彭博美元指数跌0.03%，报1201.62点，日内交投区间为1200.43-1202.78点。 美元兑日元涨0.16%，报159.92日元，日内交投区间为159.60-159.99日元。",
+          "url": "https://wallstreetcn.com/livenews/3113255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时48分"
         }
       ]
     },
@@ -247,7 +477,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -264,24 +494,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数总市值历史上首次突破69万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3113200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }

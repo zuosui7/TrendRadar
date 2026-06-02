@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-02T07:02:26.806289+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-06-02T11:55:50.463333+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
           "url": "https://news.ifeng.com/c/8tcSNBrDi2S",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时55分]"
         },
         {
           "title": "特朗普用F开头词汇怒斥内塔尼亚胡",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -47,20 +48,66 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "戏剧性一幕，特朗普被迫打了一个电话",
+          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
+          "url": "https://www.cls.cn/detail/2387782",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
+          "url": "https://wallstreetcn.com/articles/3773555",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
+          "time_info": "[07时02分 ~ 11时55分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我今晚与特朗普总统通了电话，并告诉他，如果真主党不停止袭击我们的城市和公民，以色列将对贝鲁特的目标发动打击。我们的立场依然坚定不变。与此同时，以色列国防军将继续按计划在黎巴嫩南部开展行动。",
@@ -80,18 +127,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -107,13 +143,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
+          "url": "https://www.cls.cn/detail/2387700",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "特朗普：协议有望在未来一周内达成 今天只是小插曲",
           "url": "https://flash.jin10.com/detail/20260602054717157800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -135,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -151,13 +198,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
+          "url": "https://www.cls.cn/detail/2387742",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "【特朗普称美伊或于一周内达成协议 延长停火并重开霍尔木兹海峡】美国总统特朗普表示，他预计将在“未来一周内”与伊朗达成协议，延长当前停火安排并重新开放霍尔木兹海峡。特朗普称，相关谈判进展顺利，并对达成协议表示乐观。（央视）",
           "url": "https://wallstreetcn.com/livenews/3112663",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -168,7 +226,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -179,9 +237,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "曝特朗普私下多次质疑万斯实力",
+          "url": "https://www.toutiao.com/trending/7645850304593313834/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "以色列国防部长卡茨：特朗普采纳了我们确立的观点，即向我们的定居点开火就意味着贝鲁特将遭到轰炸。这就是他那番话的含义。",
@@ -204,12 +273,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
+        },
+        {
+          "title": "美媒称特朗普怒斥以色列总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%96%A5%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -220,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -231,8 +311,41 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗媒体新发布最高领袖穆杰塔巴·哈梅内伊照片",
+          "url": "https://wallstreetcn.com/livenews/3112810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
@@ -263,11 +376,23 @@
           "url": "https://www.toutiao.com/trending/7646419297488604708/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
         },
         {
           "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
@@ -287,17 +412,6 @@
           "ranks": [
             12,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2520417",
-          "source": "抖音",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -332,7 +446,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -348,13 +462,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：在与黎巴嫩议会议长的交谈中，我强调指出，如果以色列在黎巴嫩的罪行继续下去，我们不仅将中止谈判进程，更将挺身而出，与其进行对抗。",
           "url": "https://flash.jin10.com/detail/20260602052416641800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -381,13 +506,24 @@
           "time_info": "04时19分"
         },
         {
+          "title": "“中立”不再是护身符：美国逼阿曼选边站，切断与伊朗关系",
+          "url": "https://flash.jin10.com/detail/20260602110821976800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "【伊朗伊斯兰革命卫队称对美以船只实施打击】当地时间6月1日晚，伊朗伊斯兰革命卫队宣布，在美国军队对伊朗位于阿曼湾的船只发动侵略性袭击后，伊朗伊斯兰革命卫队海军采取报复行动，使用巡航导弹击中了属于美以势力的“萨里斯卡”（Sariska）号船只。伊朗伊斯兰革命卫队海军强调，任何美国军队在该地区的任何侵略行为都将遭到坚决回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3112641",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -406,8 +542,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
         {
           "title": "美股收盘：三大股指创收盘新高 英伟达涨6%",
           "url": "https://flash.jin10.com/detail/20260602040120884800",
@@ -453,27 +600,29 @@
           "time_info": "04时19分"
         },
         {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 11时55分]"
+        },
+        {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
         },
         {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
@@ -482,7 +631,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -493,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -504,9 +653,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股芯片股狂飙",
+          "url": "https://www.toutiao.com/trending/7646434050596438057/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
@@ -515,7 +675,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -543,7 +703,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -554,7 +714,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -617,8 +777,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
           "url": "https://flash.jin10.com/detail/20260602050830269800",
@@ -626,7 +797,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -637,7 +808,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -648,7 +819,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -693,7 +864,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }

@@ -1,11 +1,377 @@
 {
-  "generated_at": "2026-06-02T16:30:00.103994+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-06-02T20:42:03.168173+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 32,
+      "titles": [
+        {
+          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3773592",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时19分 ~ 20时42分]"
+        },
+        {
+          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
+          "url": "https://www.cls.cn/detail/2387611",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
+          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 16时30分]"
+        },
+        {
+          "title": "伊朗革命卫队：将保持最高级别军事戒备状态",
+          "url": "https://news.ifeng.com/c/8tdFU7JhD7W",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 20时42分]"
+        },
+        {
+          "title": "伊朗向以色列发出最新警告",
+          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗革命卫队：已为所有可能的情况做好准备",
+          "url": "https://flash.jin10.com/detail/20260602160325294800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "伊朗媒体新发布最高领袖穆杰塔巴·哈梅内伊照片",
+          "url": "https://wallstreetcn.com/livenews/3112810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国对话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7646419297488604708/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗：彻底封锁霍尔木兹海峡",
+          "url": "https://www.douyin.com/hot/2520417",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
+          "url": "https://www.zhihu.com/question/2044892898404066375",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗暂停通过中间人同美国的对话",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%B9%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗副外长：如果针对一个独立国家首都的攻击决定可以通过一次电话被改变，那么关键问题在于：为何在西方政治和军事支持下，数月来违反停火、侵略黎巴嫩、迫使民众流离失所以及威胁该国主权的行为仍持续不断。",
+          "url": "https://flash.jin10.com/detail/20260602201348033800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260602054738014800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗副外长：美国总统声称已阻止内塔尼亚胡对贝鲁特发动重大袭击，与其说是寻求和平的表现，不如说更是确认美国在管理犹太复国主义政权侵略行为中所扮演的直接角色。",
+          "url": "https://flash.jin10.com/detail/20260602201332284800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "伊朗副外长：地区危机并非“零散紧张”的结果，而是犹太复国主义政权的罪行及其逍遥法外造成的产物。联合国安理会必须超越表达关切和发出一般性呼吁的阶段，针对犹太复国主义政权采取具有惩罚性和约束力的决定。",
+          "url": "https://flash.jin10.com/detail/20260602201315044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "伊朗称过去24小时24艘船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3113059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗革命卫队圣城旅指挥官卡尼表示，以色列在黎巴嫩和加沙的行动将导致抵抗轴心将“曼德海峡的航运状况与霍尔木兹海峡的情况对等看待”。",
+          "url": "https://flash.jin10.com/detail/20260602031955651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：在与黎巴嫩议会议长的交谈中，我强调指出，如果以色列在黎巴嫩的罪行继续下去，我们不仅将中止谈判进程，更将挺身而出，与其进行对抗。",
+          "url": "https://flash.jin10.com/detail/20260602052416641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗称仍在评估谅解备忘录最终文本 尚未回应美方",
+          "url": "https://wallstreetcn.com/livenews/3112905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2044559354460731245",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "美退役将军：伊朗借真主党让美国“失去平衡”，转移核谈判注意力",
+          "url": "https://flash.jin10.com/detail/20260602154915207800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "伊朗谈判团队暂停通过中间人同美国对话",
+          "url": "https://www.toutiao.com/trending/7646198408432566313/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "法国外长：美国和伊朗应尽快解决霍尔木兹海峡问题。",
+          "url": "https://flash.jin10.com/detail/20260602154055372800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "“中立”不再是护身符：美国逼阿曼选边站，切断与伊朗关系",
+          "url": "https://flash.jin10.com/detail/20260602110821976800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "【伊朗伊斯兰革命卫队称对美以船只实施打击】当地时间6月1日晚，伊朗伊斯兰革命卫队宣布，在美国军队对伊朗位于阿曼湾的船只发动侵略性袭击后，伊朗伊斯兰革命卫队海军采取报复行动，使用巡航导弹击中了属于美以势力的“萨里斯卡”（Sariska）号船只。伊朗伊斯兰革命卫队海军强调，任何美国军队在该地区的任何侵略行为都将遭到坚决回应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3112641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗计划彻底封锁霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时19分"
+        },
+        {
+          "title": "伊朗叫停与美谈判！霍尔木兹通航仍受限！国际现货黄金修复预期加强？金十卢教练直播中，立即观看！",
+          "url": "https://flash.jin10.com/detail/20260602195219951800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "戏剧性一幕，特朗普被迫打了一个电话",
@@ -20,6 +386,18 @@
           "time_info": "[11时55分 ~ 16时30分]"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 20时42分]"
+        },
+        {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
           "url": "https://www.cls.cn/detail/2387782",
           "source": "财联社热门",
@@ -30,6 +408,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时55分 ~ 16时30分]"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
@@ -88,18 +477,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时30分]"
-        },
-        {
           "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
           "url": "https://www.cls.cn/detail/2387742",
           "source": "财联社热门",
@@ -134,6 +511,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 11时55分]"
+        },
+        {
+          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止，与伊朗谈判正“快速推进”",
+          "url": "https://wallstreetcn.com/articles/3773600",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
@@ -296,7 +684,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -325,306 +713,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3773592",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时19分 ~ 16时30分]"
-        },
-        {
-          "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
-          "url": "https://www.cls.cn/detail/2387611",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 11时55分]"
-        },
-        {
-          "title": "美伊谈判将崩盘？专家：伊朗手握多个反制筹码",
-          "url": "https://news.ifeng.com/c/8tcZUHIhU1k",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时30分]"
-        },
-        {
-          "title": "伊朗向以色列发出最新警告",
-          "url": "https://news.ifeng.com/c/8tc3G5LPI4C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "伊朗革命卫队：已为所有可能的情况做好准备",
-          "url": "https://flash.jin10.com/detail/20260602160325294800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "伊朗媒体新发布最高领袖穆杰塔巴·哈梅内伊照片",
-          "url": "https://wallstreetcn.com/livenews/3112810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
-          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗暂停通过中间人同美国对话",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7646419297488604708/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 11时55分]"
-        },
-        {
-          "title": "暂停同美对话、计划封锁海峡，伊朗要求以色列撤军",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33285729",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时30分]"
-        },
-        {
-          "title": "伊朗：彻底封锁霍尔木兹海峡",
-          "url": "https://www.douyin.com/hot/2520417",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时19分 ~ 11时55分]"
-        },
-        {
-          "title": "伊朗暂停通过中间人同美国的对话，计划彻底封锁霍尔木兹海峡并启动曼德海峡「战线」，中东局势会如何发展？",
-          "url": "https://www.zhihu.com/question/2044892898404066375",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗计划彻底封锁霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗暂停通过中间人同美国的对话",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%B9%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 07时02分]"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
-          "url": "https://flash.jin10.com/detail/20260602054738014800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗革命卫队圣城旅指挥官卡尼表示，以色列在黎巴嫩和加沙的行动将导致抵抗轴心将“曼德海峡的航运状况与霍尔木兹海峡的情况对等看待”。",
-          "url": "https://flash.jin10.com/detail/20260602031955651800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：在与黎巴嫩议会议长的交谈中，我强调指出，如果以色列在黎巴嫩的罪行继续下去，我们不仅将中止谈判进程，更将挺身而出，与其进行对抗。",
-          "url": "https://flash.jin10.com/detail/20260602052416641800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "伊朗称仍在评估谅解备忘录最终文本 尚未回应美方",
-          "url": "https://wallstreetcn.com/livenews/3112905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 94 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2044559354460731245",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "美退役将军：伊朗借真主党让美国“失去平衡”，转移核谈判注意力",
-          "url": "https://flash.jin10.com/detail/20260602154915207800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "伊朗谈判团队暂停通过中间人同美国对话",
-          "url": "https://www.toutiao.com/trending/7646198408432566313/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "法国外长：美国和伊朗应尽快解决霍尔木兹海峡问题。",
-          "url": "https://flash.jin10.com/detail/20260602154055372800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
-        },
-        {
-          "title": "“中立”不再是护身符：美国逼阿曼选边站，切断与伊朗关系",
-          "url": "https://flash.jin10.com/detail/20260602110821976800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
-        },
-        {
-          "title": "【伊朗伊斯兰革命卫队称对美以船只实施打击】当地时间6月1日晚，伊朗伊斯兰革命卫队宣布，在美国军队对伊朗位于阿曼湾的船只发动侵略性袭击后，伊朗伊斯兰革命卫队海军采取报复行动，使用巡航导弹击中了属于美以势力的“萨里斯卡”（Sariska）号船只。伊朗伊斯兰革命卫队海军强调，任何美国军队在该地区的任何侵略行为都将遭到坚决回应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3112641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "伊朗计划彻底封锁霍尔木兹",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
@@ -666,7 +756,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时30分"
         },
@@ -693,6 +783,17 @@
           "time_info": "04时19分"
         },
         {
+          "title": "IBM美股盘前短线拉升，跌幅一度收窄至2%，公司承诺在未来五年投入逾100亿美元用于量子计算。",
+          "url": "https://wallstreetcn.com/livenews/3113069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
           "url": "https://www.cls.cn/detail/2387720",
           "source": "财联社热门",
@@ -716,6 +817,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 11时55分]"
+        },
+        {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前涨4.6%，与Arm合作推出节能型AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260602200501660800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         },
         {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
@@ -889,11 +1012,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时30分]"
+          "appearance_count": 5,
+          "time_info": "[11时55分 ~ 20时42分]"
         },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
@@ -931,6 +1055,34 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
+        },
+        {
+          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
+          "url": "https://wallstreetcn.com/livenews/3112923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -955,23 +1107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
-          "url": "https://wallstreetcn.com/livenews/3112923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
         }
       ]
     },

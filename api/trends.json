@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-03T12:02:49.037634+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-03T17:25:24.055547+08:00",
+  "total_titles_processed": 934,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 17时25分]"
+        },
         {
           "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
           "url": "https://www.cls.cn/detail/2388968",
@@ -20,15 +31,26 @@
           "time_info": "[07时02分 ~ 12时02分]"
         },
         {
-          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
-          "url": "https://wallstreetcn.com/articles/3773650",
-          "source": "华尔街见闻",
+          "title": "英特尔美股盘前涨超4%，新处理器Xeon 6 Plus亮相，进军AI整机柜市场。",
+          "url": "https://wallstreetcn.com/livenews/3113678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "17时25分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前涨幅达5%。",
+          "url": "https://flash.jin10.com/detail/20260603171709790800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
@@ -142,6 +164,28 @@
           "time_info": "04时48分"
         },
         {
+          "title": "大戏即将开演！美股IPO市场今年显著回暖 三大独角兽即将接力登场",
+          "url": "https://www.cls.cn/detail/2389478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "“巨无霸IPO”即将接踵而至，以史为鉴美股要崩了？一文看懂",
+          "url": "https://www.cls.cn/detail/2389038",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "GitLab对全职员工裁员大约14%，退出22个国家。 该公司一季度调整后每股收益（EPS）为0.23美元，分析师预期0.21美元。 预计全年营收11.1亿-11.2亿美元，公司原本预计11.0亿-11.2亿美元。 预计二季度营收2.72亿-27.4亿美元，分析师预期2.732亿美元。 GitLab美股盘后涨13%。",
           "url": "https://wallstreetcn.com/livenews/3113272",
           "source": "华尔街见闻-快讯",
@@ -184,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘前涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260603171031731800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "半导体ETF收涨4%，领跑美股行业ETF，标普电信板块跌2.6%",
@@ -244,7 +299,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -275,11 +330,12 @@
           "url": "https://news.ifeng.com/c/8teM8SFj90x",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 17时25分]"
         },
         {
           "title": "美军发射“地狱火”导弹，击中一艘伊朗相关油轮",
@@ -288,7 +344,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -299,7 +355,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -315,6 +371,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗最高领袖批准成立霍尔木兹海峡问题工作组",
+          "url": "https://news.ifeng.com/c/8tekQlYHnoj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
           "source": "百度热搜",
@@ -328,6 +395,18 @@
           "time_info": "[01时22分 ~ 07时02分]"
         },
         {
+          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 17时25分]"
+        },
+        {
           "title": "伊朗袭击位于科威特的美军基地",
           "url": "https://flash.jin10.com/detail/20260603062608170800",
           "source": "金十数据",
@@ -339,15 +418,37 @@
           "time_info": "07时02分"
         },
         {
+          "title": "伊朗最高领袖军事顾问：将坚决回应每一次侵略",
+          "url": "https://wallstreetcn.com/livenews/3113673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美以袭击伊朗进入第 96 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2045279638348199640",
           "source": "知乎",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "据沙特国家新闻社：科威特机场在评估伊朗袭击造成的损害后，恢复了4号航站楼的航班。",
+          "url": "https://flash.jin10.com/detail/20260603171617350800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "据伊朗德黑兰时报：有报告称，位于科威特的“阿里·萨利姆”（Ali Al-Salem）基地遭到袭击。",
@@ -378,7 +479,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -389,7 +490,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -403,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33296755",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
         },
         {
           "title": "美国国务卿鲁比奥：没有伊朗就没有黎巴嫩真主党，该组织完全是伊朗的代理人。",
@@ -480,12 +570,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗导弹爆炸现场画面",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -567,6 +668,28 @@
           "time_info": "[01时22分 ~ 12时02分]"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡“疯了”：要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "地产商治国？“小特朗普”将任代理国家情报总监",
+          "url": "https://news.ifeng.com/c/8teUlNkkPvO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
           "url": "https://wallstreetcn.com/livenews/3113212",
           "source": "华尔街见闻-快讯",
@@ -584,7 +707,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -593,11 +716,34 @@
           "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 17时25分]"
+        },
+        {
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "17时25分"
+        },
+        {
+          "title": "“罗生门”再现！伊方曝信息交换“已暂停数日” 特朗普坚称对话持续进行",
+          "url": "https://www.cls.cn/detail/2389030",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
@@ -606,7 +752,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -698,7 +844,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
@@ -707,9 +853,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
+        },
+        {
+          "title": "三大科技明星企业扎堆IPO：SpaceX之后，Anthropic要领先OpenAI了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33292456",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
         },
         {
           "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
@@ -746,9 +903,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 17时25分]"
         },
         {
           "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
@@ -824,7 +981,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         },
@@ -835,7 +992,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
         }

@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-06-04T19:54:18.721702+08:00",
-  "total_titles_processed": 1094,
-  "failed_sources": [],
+  "generated_at": "2026-06-04T23:02:19.402256+08:00",
+  "total_titles_processed": 1257,
+  "failed_sources": [
+    "ifeng",
+    "weibo"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -19,6 +22,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 19时54分]"
+        },
+        {
+          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
+          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 23时00分]"
         },
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -43,18 +58,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 07时43分]"
-        },
-        {
-          "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
-          "url": "https://news.ifeng.com/c/8tfsjOCN3Os",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 19时54分]"
         },
         {
           "title": "特朗普任命房屋监管主管兼任情报总监",
@@ -86,9 +89,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
+          "url": "https://wallstreetcn.com/livenews/3114513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普斥众议院投票：宁愿国家失败也不让我再赢一次",
@@ -97,9 +111,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普的投资经理对交易拥有决定权。",
+          "url": "https://flash.jin10.com/detail/20260604225103943800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "特朗普欲将以黎冲突和美伊谈判“分开处理”",
@@ -136,6 +161,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美国财长贝森特：特朗普的投资完全由第三方管理。",
+          "url": "https://flash.jin10.com/detail/20260604225015201800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
           "url": "https://wallstreetcn.com/livenews/3114035",
           "source": "华尔街见闻-快讯",
@@ -170,13 +206,24 @@
           "time_info": "[07时43分 ~ 11时57分]"
         },
         {
+          "title": "美众议院通过决议，限制特朗普对伊动武权力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33304841",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普：美国正处于结束伊朗战争的最后谈判阶段。",
           "url": "https://wallstreetcn.com/livenews/3114408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -231,7 +278,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -275,9 +322,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美国财长贝森特重申，无法对美国总统特朗普与国税局的和解问题发表评论。",
+          "url": "https://flash.jin10.com/detail/20260604222240545800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普认为赞成限制其战争权力的众议员“不爱国”",
+          "url": "https://wallstreetcn.com/livenews/3114496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "鲁比奥称特朗普政府将推动北约进行“重大改革”",
@@ -385,7 +454,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -437,7 +506,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -490,7 +559,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -570,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "美众院首次通过决议 要求结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3114506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "国际油价一度涨超2%，美军称伊朗在整个中东范围发动袭击",
@@ -660,6 +740,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3114497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：任何导致民众悲观和沮丧的行为都是对敌人的一种帮助。",
           "url": "https://flash.jin10.com/detail/20260604154222232800",
           "source": "金十数据",
@@ -693,6 +784,17 @@
           "time_info": "16时22分"
         },
         {
+          "title": "国际原子能机构：无法确认伊朗浓缩铀的状况和位置",
+          "url": "https://wallstreetcn.com/livenews/3114491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗外长：若以色列侵略贝鲁特 则将重新开战",
           "url": "https://wallstreetcn.com/livenews/3114062",
           "source": "华尔街见闻-快讯",
@@ -702,6 +804,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://flash.jin10.com/detail/20260604221304618800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "科威特称伊朗袭击致63人受伤",
@@ -718,18 +831,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "中东局势再度升级，原油走高，美股债双杀，标普九连涨终结，金属和加密货币齐跌",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[07时43分 ~ 23时02分]"
         },
         {
           "title": "美股两个月狂飙16%：历史只出现过4次，最近一次是1987崩盘前！",
@@ -767,6 +881,17 @@
           "time_info": "[02时43分 ~ 05时49分]"
         },
         {
+          "title": "李大霄谈美股风险释放",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时00分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普言论提振有限，美股指涨跌互现，Marvell开盘涨近10%，油价涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3773742",
           "source": "华尔街见闻",
@@ -789,6 +914,19 @@
           "time_info": "16时22分"
         },
         {
+          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
+          "url": "https://www.cls.cn/detail/2390543",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 23时02分]"
+        },
+        {
           "title": "美股期指下跌 布油站上98美元 比特币跌破6.7万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2389957",
           "source": "财联社热门",
@@ -801,16 +939,15 @@
           "time_info": "[02时43分 ~ 07时43分]"
         },
         {
-          "title": "小红书出手，发布“抓紧港美股开通”诱导贴、倒卖外资研报等乱象被集中整治",
-          "url": "https://www.cls.cn/detail/2390543",
-          "source": "财联社热门",
+          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
+          "url": "https://wallstreetcn.com/articles/3773846",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时22分 ~ 19时54分]"
+          "time_info": "[23时00分 ~ 23时02分]"
         },
         {
           "title": "如何看待美股窄牛",
@@ -864,7 +1001,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -897,7 +1034,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -927,7 +1064,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -936,11 +1073,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 19时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 23时02分]"
         },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
@@ -954,13 +1092,24 @@
           "time_info": "05时49分"
         },
         {
+          "title": "Gemini 美国豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E8%B1%86%E5%8C%85&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时00分"
+        },
+        {
           "title": "谷歌计划释放3200万只蚊子",
           "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
           "source": "百度热搜",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -974,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "谷歌计划投放3200万只蚊子",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时00分"
         },
         {
           "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
@@ -1116,7 +1276,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }

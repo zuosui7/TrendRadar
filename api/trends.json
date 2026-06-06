@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T14:52:57.063123+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-06-06T17:26:45.246689+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -30,13 +30,24 @@
           "time_info": "[11时25分 ~ 14时52分]"
         },
         {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "普京：感谢特朗普调教泽连斯基举止",
           "url": "https://www.toutiao.com/trending/7648146652452245030/",
           "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -189,6 +200,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 14时52分]"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导人尚未与美国达成结束当前战争的协议，因为他们“强硬”且“自负”。但最终“他们别无选择”，只能达成协议。",
@@ -411,17 +434,6 @@
           "time_info": "07时09分"
         },
         {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
           "url": "https://flash.jin10.com/detail/20260606031919745800",
           "source": "金十数据",
@@ -568,7 +580,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 39,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -582,15 +594,48 @@
           "time_info": "07时09分"
         },
         {
-          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
-          "url": "https://wallstreetcn.com/livenews/3115430",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗称美军第五舰队总部遭打击，美方否认",
@@ -599,7 +644,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -610,9 +655,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -639,6 +695,18 @@
           "time_info": "[03时54分 ~ 05时26分]"
         },
         {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
+        },
+        {
           "title": "风水轮流转，轮到伊朗威胁美国了",
           "url": "https://news.ifeng.com/c/8tjAgk0yryi",
           "source": "凤凰网",
@@ -648,6 +716,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时25分 ~ 14时52分]"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 17时26分]"
         },
         {
           "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
@@ -697,26 +789,26 @@
           "time_info": "07时09分"
         },
         {
-          "title": "白宫：伊朗国足已获得签证",
-          "url": "https://wallstreetcn.com/livenews/3115427",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
         },
         {
-          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
-          "url": "https://wallstreetcn.com/livenews/3115423",
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "17时26分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
@@ -763,6 +855,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "美军中央司令部称拦截了伊朗导弹和无人机",
           "url": "https://flash.jin10.com/detail/20260606101944957800",
           "source": "金十数据",
@@ -772,6 +875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
@@ -909,8 +1023,32 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 17时26分]"
+        },
+        {
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 17时26分]"
+        },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
           "url": "https://wallstreetcn.com/articles/3773949",
@@ -924,30 +1062,6 @@
           "time_info": "[01时55分 ~ 14时52分]"
         },
         {
-          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 14时52分]"
-        },
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时09分 ~ 14时52分]"
-        },
-        {
           "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2046360260902909588",
           "source": "知乎",
@@ -955,8 +1069,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时26分]"
         },
         {
           "title": "迈威尔科技（美满科技）美股盘后涨5%，该公司将被纳入标普500指数。",
@@ -991,6 +1105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）热门中概股行情一览（美股收盘）",
@@ -1183,8 +1308,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
         {
           "title": "国际金价在非农日跌约3.3%，白银跌8%，纽约铜跌超4%",
           "url": "https://wallstreetcn.com/livenews/3115341",
@@ -1241,11 +1377,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时26分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1345,11 +1482,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 17时26分]"
         }
       ]
     }

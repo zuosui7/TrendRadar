@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T18:23:46.932763+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-06-11T22:37:04.743935+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时15分 ~ 13时29分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 22时37分]"
         },
         {
           "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
@@ -81,7 +94,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -103,7 +116,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -162,6 +175,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 22时37分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗米纳卜地区传出爆炸声。",
@@ -232,18 +258,6 @@
           "time_info": "[00时59分 ~ 08时15分]"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时23分]"
-        },
-        {
           "title": "伊朗全面关闭霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7649365955310718483/",
           "source": "今日头条",
@@ -256,18 +270,6 @@
           "time_info": "[08时15分 ~ 13时29分]"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时23分]"
-        },
-        {
           "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
           "url": "https://www.cls.cn/detail/2396606",
           "source": "财联社热门",
@@ -277,6 +279,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时15分 ~ 13时29分]"
+        },
+        {
+          "title": "美军称再次对伊朗目标实施“自卫性”打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355301",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "伊朗局势骤然升级，科技股抛售加剧，纳指跌2%，盘后甲骨文跳水9%，黄金暴跌",
@@ -307,7 +320,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -373,9 +386,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美财长称将用伊朗账户资金补偿海湾国家损失",
+          "url": "https://wallstreetcn.com/livenews/3118240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：德黑兰西部传出防空活动声响。",
@@ -477,6 +501,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "阿联酋和伊朗表示已举行面对面会谈以缓和紧张局势。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3118235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "伊朗议会国家安全委员会主席：这一次，战争将不会局限于本地区。",
           "url": "https://wallstreetcn.com/livenews/3117661",
           "source": "华尔街见闻-快讯",
@@ -519,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "世界银行：三分之二经济体因伊朗战争受到冲击",
+          "url": "https://wallstreetcn.com/livenews/3118230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "伊朗将强力回应美侵略行动",
@@ -675,6 +721,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "炸哈尔克岛就能逼伊朗签约？前智库研究员掏出分级施压方案",
+          "url": "https://flash.jin10.com/detail/20260611215015368800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "以色列防长称针对伊朗的军事行动“远未结束”",
           "url": "https://wallstreetcn.com/livenews/3117691",
           "source": "华尔街见闻-快讯",
@@ -684,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：将监测能源价格上涨的幅度和持续性。 资产价格突然大幅下跌将对金融稳定构成风险。 伊朗战争的间接成本也开始显现。 我们将发布较为温和的情景预测。 如果不做出这个决策，到预测期末我们的目标将会被大幅超出。",
+          "url": "https://wallstreetcn.com/livenews/3118219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "伊朗总统：伊朗将坚定不移抵御任何压力和威胁",
@@ -722,7 +790,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -772,6 +840,17 @@
           "time_info": "[13时28分 ~ 13时29分]"
         },
         {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
           "url": "https://www.cls.cn/detail/2396641",
           "source": "财联社热门",
@@ -792,6 +871,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 13时29分]"
+        },
+        {
+          "title": "加拿大美加贸易事务部长勒布朗：对美国总统特朗普不会在7月1日续签美墨加协定（USMCA）并不感到意外。",
+          "url": "https://flash.jin10.com/detail/20260611221354944800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "伊朗总统：将反对（美国总统特朗普发出的）任何威胁。",
@@ -860,6 +950,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "伊朗回应特朗普威胁：将更强烈反击美方",
+          "url": "https://flash.jin10.com/detail/20260611220945573800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "特朗普：我喜欢通胀",
           "url": "https://wallstreetcn.com/livenews/3117628",
           "source": "华尔街见闻-快讯",
@@ -884,6 +985,17 @@
           "time_info": "[00时59分 ~ 08时15分]"
         },
         {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
           "url": "https://wallstreetcn.com/articles/3774257",
           "source": "华尔街见闻",
@@ -894,6 +1006,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，美伊谈判幕后发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "特朗普说今晚将重创伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%8A%E6%99%9A%E5%B0%86%E9%87%8D%E5%88%9B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "特朗普称已与伊朗官员直接通话 伊朗方面否认",
@@ -993,6 +1127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "伊朗革命卫队否认伊朗官员曾主动接触特朗普",
+          "url": "https://wallstreetcn.com/livenews/3118234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "特朗普签署了一项规模700亿美元的法案，为美国移民与海关执法局（ICE）及边境巡逻队提供资金。",
@@ -1116,6 +1261,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "特朗普称今晚将更猛烈轰炸伊朗",
+          "url": "https://wallstreetcn.com/livenews/3118226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
           "title": "特朗普重申房利美和房地美的估值可能达到1万亿美元。",
           "url": "https://flash.jin10.com/detail/20260611000058747800",
           "source": "金十数据",
@@ -1229,7 +1385,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1240,8 +1396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时15分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[08时15分 ~ 22时37分]"
         },
         {
           "title": "美股收盘：避险情绪升温芯片板块再现抛售潮 道指纳指跌近2%",
@@ -1256,15 +1412,38 @@
           "time_info": "[08时15分 ~ 13时29分]"
         },
         {
+          "title": "交火暂歇，特朗普威胁发动新袭击，美股高开，油价走低，黄金重回4080美元",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
           "url": "https://wallstreetcn.com/articles/3774357",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时23分]"
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 22时37分]"
+        },
+        {
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -1284,9 +1463,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.42%，标普500指数涨0.5%，纳指涨0.5%。英特尔上涨7.4%，因美国银行将公司评级上调至“买入”。甲骨文下跌12%，创去年12月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3118229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
+        {
+          "title": "美股高开高走，纳斯达克100指数涨幅扩大至1.5%。道指现涨0.9%，标普500指数涨0.8%。光伏板块涨逾7%，3倍做多韩国ETF(KORU.N)涨17.4%。",
+          "url": "https://flash.jin10.com/detail/20260611215623778800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "亚马逊扩张零担物流业务，引爆美股运输板块新一轮暴跌，传统货运巨头全线重挫",
@@ -1298,6 +1499,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "金十图示：2026年06月11日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260611214905160800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "美股大类资产类ETF多数收跌，黄金ETF跌超4.1%，纳指ETF跌2%",
@@ -1331,13 +1543,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3118216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
+          "url": "https://wallstreetcn.com/livenews/3118246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
+        },
         {
           "title": "谷歌推出DiffusionGemma实验性开源模型。",
           "url": "https://wallstreetcn.com/livenews/3117624",
@@ -1348,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "由于谷歌方面的担忧，Crusoe在怀俄明州人工智能项目中被边缘化。谷歌正与剩余合作伙伴商谈使用怀俄明州数据中心事宜。",
+          "url": "https://flash.jin10.com/detail/20260611220222334800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时37分"
         },
         {
           "title": "谷歌发言人：公司致力于与加拿大政府合作，建立所有平台的更高安全标准。",
@@ -1374,8 +1619,71 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时28分 ~ 18时23分]"
+        },
+        {
+          "title": "金价抹去今年全部涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 13时29分]"
+        },
+        {
+          "title": "金价反弹拐点何时到来",
+          "url": "https://www.toutiao.com/trending/7650096865626557971/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "金价跌了生意却没疯涨时好",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E7%94%9F%E6%84%8F%E5%8D%B4%E6%B2%A1%E7%96%AF%E6%B6%A8%E6%97%B6%E5%A5%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
+        },
+        {
+          "title": "花旗：金价可能跌到3500美元",
+          "url": "https://www.toutiao.com/trending/7649366995154944043/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时38分 ~ 06时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
@@ -1388,6 +1696,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 18时23分]"
+        },
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         },
         {
           "title": "报道：Altman预计OpenAI将于未来一年内IPO",
@@ -1414,43 +1733,36 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
+          "title": "DeepSeek为何发力Agent",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时23分]"
-        },
-        {
-          "title": "金价抹去今年全部涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时15分 ~ 13时29分]"
-        },
-        {
-          "title": "花旗：金价可能跌到3500美元",
-          "url": "https://www.toutiao.com/trending/7649366995154944043/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时38分 ~ 06时02分]"
+          "time_info": "[22时36分 ~ 22时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格较近期高点下跌 20%，四年来首次正式迈入熊市，黄金到底为什么崩了？",
+          "url": "https://www.zhihu.com/question/2048414803740160205",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时36分 ~ 22时37分]"
         }
       ]
     }

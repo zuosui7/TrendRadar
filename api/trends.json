@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T00:22:04.423125+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-06-15T02:13:01.259507+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "伊朗披露美伊谈判备忘录细节",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "“美军如果强抢伊朗浓缩铀，全球经济或遭灾难性打击”",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
@@ -48,30 +48,115 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书就以色列袭击黎巴嫩事件表示：各方团结形成了捍卫地区安全的链条。黎巴嫩是我们的灵魂，侵犯伊朗的红线将不会被容忍。",
+          "url": "https://flash.jin10.com/detail/20260615014745690800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "伊朗总统：战争和谈判的决定权在伊领导层",
           "url": "https://wallstreetcn.com/livenews/3119261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
         },
         {
           "title": "伊朗消息人士称伊方正通过卡塔尔向美方传达协议相关信息",
           "url": "https://wallstreetcn.com/livenews/3119259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3119255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗方面称，与美国的协议尚未最终敲定。 伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3119251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：“有信心”在周日达成伊朗协议。（ABC）",
+          "url": "https://wallstreetcn.com/livenews/3119245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
+          "url": "https://wallstreetcn.com/livenews/3119241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗武装部队说以色列袭击黎巴嫩“不会没有回应”",
+          "url": "https://wallstreetcn.com/livenews/3119240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
+        },
+        {
+          "title": "世界杯首战前夕，伊朗国足代表团多人再遭美拒签",
+          "url": "https://wallstreetcn.com/livenews/3119239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 02时13分]"
         },
         {
           "title": "伊朗称将就贝鲁特遭袭报复以色列",
@@ -85,24 +170,35 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "伊朗男足佩戴徽章纪念168名遇难儿童",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%B7%E8%B6%B3%E4%BD%A9%E6%88%B4%E5%BE%BD%E7%AB%A0%E7%BA%AA%E5%BF%B5168%E5%90%8D%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时12分 ~ 02时13分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书就以色列袭击黎巴嫩事件表示：“伊斯兰战士”即将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260615014259160800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们对邻国受到军事行动影响表示遗憾。",
           "url": "https://flash.jin10.com/detail/20260614235429415800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3119255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -113,7 +209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -124,9 +220,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据以色列第15频道：如果伊朗向以色列发射导弹，以色列决定进行军事回应。",
+          "url": "https://flash.jin10.com/detail/20260615013740154800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：与海湾国家的问题和误解正在得到解决。",
@@ -135,7 +242,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -146,18 +253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗方面称，与美国的协议尚未最终敲定。 伊朗通过卡塔尔团队向美国传达其希望达成的条款。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3119251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -168,9 +264,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据第12频道援引以方安全官员：以方今日对贝鲁特发动袭击时，已预期伊朗会因此发起报复性攻击。",
+          "url": "https://flash.jin10.com/detail/20260615013101335800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们的行动针对的是这些国家境内的美国基地。",
@@ -179,7 +286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -190,7 +297,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -201,51 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "美国驻联合国大使Waltz声称：“有信心”在周日达成伊朗协议。（ABC）",
-          "url": "https://wallstreetcn.com/livenews/3119245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗革命卫队将领：已做好准备应对任何敌对行动",
-          "url": "https://wallstreetcn.com/livenews/3119241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "伊朗武装部队说以色列袭击黎巴嫩“不会没有回应”",
-          "url": "https://wallstreetcn.com/livenews/3119240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "世界杯首战前夕，伊朗国足代表团多人再遭美拒签",
-          "url": "https://wallstreetcn.com/livenews/3119239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -256,7 +319,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -267,7 +330,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -278,7 +341,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -289,7 +352,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -300,9 +363,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗最高联合军事指挥部表示，我们正等待“敌人”犯下任何最微小的错误，以便“给他们一个终生难忘的教训”。",
+          "url": "https://flash.jin10.com/detail/20260615005609312800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "伊朗议员：对伊美谅解备忘录的部分批评失实",
@@ -311,7 +385,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -322,7 +396,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         }
@@ -330,7 +404,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 21,
       "titles": [
         {
           "title": "美伊协议何时签署？特朗普说14日，伊朗否认，“霍尔木兹海峡是否“免费”重开”也各执一词",
@@ -340,8 +414,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "据以色列第12频道：美国总统特朗普称，我与内塔尼亚胡通话时告诉他：“你到底在干什么？？？”",
@@ -350,9 +424,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
+          "url": "https://wallstreetcn.com/livenews/3119268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "自说自话？美媒细数特朗普曾39次说与伊朗“谈好了”",
@@ -362,8 +447,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "特朗普：美伊协议计划于周日签署 霍尔木兹海峡随后立即开放",
@@ -373,8 +458,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         },
         {
           "title": "白宫上演特技摩托车秀，庆祝特朗普80大寿",
@@ -384,8 +469,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
+          "url": "https://wallstreetcn.com/livenews/3119258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "time_info": "[00时22分 ~ 02时13分]"
         },
         {
           "title": "特朗普称美伊协议计划14日签署",
@@ -399,15 +496,26 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
-          "title": "特朗普批评以色列“干扰”美伊签署协议：“非常接近”达成美伊协议，将给黎巴嫩带来和平",
-          "url": "https://wallstreetcn.com/livenews/3119258",
+          "title": "美伊协议文本浮现多个版本 特朗普坚称周日签署",
+          "url": "https://flash.jin10.com/detail/20260615014618261800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "特朗普在生日当天与普京和泽连斯基通话：告知俄方美伊谈判取得可接受结果",
+          "url": "https://wallstreetcn.com/livenews/3119266",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "02时13分"
         },
         {
           "title": "克里姆林宫：普京与特朗普达成一致，史蒂夫·威特科夫和贾里德·库什纳将在近期再次访问俄罗斯。",
@@ -416,9 +524,64 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "俄总统助理：特朗普与普京通话，美伊谈判结果将公布",
+          "url": "https://wallstreetcn.com/livenews/3119264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "据以色列第15频道：以色列不会同意不对伊朗做出回应，即使这是美国总统特朗普的意愿。",
+          "url": "https://flash.jin10.com/detail/20260615013903490800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "据以色列第13频道：以方评估认为，特朗普旨在阻止伊朗发动打击的努力将取得成功。",
+          "url": "https://flash.jin10.com/detail/20260615013436769800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "泽连斯基：与特朗普通话 讨论战争与外交机遇",
+          "url": "https://flash.jin10.com/detail/20260615012955182800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
+          "title": "据第12频道援引以方评估，特朗普将很快宣布“给予”伊朗某些东西，以换取对方不对以色列在贝鲁特的袭击作出回应。",
+          "url": "https://flash.jin10.com/detail/20260615012828040800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "俄媒：特朗普对普京祝贺“感动” 称其为今日首位致电的外国领导人",
@@ -427,9 +590,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "以色列一名高级内阁部长对第12频道表示：“在我们看来，伊朗是特朗普的问题，他有权寻求达成协议，但黎巴嫩是我们的问题，我们绝不能同意伊朗提出的等式，即便付出与美国发生严重对抗的代价。”",
+          "url": "https://flash.jin10.com/detail/20260615012456237800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         },
         {
           "title": "俄媒：普京与特朗普通电话，持续55分钟",
@@ -438,7 +612,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -449,9 +623,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "一名以色列高级官员对第12频道表示，特朗普的表态是“一记响亮的耳光”，“限制已经升级，期望我们不在黎巴嫩任何地方进行打击，这与战略盟友的定位不符。”",
+          "url": "https://flash.jin10.com/detail/20260615010612115800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时13分"
         }
       ]
     },
@@ -467,8 +652,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         }
       ]
     },
@@ -484,8 +669,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时13分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-16T18:07:30.953549+08:00",
-  "total_titles_processed": 963,
+  "generated_at": "2026-06-16T23:53:19.391160+08:00",
+  "total_titles_processed": 1176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 73,
       "titles": [
         {
           "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
@@ -58,6 +58,18 @@
           "time_info": "[12时03分 ~ 18时07分]"
         },
         {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
+        },
+        {
           "title": "伊朗2-2新西兰",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "bilibili 热搜",
@@ -70,26 +82,38 @@
           "time_info": "[12时03分 ~ 18时07分]"
         },
         {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
+        },
+        {
           "title": "伊朗主帅：球队被勒令立即离开美国",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%BB%E5%B8%85%EF%BC%9A%E7%90%83%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
         {
-          "title": "伊朗队被勒令离开美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
+          "url": "https://www.zhihu.com/question/2050229682415613269",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "23时53分"
         },
         {
           "title": "伊朗vs新西兰前瞻",
@@ -116,17 +140,6 @@
           "time_info": "05时43分"
         },
         {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
           "title": "伊朗2比2新西兰",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%972%E6%AF%942%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -138,26 +151,15 @@
           "time_info": "12时03分"
         },
         {
-          "title": "两度扳平!伊朗2-2新西兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "伊朗队突然被勒令离开美国",
-          "url": "https://www.toutiao.com/trending/7651870551576677938/",
-          "source": "今日头条",
+          "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
+          "url": "https://v.ifeng.com/c/8tyNCvcMxI6",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时07分"
+          "time_info": "23时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡：无论是否存在协议，伊朗都不会拥有核武器。 （以色列与美国发动的）战争让伊朗核威胁被推迟了数年。",
@@ -216,6 +218,18 @@
           "time_info": "[02时26分 ~ 07时45分]"
         },
         {
+          "title": "伊朗队被勒令离开美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：在霍尔木兹海峡的格什姆岛南部听到三声爆炸声。爆炸可能与交通管理有关。",
           "url": "https://flash.jin10.com/detail/20260616051853848800",
           "source": "金十数据",
@@ -238,6 +252,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗队突然被勒令离开美国",
+          "url": "https://www.toutiao.com/trending/7651870551576677938/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
         },
         {
           "title": "伊朗用AI让球员牵遇难儿童入场",
@@ -286,6 +312,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 05时43分]"
+        },
+        {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
         },
         {
           "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
@@ -346,6 +384,28 @@
           "time_info": "02时26分"
         },
         {
+          "title": "据CNN：三位知情人士透露，美国情报机构近期评估认为，伊朗从现在起能够随时有效地切断霍尔木兹海峡的通行；这意味着，受战争影响，伊朗已获得了一项能够影响全球经济的强大新能力。",
+          "url": "https://flash.jin10.com/detail/20260616233924536800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：没有人能断言伊朗政权何时会垮台，但在类似情况下，其他专制政权此前也曾倒台。",
           "url": "https://flash.jin10.com/detail/20260616021641357800",
           "source": "金十数据",
@@ -374,18 +434,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -418,7 +467,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -429,9 +478,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "伊朗议长加利巴夫：以色列必须从黎巴嫩撤军",
+          "url": "https://wallstreetcn.com/livenews/3120406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
@@ -473,7 +533,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -500,6 +560,17 @@
           "time_info": "05时43分"
         },
         {
+          "title": "媒体：伊朗踢个球美国如临大敌",
+          "url": "https://www.toutiao.com/trending/7651933802163342902/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：如果没有美国和以色列的行动，伊朗将拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260616020618755800",
           "source": "金十数据",
@@ -522,6 +593,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "伊朗议会议长、顶级谈判员卡利巴夫与黎巴嫩议会议长通电话时表示：以色列必须退出黎巴嫩“被占领的地区”。 以色列必须从所有战线离开，其中就包括黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3120397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "伊朗国足获准世界杯比赛时在美过夜",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%8E%B7%E5%87%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%97%B6%E5%9C%A8%E7%BE%8E%E8%BF%87%E5%A4%9C",
           "source": "百度热搜",
@@ -531,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗需要数年才能恢复。",
@@ -575,6 +668,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "国际足联主席到更衣室探望伊朗球员",
+          "url": "https://www.toutiao.com/trending/7651693987186851883/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我一生的使命是与伊朗核计划作斗争。无论是否达成协议，伊朗都不会拥有核武器。人们问我们取得了什么成就，答案是：消除了对我们生存的直接威胁。",
@@ -682,7 +786,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -709,13 +813,24 @@
           "time_info": "02时26分"
         },
         {
+          "title": "伊朗两度扳平现场爆燃",
+          "url": "https://www.toutiao.com/trending/7651671887785246756/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "伊朗议长加利巴夫将与美国签署临时协议。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3120183",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -723,7 +838,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 47,
       "titles": [
         {
           "title": "打脸马克龙？特朗普就数字服务税发难",
@@ -763,6 +878,17 @@
           "time_info": "[02时26分 ~ 07时45分]"
         },
         {
+          "title": "特朗普：感谢中俄帮忙",
+          "url": "https://news.ifeng.com/c/8tzsMW2n662",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
+        },
+        {
           "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
           "url": "https://www.cls.cn/detail/2400017",
           "source": "财联社热门",
@@ -772,17 +898,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 05时43分]"
-        },
-        {
-          "title": "特朗普：感谢中俄帮忙",
-          "url": "https://news.ifeng.com/c/8tzsMW2n662",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们与美国总统特朗普是平等伙伴关系。",
@@ -813,9 +928,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "据Politico：两位知情人士透露，2028年洛杉矶奥运会的组织者正与特朗普政府合作，计划在夏季奥运会前夕于洛杉矶特朗普国家高尔夫俱乐部举办一场锦标赛。这凸显了组织者认为与白宫保持良好关系对于成功举办奥运会至关重要。",
+          "url": "https://flash.jin10.com/detail/20260616234446839800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美国总统特朗普：伊朗协议进入第二阶段。 我们认为这是一份公平的协议。 我们不会在伊朗投入任何资金。 伊朗永远无法拥有核武器。",
@@ -824,7 +950,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -846,7 +972,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -862,6 +988,17 @@
           "time_info": "02时26分"
         },
         {
+          "title": "美国联邦登记处公布总统特朗普6月11日的备忘录。",
+          "url": "https://wallstreetcn.com/livenews/3120410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
           "source": "澎湃新闻",
@@ -871,6 +1008,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时07分 ~ 23时53分]"
         },
         {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
@@ -902,7 +1051,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -913,9 +1062,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
+          "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "谁为特朗普白宫格斗赛买单",
@@ -946,7 +1106,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -957,18 +1117,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时07分"
-        },
-        {
-          "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388365",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -979,7 +1128,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1012,7 +1161,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1023,7 +1172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1045,9 +1194,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "总统备忘录显示，特朗普以生产能力有限及供应链脆弱为由，启动《国防生产法》。",
+          "url": "https://flash.jin10.com/detail/20260616232616140800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美加州州长称特朗普指示司法部对其展开调查",
@@ -1061,13 +1221,24 @@
           "time_info": "05时43分"
         },
         {
+          "title": "总统备忘录显示，针对弹药行业的“系统性制约”，美国总统特朗普启用《国防生产法》。",
+          "url": "https://flash.jin10.com/detail/20260616232539315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美国总统特朗普：即便以色列袭击黎巴嫩，该协议仍能维持。",
           "url": "https://flash.jin10.com/detail/20260616175547859800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1111,7 +1282,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1133,7 +1304,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1166,7 +1337,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1196,7 +1367,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -1204,11 +1375,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时45分 ~ 18时07分]"
+          "appearance_count": 4,
+          "time_info": "[07时45分 ~ 23时53分]"
         },
         {
           "title": "美伊达成协议，美股高开，半导体股普涨，石油股普跌，油价重挫5%",
@@ -1231,6 +1403,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 12时03分]"
+        },
+        {
+          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2401513",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "【早报】纳指暴涨3%，美股芯片股狂飙；黄金、白银大涨；西班牙爆冷，0比0战平佛得角",
@@ -1268,6 +1451,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时45分]"
+        },
+        {
+          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
+          "url": "https://www.zhihu.com/question/2049776018660103123",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "周一（6月15日），美股降息赢家指数涨0.34%，报95.17点，跳空高开之后，美股盘初刷新日高至97.88点，随后持续回吐涨幅。",
@@ -1350,8 +1555,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
         {
           "title": "腾讯云 DeepSeek-V3.2 模型下线及切换升级",
           "url": "https://wallstreetcn.com/livenews/3120209",
@@ -1359,7 +1575,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1370,7 +1586,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         },
@@ -1381,9 +1597,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
+        },
+        {
+          "title": "DeepSeek首轮融资梁文锋出资200亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
@@ -1409,7 +1636,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时07分"
         }
@@ -1476,6 +1703,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒天然：6月16日全球乳品贸易（GDT）拍卖价格指数下滑2.8%，奶粉各合同期FAS拍卖均价3,979美元/吨。 批发奶粉价格指数下降3.1%，报3,589美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3120404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     }

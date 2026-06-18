@@ -1,12 +1,40 @@
 {
-  "generated_at": "2026-06-18T16:48:06.995308+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-06-18T20:26:49.107211+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 20时26分]"
+        },
+        {
+          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
+          "url": "https://www.cls.cn/detail/2403312",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 20时26分]"
+        },
         {
           "title": "特朗普对记者大喊：我们签了，在凡尔赛宫里签的",
           "url": "https://v.ifeng.com/c/8u3B5EM0Jqc",
@@ -19,35 +47,9 @@
           "time_info": "[11时55分 ~ 16时48分]"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 16时48分]"
-        },
-        {
           "title": "特朗普G7答UP主提问点赞中国",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AEG7%E7%AD%94UP%E4%B8%BB%E6%8F%90%E9%97%AE%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD",
           "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
-          "title": "美伊协议“推手”曝光？特朗普坦言：我不想看到经济灾难、不想当胡佛！",
-          "url": "https://www.cls.cn/detail/2403312",
-          "source": "财联社热门",
           "ranks": [
             3
           ],
@@ -65,6 +67,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时47分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
+          "url": "https://wallstreetcn.com/articles/3774946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 20时26分]"
         },
         {
           "title": "特朗普迟到自称是老大各国领导发笑",
@@ -100,25 +114,13 @@
           "time_info": "07时36分"
         },
         {
-          "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
-          "url": "https://wallstreetcn.com/articles/3774946",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时48分]"
-        },
-        {
           "title": "克里姆林宫外交政策顾问谈及欧盟对美国总统特朗普的影响：美国总统特朗普是一位强有力的政治家，他坚持自己的观点。",
           "url": "https://flash.jin10.com/detail/20260618164258451800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -192,6 +194,31 @@
           "time_info": "[02时15分 ~ 07时36分]"
         },
         {
+          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 20时26分]"
+        },
+        {
+          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
+          "url": "https://wallstreetcn.com/articles/3774952",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 20时26分]"
+        },
+        {
           "title": "特朗普：欧洲承诺参与霍尔木兹海峡扫雷",
           "url": "https://news.ifeng.com/c/8u3AtJ60oqA",
           "source": "凤凰网",
@@ -240,27 +267,16 @@
           "time_info": "[02时15分 ~ 05时06分]"
         },
         {
-          "title": "美官员称特朗普亲自签署美伊谅解备忘录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33404444",
+          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            14
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时48分]"
-        },
-        {
-          "title": "为美伊协议辩护，特朗普称“不想看到经济灾难”，不想做“导致1929年崩盘的胡佛”",
-          "url": "https://wallstreetcn.com/articles/3774952",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "time_info": "[16时47分 ~ 20时26分]"
         },
         {
           "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
@@ -290,17 +306,6 @@
           "source": "凤凰网",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
-          "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33405392",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -362,6 +367,28 @@
           "time_info": "07时36分"
         },
         {
+          "title": "特朗普：4周耗尽石油储备！美国最大商业原油储存枢纽库存跌至警戒线",
+          "url": "https://wallstreetcn.com/articles/3774931",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
+          "url": "https://news.ifeng.com/c/8u33RqAGLKg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "FED独立性保住了？特朗普“笃信”沃什：按兵不动没问题，可能会加息！",
           "url": "https://www.cls.cn/detail/2403030",
           "source": "财联社热门",
@@ -371,6 +398,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "美学者：特朗普凡尔赛签约离谱至极",
+          "url": "https://news.ifeng.com/c/8u3ct1grAdS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "提醒：美国总统特朗普在七国集团（G7）峰会期间的新闻发布会结束。",
@@ -423,7 +461,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -585,7 +623,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 42,
       "titles": [
         {
           "title": "王毅同伊朗外长通电话",
@@ -607,11 +645,12 @@
             20,
             21,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 16时48分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 20时26分]"
         },
         {
           "title": "美国公布与伊朗达成的谅解备忘录正式文本",
@@ -626,17 +665,6 @@
           "time_info": "[07时36分 ~ 11时55分]"
         },
         {
-          "title": "伊朗称要成为中国真正合作伙伴",
-          "url": "https://www.toutiao.com/trending/7651502265441959942/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
-        },
-        {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
           "url": "https://news.ifeng.com/c/8u2tb6kUsML",
           "source": "凤凰网",
@@ -646,6 +674,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
+          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们在谅解备忘录中接受的每一项承诺都是基于“行动换行动”原则。如果美国未能履行其承诺，我们就不可能履行承诺。",
@@ -701,6 +740,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "伊朗称要成为中国真正合作伙伴",
+          "url": "https://www.toutiao.com/trending/7651502265441959942/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 20时26分]"
         },
         {
           "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
@@ -778,11 +829,12 @@
           "url": "https://www.zhihu.com/question/2050871601684550857",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 20时26分]"
         },
         {
           "title": "据伊朗国家媒体报道，伊朗议会议长卡利巴夫表示，霍尔木兹海峡不会恢复到战前状态，但这并不意味着会违反国际法或海上航行规则。",
@@ -802,9 +854,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
+        },
+        {
+          "title": "伊朗所发文本显示美国将在签署谅解备忘录后立即发放伊朗石油豁免",
+          "url": "https://wallstreetcn.com/livenews/3121680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "美国官员：伊朗协议将与伊朗的行为挂钩。 伊朗已开始解除其封锁。 伊朗可能今晚发布谅解备忘录（MoU）文本。 备忘录文本自上周日以来未作更改。",
@@ -816,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "伊朗总统说伊美谅解备忘录展现“相互尊重”",
+          "url": "https://wallstreetcn.com/livenews/3121673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
@@ -846,7 +920,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -860,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "英国央行行长贝利：尽管停火，但来自伊朗冲突的压力依然存在。对维持利率不变感到满意，但我承认风险偏向上行。 英国央行副行长Breeden：金融状况已显著收紧。发生实质性第二轮效应的可能性很小。 英国央行副行长Lombardelli：在我们进一步了解冲击影响的过程中，维持利率不变是合适的。没有证据表明需求出现迅速恶化。 英国央行副行长Ramsden：我仍对情景A和情景B给予同等权重。金融状况提供了必要的限制性。 英国央行首席经济学家Pill：企业有为提升利润而抬高价格的风险。目前仍倾向于对利率采取“迅速但温和”的行动。 英国央行MPC成员Mann：即使伊朗问题得到解决，可能仍需要积极加息。是时候评估薪资谈判和企业的定价行为。 英国央行MPC成员Greene：英国央行应采取风险管理策略。 英国央行MPC成员Dhingra：在没有更多证据的情况下，无需先发制人地采取行动。 英国央行MPC成员Taylor：如果伊朗停火协议得以维持，更低的利率可能是更可取的选择。",
+          "url": "https://wallstreetcn.com/livenews/3121666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗外交部发言人：目前尚未确认伊朗与美国将于周五在瑞士举行会谈。",
@@ -904,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "伊朗将安排霍尔木兹海峡船只通行 60天内不收取费用",
+          "url": "https://wallstreetcn.com/livenews/3121663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗外交部发言人：伊朗必须能够顺利出售其石油，运输和保险均无障碍，并且必须获得石油出售所得收入。",
@@ -992,12 +1088,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
+        },
+        {
+          "title": "谅解备忘录：伊朗和美国承诺在最多60天内磋商最终协议。 伊朗与美国最终协议的最后期限可经双方同意延长。 美国将在30天内全面结束海上封锁。 伊朗将安排船舶安全通行，60天内不收取任何费用。 商船的交通立即恢复。 伊朗和阿曼将讨论霍尔木兹海峡服务的未来管理问题。 美国与伙伴将共同制定3000亿美元伊朗重建计划。 根据最终协议，美国将终止对伊朗的所有制裁。 伊朗重申不会采购或发展核武器。 伊朗将维持其核计划现状。 美国在最终协议达成前不会实施任何新的制裁。 美国将在谅解备忘录签署后不久发布伊朗石油出口豁免令。",
+          "url": "https://wallstreetcn.com/livenews/3121652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -1008,8 +1115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 16时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 20时26分]"
         },
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -1073,6 +1180,17 @@
           "time_info": "[02时15分 ~ 07时36分]"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-18）",
+          "url": "https://flash.jin10.com/detail/20260618201227960800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
           "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3121255",
           "source": "华尔街见闻-快讯",
@@ -1093,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
@@ -1123,7 +1252,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -1137,6 +1266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "SpaceX美股盘前跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3121676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "金十图示：2026年06月17日（周三）热门中概股行情一览（美股收盘）",
@@ -1167,7 +1307,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -1178,7 +1318,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -1266,11 +1406,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 20时26分]"
         },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
@@ -1317,11 +1458,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 20时26分]"
         },
         {
           "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
@@ -1338,7 +1480,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
@@ -1346,11 +1488,23 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时55分 ~ 16时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 20时26分]"
+        },
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://wallstreetcn.com/livenews/3121655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         }
       ]
     }

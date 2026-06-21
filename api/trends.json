@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T03:29:51.885772+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-06-22T05:13:56.248518+08:00",
+  "total_titles_processed": 426,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "美伊谈判丨消息人士：伊朗谈判代表团拒绝与美方合影",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
@@ -38,8 +38,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "世界杯：比利时vs伊朗",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
+          "url": "https://www.cls.cn/detail/2404706",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "据Axios记者：一名参与会谈的外交官表示，伊朗代表团没有离开，美国与伊朗之间的谈判仍在继续。",
@@ -53,26 +75,26 @@
           "time_info": "01时28分"
         },
         {
-          "title": "美国智库：伊朗战争致美方成本达400亿美元",
-          "url": "https://flash.jin10.com/detail/20260622025530617800",
-          "source": "金十数据",
+          "title": "美国外交官员预计，与伊朗的磋商将持续至（瑞士当地时间）深夜。 预计会谈将在周一结束。 （美国和伊朗的）技术团队可能会滞留瑞士。 本次会谈围绕谅解备忘录（MoU）的执行取得成效。 会谈侧重于（潜在）核协议的组成要素，侧重于黎巴嫩“去冲突”的机制。 会谈就维持霍尔木兹海峡的开放状态取得良好进展。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3122389",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
-          "title": "世界杯：比利时vs伊朗",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
+          "title": "据AXIOS网站：美国外交官表示，伊朗谈判的重点是黎巴嫩的冲突缓解机制以及执行停火协议。",
+          "url": "https://flash.jin10.com/detail/20260622041852645800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗：伊朗石油制裁豁免草案将很快出台",
@@ -84,28 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "报道：伊朗谈判人员仍在与美国接触，伊媒此前称代表离开瑞士会场",
-          "url": "https://wallstreetcn.com/livenews/3122376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "【早报】伊朗谈判代表团已抵达瑞士；荷兰5-1战胜瑞典",
-          "url": "https://www.cls.cn/detail/2404706",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         },
         {
           "title": "据伊朗国家媒体：伊朗外交部发言人表示，周日的会谈集中在结束战争、解除制裁和释放伊朗被冻结资金上。",
@@ -120,16 +120,53 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
+          "title": "美国智库：伊朗战争致美方成本达400亿美元",
+          "url": "https://flash.jin10.com/detail/20260622025530617800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "比利时vs伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "报道：伊朗谈判人员仍在与美国接触，伊媒此前称代表离开瑞士会场",
+          "url": "https://wallstreetcn.com/livenews/3122376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
           "title": "曝伊朗代表团拒绝与美方合影",
           "url": "https://www.toutiao.com/trending/7653772582584614931/",
           "source": "今日头条",
           "ranks": [
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "伊朗代表团拒绝与美方握手合影",
@@ -137,23 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
-          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
-          "url": "https://wallstreetcn.com/livenews/3122362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "伊朗谈判代表团拒绝与美方合影",
@@ -163,8 +189,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "【万斯称美国愿与伊朗“从根本上改变双边关系”】美国副总统万斯在与伊朗举行高级别会谈前表示，美国愿意与伊朗“从根本上改变双边关系”。万斯表示，伊朗和美国领导层此前从未以如此高的级别举行会晤。万斯称：“总统要求我们开启新的篇章，改变我们与伊朗人民的关系，并向伊朗人民伸出友谊之手。如果伊朗领导层愿意放弃成为‘地区不稳定因素’，如果他们愿意长期放弃‘发展核武器的目标’，那么美国愿意从根本上改变与伊朗的关系。”（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "以色列财政部长放话：巴勒斯坦国比伊朗更危险",
@@ -174,8 +213,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "伊朗因球员跑不动多次换人",
@@ -183,11 +222,120 @@
           "source": "微博",
           "ranks": [
             15,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗球员上场前体能已透支",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E4%B8%8A%E5%9C%BA%E5%89%8D%E4%BD%93%E8%83%BD%E5%B7%B2%E9%80%8F%E6%94%AF%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：他们告诉我不要进入拉法，我进入了拉法。他们告诉我不要打击真主党，我们打击了真主党。他们告诉我不要与伊朗对抗，我们与伊朗对抗了。",
+          "url": "https://flash.jin10.com/detail/20260622023439957800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗谈判团队成员称伊石油制裁豁免草案已敲定",
+          "url": "https://wallstreetcn.com/livenews/3122375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们攻击了他们的桥梁，攻击了许多目标。我们对“伊朗革命卫队经济”的累计破坏规模不是以百万计，也不是以数亿美元、数百亿美元计，而是以数千亿美元计算。他们需要很长时间才能恢复。",
+          "url": "https://flash.jin10.com/detail/20260622023414406800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "内塔尼亚胡称以色列已改变对伊朗军事行动限制认知",
+          "url": "https://flash.jin10.com/detail/20260622023257219800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
+          "url": "https://www.cls.cn/detail/2404688",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "据以色列i24News：以色列总理内塔尼亚胡表示：“我们阻止了伊朗实施一项旨在将我们彻底消灭的计划。”",
+          "url": "https://flash.jin10.com/detail/20260622022622900800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "比利时vs伊朗",
+          "url": "https://www.douyin.com/hot/2542821",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "美国副总统万斯：今天的会议意味着技术磋商开始。 今天与伊朗的对话不会解决所有分歧。",
@@ -226,30 +374,6 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
-          "title": "伊朗球员上场前体能已透支",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E4%B8%8A%E5%9C%BA%E5%89%8D%E4%BD%93%E8%83%BD%E5%B7%B2%E9%80%8F%E6%94%AF%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，关于伊朗被冻结资金释放的执行程序已经启动，卡塔尔代表团参与其中。",
           "url": "https://flash.jin10.com/detail/20260622003814040800",
           "source": "金十数据",
@@ -259,28 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：他们告诉我不要进入拉法，我进入了拉法。他们告诉我不要打击真主党，我们打击了真主党。他们告诉我不要与伊朗对抗，我们与伊朗对抗了。",
-          "url": "https://flash.jin10.com/detail/20260622023439957800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "伊朗谈判团队成员称伊石油制裁豁免草案已敲定",
-          "url": "https://wallstreetcn.com/livenews/3122375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         },
         {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，如果黎巴嫩的战争无法结束，那么关于其他议题的谈判将不会进行。",
@@ -294,48 +396,26 @@
           "time_info": "01时28分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们攻击了他们的桥梁，攻击了许多目标。我们对“伊朗革命卫队经济”的累计破坏规模不是以百万计，也不是以数亿美元、数百亿美元计，而是以数千亿美元计算。他们需要很长时间才能恢复。",
-          "url": "https://flash.jin10.com/detail/20260622023414406800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "内塔尼亚胡称以色列已改变对伊朗军事行动限制认知",
-          "url": "https://flash.jin10.com/detail/20260622023257219800",
+          "title": "据伊朗Press TV：在瑞士的四方谈判已结束，伊朗代表离场。",
+          "url": "https://flash.jin10.com/detail/20260622041110297800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
-          "title": "霍尔木兹海峡又封了？伊朗、美国说法不一 瑞士小镇上演外交风云",
-          "url": "https://www.cls.cn/detail/2404688",
-          "source": "财联社热门",
+          "title": "据AXIOS网站记者：一位参与瑞士谈判的美国外交官表示，他预计与伊朗以及巴基斯坦和卡塔尔调解人的谈判将持续到夜间。",
+          "url": "https://flash.jin10.com/detail/20260622040804671800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "据以色列i24News：以色列总理内塔尼亚胡表示：“我们阻止了伊朗实施一项旨在将我们彻底消灭的计划。”",
-          "url": "https://flash.jin10.com/detail/20260622022622900800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我们希望外交能够成功。 但如果伊朗试图挑战我们，我们将彻底摧毁他们。",
@@ -347,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "据福克斯新闻：一名美国外交官表示，伊朗代表团仍留在瑞士，谈判仍在继续。全天都在认真推进谈判。围绕核协议所有要素的密集讨论正在进行中。部分讨论集中在澄清关于霍尔木兹海峡的混乱信息，以确保其保持开放。",
+          "url": "https://flash.jin10.com/detail/20260622040146108800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们对美方的威胁毫不在意。他们最好管好自己的言辞，我们的武装力量已做好准备，将以另一种方式予以回应。无论他们说什么，真正采取行动的是我们。",
@@ -377,29 +468,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "比利时vs伊朗",
-          "url": "https://www.douyin.com/hot/2542821",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "比利时vs伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -421,7 +490,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -476,7 +545,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -514,6 +583,17 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国伊朗在瑞士会谈",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%9C%A8%E7%91%9E%E5%A3%AB%E4%BC%9A%E8%B0%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "伊朗总统：不会制造核武器 不会放弃铀浓缩权利",
           "url": "https://wallstreetcn.com/livenews/3122333",
           "source": "华尔街见闻-快讯",
@@ -528,7 +608,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -538,19 +618,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
-          "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的讲话被误解了。 叙利亚可能会支持黎巴嫩政府机构。",
-          "url": "https://wallstreetcn.com/livenews/3122380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "伊朗议长回应特朗普最新威胁",
@@ -575,27 +644,17 @@
           "time_info": "01时28分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：美国有人说特朗普完全听我的，以色列有人说我完全听特朗普的，这两种说法都不真实。我们是独立国家的领导人。我代表的是以色列的利益。",
-          "url": "https://flash.jin10.com/detail/20260622023516275800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
           "title": "特朗普：斯塔默将辞去英国首相职务",
           "url": "https://wallstreetcn.com/livenews/3122370",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
@@ -603,11 +662,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "叙利亚总统al-Sharaa：美国总统特朗普有关叙利亚与黎巴嫩（政府）的讲话被误解了。 叙利亚可能会支持黎巴嫩政府机构。",
+          "url": "https://wallstreetcn.com/livenews/3122380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：以色列无法“干掉”（黎巴嫩）真主党，这让我感到失望。",
@@ -615,11 +687,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：美国有人说特朗普完全听我的，以色列有人说我完全听特朗普的，这两种说法都不真实。我们是独立国家的领导人。我代表的是以色列的利益。",
+          "url": "https://flash.jin10.com/detail/20260622023516275800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：与伊朗的谅解备忘录（MoU）仅仅是（之前）停火的延长而已。 伊朗必须阻止在黎巴嫩的代理人（给以色列）制造麻烦。 如果代理人没有被阻止，我们（美国与以色列）将再次袭击伊朗。",
@@ -627,11 +712,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
@@ -639,11 +725,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
@@ -651,11 +738,71 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
+          "url": "https://www.cls.cn/detail/2404722",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3122374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
+          "url": "https://wallstreetcn.com/livenews/3122372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗：美国总统特朗普的威胁导致美方在瑞士的谈判中止。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3122373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
+        },
+        {
+          "title": "抗议特朗普威胁言论，伊朗代表团离开谈判地点",
+          "url": "https://wallstreetcn.com/livenews/3122371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
@@ -668,6 +815,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普的新专机，首次亮相",
+          "url": "https://www.cls.cn/detail/2404514",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
         },
         {
           "title": "万斯称特朗普致力于区域全面停火",
@@ -694,37 +852,26 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
-          "title": "事关霍尔木兹！特朗普最新发声 美伊技术层面谈判今日举行",
-          "url": "https://www.cls.cn/detail/2404722",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：北约、意大利都没有捍卫美国。",
+          "url": "https://wallstreetcn.com/livenews/3122386",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
-          "title": "伊朗谈判员：（特朗普政府）很快将发布关于豁免伊朗石油的决定。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3122374",
+          "title": "美国总统特朗普：伊朗构成的核威胁是严重的。",
+          "url": "https://wallstreetcn.com/livenews/3122385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "伊朗谈判代表团团长回应特朗普最新威胁：我们根本不把美国人的威胁放在眼里，奉劝他们最好谨言慎行",
-          "url": "https://wallstreetcn.com/livenews/3122372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时13分"
         },
         {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
@@ -738,48 +885,26 @@
           "time_info": "01时28分"
         },
         {
-          "title": "伊朗：美国总统特朗普的威胁导致美方在瑞士的谈判中止。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3122373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "抗议特朗普威胁言论，伊朗代表团离开谈判地点",
-          "url": "https://wallstreetcn.com/livenews/3122371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "特朗普的新专机，首次亮相",
-          "url": "https://www.cls.cn/detail/2404514",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
           "title": "德国国防部长：霍尔木兹海峡关闭责任在特朗普",
           "url": "https://flash.jin10.com/detail/20260622020611881800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        },
+        {
+          "title": "美国总统特朗普：在为北约花费数万亿美元之后，意大利及其总理连考虑介入伊朗及其核威胁的念头都不曾有。数十年来，我们保卫他们，但一旦受到考验，他们却不在我们和世界其他国家最需要的时候挺身而出。令人失望！",
+          "url": "https://flash.jin10.com/detail/20260622034301639800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
         },
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
@@ -788,7 +913,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -829,8 +954,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时13分]"
         }
       ]
     },
@@ -845,9 +970,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时13分]"
         }
       ]
     }

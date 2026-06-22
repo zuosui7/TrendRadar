@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T12:10:02.817802+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-06-22T18:37:46.105908+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 83,
       "titles": [
         {
           "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗总统称有三股力量不愿看到美伊达成协议",
+          "url": "https://news.ifeng.com/c/8u9pLpEy6ZS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
         },
         {
           "title": "以色列财政部长放话：巴勒斯坦国比伊朗更危险",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 07时13分]"
-        },
-        {
-          "title": "伊朗总统称有三股力量不愿看到美伊达成协议",
-          "url": "https://news.ifeng.com/c/8u9pLpEy6ZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "比利时0比0伊朗",
@@ -170,6 +171,28 @@
           "time_info": "[03时29分 ~ 07时13分]"
         },
         {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%9C%A8%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9B%B4%E8%A1%A3%E5%AE%A4%E7%95%99%E4%B8%8B%E6%84%9F%E8%B0%A2%E4%BF%A1%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "赛后被要求离美 伊朗队留下一张纸条",
+          "url": "https://www.baidu.com/s?wd=%E8%B5%9B%E5%90%8E%E8%A2%AB%E8%A6%81%E6%B1%82%E7%A6%BB%E7%BE%8E+%E4%BC%8A%E6%9C%97%E9%98%9F%E7%95%99%E4%B8%8B%E4%B8%80%E5%BC%A0%E7%BA%B8%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "据Axios记者：一名参与会谈的外交官表示，伊朗代表团没有离开，美国与伊朗之间的谈判仍在继续。",
           "url": "https://flash.jin10.com/detail/20260622010520748800",
           "source": "金十数据",
@@ -194,6 +217,29 @@
           "time_info": "[03时29分 ~ 07时13分]"
         },
         {
+          "title": "伊朗外交部：伊美达成协议文件",
+          "url": "https://www.cls.cn/detail/2405179",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
+        },
+        {
+          "title": "美伊谈判成果出炉，伊朗舆论如何看待？",
+          "url": "https://news.ifeng.com/c/8uAC2tRdkdt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "曝伊朗代表团拒绝与美方合影",
           "url": "https://www.toutiao.com/trending/7653772582584614931/",
           "source": "今日头条",
@@ -205,6 +251,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时13分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时12分 ~ 18时37分]"
         },
         {
           "title": "伊朗：伊朗石油制裁豁免草案将很快出台",
@@ -254,18 +313,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时13分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时12分 ~ 12时10分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗外交部发言人表示，周日的会谈集中在结束战争、解除制裁和释放伊朗被冻结资金上。",
@@ -339,6 +386,18 @@
           "time_info": "[03时29分 ~ 05时13分]"
         },
         {
+          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
+        },
+        {
           "title": "伊朗代表团拒绝与美方握手合影",
           "url": "https://wallstreetcn.com/livenews/3122365",
           "source": "华尔街见闻-快讯",
@@ -363,6 +422,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时28分 ~ 05时13分]"
+        },
+        {
+          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
         },
         {
           "title": "美国伊朗在瑞士会谈",
@@ -461,28 +532,6 @@
           "time_info": "[03时29分 ~ 05时13分]"
         },
         {
-          "title": "伊朗外交部：伊美达成协议文件",
-          "url": "https://www.cls.cn/detail/2405179",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
-          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
           "title": "比利时vs伊朗",
           "url": "https://www.douyin.com/hot/2542821",
           "source": "抖音",
@@ -505,17 +554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 03时29分]"
-        },
-        {
-          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         },
         {
           "title": "伊朗以中断整个中东能源供应威胁美国",
@@ -575,6 +613,61 @@
           "time_info": "01时28分"
         },
         {
+          "title": "伊朗外交部：伊美技术性会谈已在瑞士启动",
+          "url": "https://flash.jin10.com/detail/20260622181017841800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "海事情报公司：6月15日以来伊朗已出口3600万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3122757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "以总理再发威胁：伊朗别想拥有核武器",
+          "url": "https://news.ifeng.com/c/8uAHJ0kXXVf",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，如果黎巴嫩的战争无法结束，那么关于其他议题的谈判将不会进行。",
           "url": "https://flash.jin10.com/detail/20260622003545961800",
           "source": "金十数据",
@@ -584,6 +677,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗央行开始推动解冻伊朗被冻结资产",
+          "url": "https://wallstreetcn.com/livenews/3122754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗外交部：伊美技术性会谈已在瑞士启动",
+          "url": "https://wallstreetcn.com/livenews/3122749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗外交部：伊美达成协议文件",
+          "url": "https://www.douyin.com/hot/2543079",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "美国共和党参议员格雷厄姆：我们希望外交能够成功。 但如果伊朗试图挑战我们，我们将彻底摧毁他们。",
@@ -606,6 +732,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗央行开始推动解冻伊朗被冻结资产",
+          "url": "https://flash.jin10.com/detail/20260622180542739800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们对美方的威胁毫不在意。他们最好管好自己的言辞，我们的武装力量已做好准备，将以另一种方式予以回应。无论他们说什么，真正采取行动的是我们。",
@@ -702,7 +850,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
         },
@@ -768,9 +916,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时10分"
+        },
+        {
+          "title": "王毅会见伊朗最高国家安全委员会副秘书内扎米普尔",
+          "url": "https://wallstreetcn.com/livenews/3122722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗总统办公室：谈判首要任务是结束黎以冲突",
@@ -809,7 +968,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "万斯：特朗普致力于区域全面停火，希望改善与伊朗人的关系",
@@ -827,11 +986,12 @@
           "url": "https://news.ifeng.com/c/8uA2kEZD4Zh",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
         },
         {
           "title": "特朗普再轰《纽约时报》：虚假报道伊朗 简直是叛国！",
@@ -854,6 +1014,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
         },
         {
           "title": "抗议特朗普威胁言论 伊朗代表团离开谈判地点",
@@ -966,6 +1138,18 @@
           "time_info": "[01时28分 ~ 05时13分]"
         },
         {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
+        },
+        {
           "title": "美国总统特朗普：昨天有1900万桶石油流出波斯湾。",
           "url": "https://wallstreetcn.com/livenews/3122360",
           "source": "华尔街见闻-快讯",
@@ -992,15 +1176,16 @@
           "time_info": "[01时28分 ~ 05时13分]"
         },
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "appearance_count": 3,
+          "time_info": "[12时09分 ~ 18时37分]"
         },
         {
           "title": "美国总统特朗普：北约、意大利都没有捍卫美国。",
@@ -1132,17 +1317,6 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
-        },
-        {
           "title": "美国副总统万斯在伊朗会谈之后表示：问题在于，我们还能在中东实现多少进展。 总统特朗普要求我们翻开新的篇章。 最近数小时取得很大的进展。 预计未来数小时还将取得更多进展。 如果伊朗弃核，美国愿意转变与伊朗人民的关系。 特朗普承诺推动实现该地区全面停火。 两国设法为（美国与伊朗之间的）技术对话制定框架。",
           "url": "https://wallstreetcn.com/livenews/3122351",
           "source": "华尔街见闻-快讯",
@@ -1155,15 +1329,15 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
-          "title": "特朗普称美国或收取中东地区20%的石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
-          "source": "澎湃新闻",
+          "title": "特朗普再喷意总理，意外长：合作不会因此中断",
+          "url": "https://news.ifeng.com/c/8u9x7j0CV87",
+          "source": "凤凰网",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         },
         {
           "title": "伊朗代表团因抗议特朗普言论而离开谈判会场",
@@ -1278,6 +1452,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 12时10分]"
+        },
+        {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -1306,6 +1508,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1320,23 +1539,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时28分 ~ 07时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价暴跌黄金该买还是该卖",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时09分 ~ 12时10分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T03:26:58.594515+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-23T06:02:57.977745+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -15,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -26,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
@@ -37,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -48,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判代表团团长在阿曼外长的欢迎下抵达马斯喀特。",
@@ -63,26 +75,15 @@
           "time_info": "03时26分"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
+          "title": "阿曼外长：今晚在马斯喀特欢迎了伊朗议会议长卡利巴夫和外长阿拉格齐。双方就近期伊朗与美国的谅解备忘录进行了建设性讨论，特别是霍尔木兹海峡的相关内容。",
+          "url": "https://flash.jin10.com/detail/20260623050922347800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "土耳其总统与伊朗总统通话 聚焦双边合作及伊美谈判",
-          "url": "https://flash.jin10.com/detail/20260623023848203800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "06时02分"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
@@ -90,6 +91,53 @@
           "source": "澎湃新闻",
           "ranks": [
             9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
+        },
+        {
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
+        },
+        {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
+        },
+        {
+          "title": "土耳其总统与伊朗总统通话 聚焦双边合作及伊美谈判",
+          "url": "https://flash.jin10.com/detail/20260623023848203800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,15 +166,26 @@
           "time_info": "03时26分"
         },
         {
-          "title": "伊朗队在洛杉矶更衣室留下感谢信",
-          "url": "https://www.toutiao.com/trending/7654111669110669353/",
-          "source": "今日头条",
+          "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
+          "url": "https://flash.jin10.com/detail/20260623044927151800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
+          "url": "https://wallstreetcn.com/livenews/3123030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
@@ -140,15 +199,48 @@
           "time_info": "03时26分"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
+          "url": "https://flash.jin10.com/detail/20260623044656583800",
+          "source": "金十数据",
           "ranks": [
-            17
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://wallstreetcn.com/livenews/3123028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
+          "url": "https://flash.jin10.com/detail/20260623044637225800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗向中方通报伊美谈判最新情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "伊朗总统致敬伊朗国家队",
@@ -184,20 +276,20 @@
           "time_info": "03时26分"
         },
         {
-          "title": "美国副总统万斯：看到大约1500万桶石油流出霍尔木兹海峡。 对我们已经取得的进展感觉良好，将围绕技术谈判继续取得进展。 如果没有取得进展，不会向伊朗解冻（被制裁的）资金。 对停火感觉良好。 成立机制，确保霍尔木兹海峡保持开放。 我们必须围绕伊朗磋商而继续努力。",
-          "url": "https://wallstreetcn.com/livenews/3122977",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://flash.jin10.com/detail/20260623043914260800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时26分"
+          "time_info": "06时02分"
         },
         {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
+          "title": "美国副总统万斯：看到大约1500万桶石油流出霍尔木兹海峡。 对我们已经取得的进展感觉良好，将围绕技术谈判继续取得进展。 如果没有取得进展，不会向伊朗解冻（被制裁的）资金。 对停火感觉良好。 成立机制，确保霍尔木兹海峡保持开放。 我们必须围绕伊朗磋商而继续努力。",
+          "url": "https://wallstreetcn.com/livenews/3122977",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
@@ -220,7 +312,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -230,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -241,8 +333,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "特朗普政府将石油钻探保证金削减95%",
@@ -256,6 +348,39 @@
           "time_info": "03时26分"
         },
         {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普称伊朗将同意接受武器核查",
+          "url": "https://flash.jin10.com/detail/20260623044828361800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普签署两项行政令，推动2028年部署用于科学研究的量子计算机",
+          "url": "https://wallstreetcn.com/livenews/3123029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
           "url": "https://flash.jin10.com/detail/20260623022102004800",
           "source": "金十数据",
@@ -267,6 +392,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "特朗普签署两项行政令 推动2028年部署用于科学研究的量子计算机",
+          "url": "https://flash.jin10.com/detail/20260623044248643800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国总统特朗普召见多家军火制造商，寻求提高武器产量。 洛克希德-马丁公司、RTX、波音、L3Harris、Northrop Grumman、霍尼韦尔等料将会见特朗普。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3122980",
           "source": "华尔街见闻-快讯",
@@ -276,6 +412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：祝愿（刚刚辞去英国首相职务的）斯塔默一切顺利。",
+          "url": "https://wallstreetcn.com/livenews/3123021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "据Politico：美国国防部长赫格塞思计划于周三在共和党研究委员会（RSC）午餐会上，向一大群共和党众议员就特朗普政府的军事拨款目标和另一项党派法案进行机密简报。",
@@ -300,6 +447,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "美国总统特朗普签署量子领域行政令。",
+          "url": "https://flash.jin10.com/detail/20260623043421047800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国总统特朗普背书支持Bruce BlakeMan竞选纽约州长。",
           "url": "https://wallstreetcn.com/livenews/3122971",
           "source": "华尔街见闻-快讯",
@@ -311,6 +469,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "美国总统特朗普：油价大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3123017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
           "title": "美国法官阻止特朗普政府使用改版后的移民数据库进行选民登记核查。",
           "url": "https://flash.jin10.com/detail/20260623014137013800",
           "source": "金十数据",
@@ -320,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普谈经济：我们现在的情况与萧条相反。",
+          "url": "https://wallstreetcn.com/livenews/3123016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -347,7 +527,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -357,8 +537,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -368,8 +548,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         },
         {
           "title": "Credo Technology Group Holding Ltd.维持超过11%的涨幅，暂报303.90美元，美股盘初曾涨至308.67美元创盘中历史新高，Evercore ISI给予该公司超配的初始评级、目标价325美元，分析师Mark Lipacis认为，Credo将越来越被看做一家广泛的铜缆与光纤连接玩家/铜缆+光纤综合方案供应商。",
@@ -381,6 +561,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3123022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "IBM美股盘后涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3123019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "周一（6月22日），美股行业ETF多数收涨，生物科技指数ETF收涨1.94%，半导体ETF涨1.37%，能源业ETF涨1.28%，全球科技股指数ETF涨0.59%，可选消费ETF则收跌1.70%，网络股指数ETF跌2.24%。",
+          "url": "https://wallstreetcn.com/livenews/3123018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
+          "url": "https://wallstreetcn.com/livenews/3122970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
+          "url": "https://wallstreetcn.com/livenews/3123013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "IBM(IBM.N)盘后涨2%，此前宣布与OpenAI合作推出与企业网络安全防御相关的人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260623043807971800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周一（6月22日）纽约尾盘，彭博谷物分类指数跌0.89%，报29.4731点。 CBOT玉米期货跌1.13%，CBOT小麦期货跌1.14%。 CBOT大豆期货跌0.11%，报11.4150美元/蒲式耳，豆粕期货涨0.13%，豆油期货涨1.57%。",
+          "url": "https://wallstreetcn.com/livenews/3122992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美元指数22日上涨",
+          "url": "https://flash.jin10.com/detail/20260623044110227800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         }
       ]
     },
@@ -396,42 +693,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
-          "url": "https://wallstreetcn.com/livenews/3122970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（6月22日）纽约尾盘，彭博谷物分类指数跌0.89%，报29.4731点。 CBOT玉米期货跌1.13%，CBOT小麦期货跌1.14%。 CBOT大豆期货跌0.11%，报11.4150美元/蒲式耳，豆粕期货涨0.13%，豆油期货涨1.57%。",
-          "url": "https://wallstreetcn.com/livenews/3122992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 06时02分]"
         }
       ]
     }

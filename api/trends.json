@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T02:52:12.386314+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-06-25T04:49:21.896269+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -15,19 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
-        },
-        {
-          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
-          "url": "https://wallstreetcn.com/livenews/3124195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
         },
         {
           "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
@@ -38,8 +27,96 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于包括运输费用在内的伊朗协议）将是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260625044255916800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：与国会参议院共和党成员的午餐会情况不错。 （兜售）石油价格（下跌）和就业数据。 伊朗同意我想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3124195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。",
+          "url": "https://flash.jin10.com/detail/20260625044203755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3124229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
+          "url": "https://flash.jin10.com/detail/20260625044044047800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：我们需要低利率。",
+          "url": "https://flash.jin10.com/detail/20260625044028431800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
+          "url": "https://flash.jin10.com/detail/20260625043436507800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普：如果不是因为土耳其总统埃尔多安，我不会去安卡拉的北约峰会。",
+          "url": "https://flash.jin10.com/detail/20260625043424309800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
@@ -48,9 +125,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "美国总统特朗普：（就对土耳其的战斗机军售）可能会采取某些行动。",
+          "url": "https://flash.jin10.com/detail/20260625043358165800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
@@ -59,7 +147,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -70,7 +158,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -81,7 +169,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -92,9 +180,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "市场消息：国会消息人士表示，特朗普政府向国会提交了876亿美元的补充预算请求。",
+          "url": "https://flash.jin10.com/detail/20260625042453251800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
@@ -106,6 +205,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "页岩油高管称特朗普关于伊朗的言论引发能源市场混乱",
+          "url": "https://wallstreetcn.com/livenews/3124212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3124209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         },
         {
           "title": "消息人士：特朗普政府计划继续向土耳其出售价值数亿美元的喷气发动机。",
@@ -136,7 +257,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -144,7 +265,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -154,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
         },
         {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
@@ -174,11 +295,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
         },
         {
           "title": "美国国务卿鲁比奥：我们期望伊朗履行其义务。",
@@ -245,62 +367,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
+        },
         {
-          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
-          "url": "https://wallstreetcn.com/livenews/3124193",
+          "title": "伊朗指责美官员涉谅解备忘录声明“相互矛盾”",
+          "url": "https://wallstreetcn.com/livenews/3124215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "04时49分"
         },
         {
-          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
-          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "title": "伊朗总统佩泽希齐扬：今天伊朗的尊严和骄傲源于革命烈士领袖的指引。我们一定会坚定不移地继续伟大领袖的道路。",
+          "url": "https://flash.jin10.com/detail/20260625042300016800",
           "source": "金十数据",
           "ranks": [
-            8
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
-          "url": "https://flash.jin10.com/detail/20260625021946400800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
-          "url": "https://wallstreetcn.com/livenews/3124168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "04时49分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -310,8 +404,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
         },
         {
           "title": "温蒂汉堡（WEN）维持超过24%的涨幅，报7.777美元，美股盘初曾涨42.24%至8.89美元。 美股散户抱团概念股（meme概念股）指数涨1.13%，暂报13.42点，此前一度涨超2.03%。",
@@ -325,17 +431,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
-        },
-        {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
           "url": "https://www.cls.cn/detail/2408279",
           "source": "财联社热门",
@@ -344,8 +439,113 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
+        },
+        {
+          "title": "周三（6月24日），美股行业ETF多数收涨，全球航空业ETF涨4.17%，生物科技指数ETF、区域银行ETF、可选消费ETF、公用事业ETF至多涨1.93%，半导体ETF则收跌0.35%，科技行业ETF跌0.62%，能源业ETF跌1.63%。",
+          "url": "https://wallstreetcn.com/livenews/3124226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "iShares MSCI韩国ETF在美股盘后涨6.4%。",
+          "url": "https://flash.jin10.com/detail/20260625042919511800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "美光科技盘后大涨近14%，带飞美股芯片股",
+          "url": "https://flash.jin10.com/detail/20260625042822342800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3124193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌又有两名重量级AI人才即将转投Anthropic",
+          "url": "https://flash.jin10.com/detail/20260625022949974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
+          "url": "https://flash.jin10.com/detail/20260625021946400800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
+          "url": "https://wallstreetcn.com/livenews/3124168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3124199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     },
@@ -372,7 +572,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -390,8 +590,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 02时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 04时49分]"
         },
         {
           "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
@@ -417,9 +617,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（6月24日）纽约尾盘，ICE美元指数张0.18%，报101.592点，日内交投区间为101.356-101.800点，亚太盘初以来持续走高，北京时间21:09逼近2025年5月12日顶部101.977点、当年3月26日顶部104.683点。 彭博美元指数涨0.27%，报1226.97点，日内交投区间为1223.32-1228.36点，21:12也曾逼近2025年11月21日顶部1228.98点。",
+          "url": "https://wallstreetcn.com/livenews/3124210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时49分"
         }
       ]
     }

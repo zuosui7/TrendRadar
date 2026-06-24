@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-24T07:57:31.313422+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-06-24T11:42:38.333571+08:00",
+  "total_titles_processed": 825,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "美国参议院投票决定暂停对伊朗的战争，除非特朗普获得国会批准。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -158,6 +158,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
+          "url": "https://news.ifeng.com/c/8uClVTnMwCW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "特朗普谈伊朗协议：任何批评这笔交易的人都必须接受教育，即使是我的朋友。",
           "url": "https://flash.jin10.com/detail/20260624012804033800",
           "source": "金十数据",
@@ -186,9 +197,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "美参议院通过涉伊战争权力决议 特朗普遭遇象征性挫败",
+          "url": "https://www.cls.cn/detail/2407367",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普最新支持率公布",
+          "url": "https://news.ifeng.com/c/8uD1v25JY2x",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "被问及国际原子能机构核查员什么时候会在伊朗现场，美国总统特朗普表示：在合适的时候。不急。",
@@ -233,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "特朗普政府将提供175亿美元贷款 加速10座大型核反应堆部署",
+          "url": "https://www.cls.cn/detail/2407308",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "伊朗方面说没有安排国际原子能机构核查人员的访问，美国总统特朗普对此回应称：“如果他们说的是真的，我现在就取消所有会面。”",
@@ -307,7 +351,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -365,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普：当务之急是确保伊朗永远不会拥有核武器。",
@@ -433,6 +488,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "因凡蒂诺：特朗普将现场观战决赛",
+          "url": "https://www.toutiao.com/trending/7654381608606187530/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们正在努力达成一个公平的协议。",
           "url": "https://flash.jin10.com/detail/20260624030214963800",
           "source": "金十数据",
@@ -444,6 +510,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "美参议院通过决议要求特朗普结束对伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3123726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "美国总统特朗普：伊朗不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260624025741263800",
           "source": "金十数据",
@@ -453,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "软银CEO孙正义：希望美国总统特朗普能为中东带来和平。",
+          "url": "https://flash.jin10.com/detail/20260624110419480800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们做得相当不错。",
@@ -475,12 +563,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "软银CEO孙正义：美国总统特朗普强烈希望为美国人带来繁荣。",
+          "url": "https://flash.jin10.com/detail/20260624110313001800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "路透社/益普索民调显示，仅有23%的美国人认为战后美国与伊朗的关系更加牢固，而35%的人认为关系更加脆弱。",
@@ -588,6 +687,28 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "富国银行新兴市场策略师Álvaro Vivanco：我们正进一步进入这样一个时期：在全球经济增速放缓和美联储鹰派立场主导下，伊朗问题全面解决所剩无几的微小溢价将被抹平。 这意味着新兴市场外汇将面临压力，同时利率也仍有进一步压缩的空间。",
           "url": "https://wallstreetcn.com/livenews/3123657",
           "source": "华尔街见闻-快讯",
@@ -660,7 +781,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
@@ -668,18 +789,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
           "url": "https://www.cls.cn/detail/2407391",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 11时42分]"
         },
         {
           "title": "美股收盘：AI投资热潮遭重新审视 芯片股重挫拖累纳指跌超2%",
@@ -690,8 +812,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时12分 ~ 07时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时12分 ~ 11时42分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌4.66%，报326.80点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌4.41%，报2240.20点，亚太盘初以来缓慢地跌向2320点，北京时间21:30美股开盘时跳空下挫迅速跌穿2240点。 在美股时段交易的原材料指数收跌2.52%，报242.67点，跳空低开后，整体呈现出M形走势，跌幅一度在22:20收窄。 在美股时段交易的金属与矿业指数收跌3.75%，报279.09点。",
@@ -718,6 +840,17 @@
           "time_info": "[01时54分 ~ 06时13分]"
         },
         {
+          "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
+          "url": "https://www.cls.cn/detail/2407435",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "Cerebras Systems美股盘后跌幅扩大至10%。",
           "url": "https://wallstreetcn.com/livenews/3123665",
           "source": "华尔街见闻-快讯",
@@ -735,7 +868,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -757,7 +890,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -779,7 +912,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -790,7 +923,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -801,7 +934,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -812,7 +945,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         },
@@ -867,6 +1000,17 @@
           "time_info": "[06时12分 ~ 06时13分]"
         },
         {
+          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 11时42分]"
+        },
+        {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
           "url": "https://wallstreetcn.com/articles/3775250",
           "source": "华尔街见闻",
@@ -878,17 +1022,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时57分]"
-        },
-        {
-          "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3775262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
         },
         {
           "title": "两年期美债收益率周二跌超2.7个基点",
@@ -906,11 +1039,12 @@
           "url": "https://wallstreetcn.com/articles/3775294",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 11时42分]"
         },
         {
           "title": "德银上调对短期美债收益率的预测",
@@ -927,7 +1061,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "高盛首次下调 2026 年黄金目标价，国内银行业亦密集收紧黄金交易杠杆，国际金价是否即将跌破 4000？",
@@ -975,6 +1109,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 06时13分]"
+        },
+        {
+          "title": "专家：金价仍在下跌通道",
+          "url": "https://www.toutiao.com/trending/7654738155483958838/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "金价见底三大信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%A7%81%E5%BA%95%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
@@ -1070,8 +1226,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "40天不睡、5人死磕，DeepMind主管爆Gemini大战DeepSeek惨烈内幕",
+          "url": "https://wallstreetcn.com/articles/3775315",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
         {
           "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
           "url": "https://www.zhihu.com/question/2044875348719005741",

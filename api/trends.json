@@ -1,143 +1,11 @@
 {
-  "generated_at": "2026-06-26T06:21:55.537704+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-06-26T08:09:24.435054+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
-          "url": "https://wallstreetcn.com/livenews/3124857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时21分]"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与大豆基金领跑",
-          "url": "https://wallstreetcn.com/livenews/3124856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时21分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 06时21分]"
-        },
-        {
-          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3124851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 06时21分]"
-        },
-        {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "数字货币市场在美股盘初跳水",
-          "url": "https://wallstreetcn.com/livenews/3124793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260626040602916800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260626040602072800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3124852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
-          "url": "https://flash.jin10.com/detail/20260626040107087800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
-          "url": "https://wallstreetcn.com/livenews/3124848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -147,19 +15,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时10分 ~ 06时21分]"
+          "appearance_count": 5,
+          "time_info": "[02时10分 ~ 08时09分]"
         },
         {
-          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
-          "url": "https://wallstreetcn.com/livenews/3124865",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称将用伊朗的钱买美国农产品",
+          "url": "https://flash.jin10.com/detail/20260626074836562800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美最高法院裁决支持特朗普强硬移民政策",
+          "url": "https://news.ifeng.com/c/8uFtfSi0LYE",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "08时09分"
         },
         {
           "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
@@ -172,6 +51,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 06时21分]"
+        },
+        {
+          "title": "美国众议长约翰逊：与总统特朗普进行了富有成效的会谈。",
+          "url": "https://wallstreetcn.com/livenews/3124865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 08时09分]"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -216,9 +107,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普称，霍尔木兹海峡开放了。",
+          "url": "https://wallstreetcn.com/livenews/3124893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "特朗普：将签署法案，允许全年销售E15汽油（即含有15%乙醇的汽油）。 我们的农民将获得110亿美元的救济款。",
+          "url": "https://wallstreetcn.com/livenews/3124892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
@@ -227,9 +140,75 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "特朗普：我们有一个叫做伊朗的新市场。 伊朗将购买小麦、大豆和玉米。",
+          "url": "https://wallstreetcn.com/livenews/3124890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美国总统特朗普：将很快用伊朗资金购买(美国)小麦、大豆和玉米。",
+          "url": "https://flash.jin10.com/detail/20260626072319374800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美国总统特朗普：将宣布110亿美元的农民救助。",
+          "url": "https://flash.jin10.com/detail/20260626072103294800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美国总统特朗普：将签署一项允许全年销售E15汽油（含有15%乙醇的汽油）的法案。",
+          "url": "https://flash.jin10.com/detail/20260626071705462800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "白宫：特朗普签署了一项与农业相关的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260626070338375800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美国总统特朗普：提名克里斯·克隆普为下一任卫生与公共服务部副部长。",
+          "url": "https://flash.jin10.com/detail/20260626065545744800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
           "title": "加拿大总理卡尼：美国总统特朗普周三打电话给我，我们讨论了很长时间。",
@@ -241,6 +220,162 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "【早报】苹果市值一夜蒸发1.8万亿元，美股七巨头集体下挫；原油大涨超2%，黄金、白银收涨",
+          "url": "https://www.cls.cn/detail/2409666",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18,
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时10分 ~ 08时09分]"
+        },
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 08时09分]"
+        },
+        {
+          "title": "Rocket Lab美股盘后涨幅扩大至5%，该公司赢得一份NASA合同。",
+          "url": "https://wallstreetcn.com/livenews/3124857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时21分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，布油基金涨2.8%，与大豆基金领跑",
+          "url": "https://wallstreetcn.com/livenews/3124856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时21分]"
+        },
+        {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时21分]"
+        },
+        {
+          "title": "数字货币市场在美股盘初跳水",
+          "url": "https://wallstreetcn.com/livenews/3124793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时10分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260626040602916800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260626040602072800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "周四（6月25日），美股存储芯片与硬件供应链指数上涨11.85%，报271.70点，跳空高开之后持续高位震荡，逼近6月22日所创收盘历史最高位274.95点。 成分股闪迪收涨21.97%，美光科技涨15.74%，创5月26日以来最佳单日表现，应用材料涨13.42%，泰瑞达涨10.48%，拉姆研究涨7.21%，西部数据、希捷科技至少涨3.23%，Rambus跌0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3124852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 苹果跌超6%",
+          "url": "https://flash.jin10.com/detail/20260626040107087800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周四（6月25日），美国科技股七巨头（Magnificent 7）指数跌2.79%，报198.56点，美股盘初显著下跌，整体呈现出长尾L形走势。成分股苹果收跌6.1%，创2025年4月以来最大单日跌幅。 “超大”市值科技股指数跌1.36%，报414.51点，微幅高开后盘初转跌，整体也呈现出长尾L形走势。",
+          "url": "https://wallstreetcn.com/livenews/3124848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "周五亚太盘初，纳斯达克100指数股指期货跌0.3%，道指期货涨0.15%。 目前（美股盘后），美光科技下跌2.7%，闪迪跌1.9%，英特尔、希捷科技至少跌约1.2%，西部数据跌超0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3124872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },
@@ -260,17 +395,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
-          "url": "https://wallstreetcn.com/livenews/3124869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "SpaceX股价回落敲响警钟 OpenAI或等到明年再IPO",
           "url": "https://flash.jin10.com/detail/20260626044755013800",
           "source": "金十数据",
@@ -281,6 +405,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 06时21分]"
+        },
+        {
+          "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT 5.6",
+          "url": "https://wallstreetcn.com/livenews/3124869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 08时09分]"
         },
         {
           "title": "据纽约时报：OpenAI倾向于等到明年再进行IPO。",
@@ -325,7 +461,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -347,17 +483,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3124866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
           "url": "https://www.zhihu.com/question/2053015352347293676",
           "source": "知乎",
@@ -369,6 +494,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时10分 ~ 06时21分]"
+        },
+        {
+          "title": "周四（6月25日），美股超大规模云服务商（Hyperscalers）跌2.27%，报87.43点，6月1日达到106.56点之后，持续回撤，逼近4月7日顶部82.45点。 成分股全线溃败，微软收跌3.46%，甲骨文跌3.22%，亚马逊跌3.10%，Meta Platforms跌2.65%，谷歌A跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3124866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 08时09分]"
         },
         {
           "title": "据The Information：谷歌的人工智能项目推动出版商允许内容用于人工智能模型训练。",
@@ -407,7 +544,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -445,6 +582,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "伊朗攻击货船、考验美伊停火协议：不走我们指定的路，不可接受且极其危险",
+          "url": "https://flash.jin10.com/detail/20260626065429633800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
           "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
           "url": "https://wallstreetcn.com/livenews/3124766",
           "source": "华尔街见闻-快讯",
@@ -468,7 +616,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -482,6 +630,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek大规模招聘：至少扩大一倍",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%9A%E8%87%B3%E5%B0%91%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落至900元以下",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%90%BD%E8%87%B3900%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时09分"
         }
       ]
     },

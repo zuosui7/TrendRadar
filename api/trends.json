@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T01:55:23.729507+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T03:54:49.188306+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "报道：海湾国家被曝欲独自与伊朗达成地区安全协议",
+          "url": "https://wallstreetcn.com/livenews/3127594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "伊朗称美方违反谅解备忘录承诺 将建立监督机制审查违规行为",
@@ -34,22 +45,24 @@
           "url": "https://wallstreetcn.com/livenews/3127565",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
         },
         {
           "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
           "url": "https://wallstreetcn.com/livenews/3127562",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，伊朗代表团在多哈的会谈已结束。",
@@ -83,6 +96,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
+          "url": "https://wallstreetcn.com/livenews/3127569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录 重点推动资产解冻",
@@ -120,8 +144,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
+        },
+        {
+          "title": "美股低开 算力租赁商、存储股大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
@@ -146,28 +193,6 @@
           "time_info": "01时55分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美股低开 算力租赁商、存储股大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
           "url": "https://wallstreetcn.com/livenews/3127538",
           "source": "华尔街见闻-快讯",
@@ -181,37 +206,42 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
-          "url": "https://www.zhihu.com/question/2053257491765581754",
-          "source": "知乎",
+          "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
+          "url": "https://wallstreetcn.com/livenews/3127591",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "03时54分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
+          "url": "https://flash.jin10.com/detail/20260702030012797800",
+          "source": "金十数据",
           "ranks": [
-            21
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
+          "time_info": "03时54分"
+        },
+        {
+          "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
+          "url": "https://wallstreetcn.com/livenews/3127574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
         {
           "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
           "url": "https://wallstreetcn.com/livenews/3127561",
@@ -237,6 +267,92 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
+          "url": "https://www.zhihu.com/question/2053257491765581754",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
+          "url": "https://wallstreetcn.com/livenews/3127592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
+          "url": "https://wallstreetcn.com/livenews/3127589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时54分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
+          "url": "https://wallstreetcn.com/livenews/3127549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -245,11 +361,12 @@
           "url": "https://www.zhihu.com/question/2054320593491715458",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
         }
       ]
     },
@@ -262,45 +379,12 @@
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3127549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 03时54分]"
         }
       ]
     }

@@ -1,11 +1,315 @@
 {
-  "generated_at": "2026-07-01T16:13:29.613152+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2026-07-01T20:07:35.999642+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
+          "url": "https://flash.jin10.com/detail/20260701032915175800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：将向中央银行提供120亿美元资金，用于其在全球范围内以任何价格、任何货币采购所需商品。这一安排是可行的，相关流程正在推进中。",
+          "url": "https://flash.jin10.com/detail/20260701032847648800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：（若出现）第三次强加于伊朗的战争将被视为对国家的全面侵略。",
+          "url": "https://flash.jin10.com/detail/20260701032838370800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时53分 ~ 07时12分]"
+        },
+        {
+          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
+          "url": "https://wallstreetcn.com/livenews/3126957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 05时29分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：（被问及资金是否仅限用于向美国农民购买粮食时）绝对不是。",
+          "url": "https://flash.jin10.com/detail/20260701032725618800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗称将适时启动伊美最终协议谈判",
+          "url": "https://wallstreetcn.com/livenews/3127397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
+          "url": "https://flash.jin10.com/detail/20260701032333102800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗称将适时启动伊美最终协议谈判",
+          "url": "https://flash.jin10.com/detail/20260701194504364800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的价值在于通行量日益增加，而不是减少。不应让霍尔木兹海峡被“反向利用”或变成对自身不利的工具。",
+          "url": "https://flash.jin10.com/detail/20260701032311132800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "多哈谈判方已达成初步协议，将向伊朗释放30亿美元资金",
+          "url": "https://flash.jin10.com/detail/20260701194313786800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：对伊朗的石油制裁已经解除。伊朗目前以较之前高出约20%的溢价出售原油。",
+          "url": "https://flash.jin10.com/detail/20260701032222463800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
+          "url": "https://flash.jin10.com/detail/20260701032035526800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "据以色列第12频道援引沙特媒体报道：多哈谈判方已达成一项初步协议，将向伊朗释放30亿美元资金。",
+          "url": "https://flash.jin10.com/detail/20260701193723259800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗队启程回国",
+          "url": "https://wallstreetcn.com/livenews/3126925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
+          "url": "https://flash.jin10.com/detail/20260701111507956800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
+          "url": "https://flash.jin10.com/detail/20260701005528456800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国副总统万斯：美国希望达成可持续、可核查的承诺，并通过实地核查加以保障。目标是确保伊朗实现全面无核化。",
+          "url": "https://flash.jin10.com/detail/20260701031620480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：铀浓缩是伊朗的权利。伊朗遵守《不扩散核武器条约》的相关规定。",
+          "url": "https://flash.jin10.com/detail/20260701031357327800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗副外长会见卡塔尔首相。伊朗副外长讨论美国谅解备忘录的落实情况。伊朗表示最终协议的谈判尚未开始。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3127372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的主权属于伊朗和阿曼。海峡通行由伊朗方面制定相关安排。同时，伊朗会就通行事宜与波斯湾沿岸国家进行协商。",
+          "url": "https://flash.jin10.com/detail/20260701031218904800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时57分"
+        },
+        {
+          "title": "伊朗称美若无法约束宠物伊朗将出手",
+          "url": "https://wallstreetcn.com/livenews/3127371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
+          "url": "https://flash.jin10.com/detail/20260701004154828800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗队启程回国",
+          "url": "https://www.toutiao.com/trending/7657225179856408091/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "以色列国防部长：如有必要 以色列将再次打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3127367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "伊朗足协主席发声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -196,6 +500,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "白宫经济顾问哈塞特：提高利率将是一个错误。 新任美联储主席沃什不得不应付一些棘手问题，工作艰巨。 部分美联储官员可能出于针对特朗普的目的作出政策投票。",
+          "url": "https://wallstreetcn.com/livenews/3127387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
           "url": "https://flash.jin10.com/detail/20260701043754582800",
           "source": "金十数据",
@@ -205,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普限制出生公民权被裁定违宪",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%90%E5%88%B6%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83%E8%A2%AB%E8%A3%81%E5%AE%9A%E8%BF%9D%E5%AE%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
         },
         {
           "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
@@ -275,235 +601,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "伊朗：未来几天暂无与美方会晤计划",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时12分]"
-        },
-        {
-          "title": "美国副总统万斯：伊朗一方面公开否认和平谈判正在进行，但另一方面，美伊之间关于协议的技术性讨论仍在持续。这种做法是伊朗在谈判与话语上的一种“策略性手法”。",
-          "url": "https://flash.jin10.com/detail/20260701032915175800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：将向中央银行提供120亿美元资金，用于其在全球范围内以任何价格、任何货币采购所需商品。这一安排是可行的，相关流程正在推进中。",
-          "url": "https://flash.jin10.com/detail/20260701032847648800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（若出现）第三次强加于伊朗的战争将被视为对国家的全面侵略。",
-          "url": "https://flash.jin10.com/detail/20260701032838370800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时53分 ~ 07时12分]"
-        },
-        {
-          "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
-          "url": "https://wallstreetcn.com/livenews/3126957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时57分 ~ 05时29分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：（被问及资金是否仅限用于向美国农民购买粮食时）绝对不是。",
-          "url": "https://flash.jin10.com/detail/20260701032725618800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：如果美国试图剥夺伊朗出售石油的权利，那么“没有人会从石油中受益”。",
-          "url": "https://flash.jin10.com/detail/20260701032333102800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的价值在于通行量日益增加，而不是减少。不应让霍尔木兹海峡被“反向利用”或变成对自身不利的工具。",
-          "url": "https://flash.jin10.com/detail/20260701032311132800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：对伊朗的石油制裁已经解除。伊朗目前以较之前高出约20%的溢价出售原油。",
-          "url": "https://flash.jin10.com/detail/20260701032222463800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：必须逐步提升霍尔木兹海峡的繁荣与通行能力。我认为应对美国和以色列实施限制措施，海峡通行量仍需增加。",
-          "url": "https://flash.jin10.com/detail/20260701032035526800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://wallstreetcn.com/livenews/3126925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "霍尔木兹海峡正被重新定义，伊朗坚持安全航行不是“免费公共服务”",
-          "url": "https://flash.jin10.com/detail/20260701111507956800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
-          "title": "伊朗外交部发言人：最终协议谈判须以五项条款落实为前提，黎巴嫩停火仍脆弱。",
-          "url": "https://flash.jin10.com/detail/20260701005528456800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "美国副总统万斯：美国希望达成可持续、可核查的承诺，并通过实地核查加以保障。目标是确保伊朗实现全面无核化。",
-          "url": "https://flash.jin10.com/detail/20260701031620480800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：铀浓缩是伊朗的权利。伊朗遵守《不扩散核武器条约》的相关规定。",
-          "url": "https://flash.jin10.com/detail/20260701031357327800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：霍尔木兹海峡的主权属于伊朗和阿曼。海峡通行由伊朗方面制定相关安排。同时，伊朗会就通行事宜与波斯湾沿岸国家进行协商。",
-          "url": "https://flash.jin10.com/detail/20260701031218904800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "伊朗外交部发言人：明天的会议将主要讨论被冻结资金的解冻问题以及黎巴嫩停火问题。<br/>",
-          "url": "https://flash.jin10.com/detail/20260701004154828800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "伊朗队启程回国",
-          "url": "https://www.toutiao.com/trending/7657225179856408091/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "伊朗足协主席发声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E4%B8%BB%E5%B8%AD%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
@@ -551,6 +650,18 @@
           "time_info": "[01时53分 ~ 11时45分]"
         },
         {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 20时07分]"
+        },
+        {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -570,8 +681,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 20时07分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -598,6 +709,17 @@
           "time_info": "[05时29分 ~ 07时12分]"
         },
         {
+          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "芝商所：将于7月27日推出覆盖50多只美股的单股期货产品。",
           "url": "https://flash.jin10.com/detail/20260701044747249800",
           "source": "金十数据",
@@ -618,17 +740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "受美联储风险及美元走强拖累，拉美股市终结季度连涨势头",
@@ -711,7 +822,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -738,6 +849,17 @@
           "time_info": "[01时53分 ~ 03时57分]"
         },
         {
+          "title": "谷歌发言人：（就瑞典法院反垄断案件裁决）我们不同意法院的决定，将考虑我们的法律选项。",
+          "url": "https://flash.jin10.com/detail/20260701194530894800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
           "title": "Anthropic：将与亚马逊、微软、谷歌及其他Glasswing合作伙伴共同制定评估AI越狱严重性的框架。",
           "url": "https://flash.jin10.com/detail/20260701111702765800",
           "source": "金十数据",
@@ -758,6 +880,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "受加息担忧影响 金价跌回4000美元下方",
+          "url": "https://flash.jin10.com/detail/20260701154243991800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "世界黄金协会：基准情景下，金价年内或将在4100美元附近交投",
+          "url": "https://flash.jin10.com/detail/20260701192900896800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时07分"
+        },
+        {
+          "title": "金价4000美元之下是陷阱还是机会？",
+          "url": "https://flash.jin10.com/detail/20260701153202436800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         }
       ]
     },
@@ -783,35 +955,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "受加息担忧影响 金价跌回4000美元下方",
-          "url": "https://flash.jin10.com/detail/20260701154243991800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "金价4000美元之下是陷阱还是机会？",
-          "url": "https://flash.jin10.com/detail/20260701153202436800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -827,11 +971,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 16时13分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 20时07分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",

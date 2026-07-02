@@ -1,1231 +1,156 @@
 {
-  "generated_at": "2026-07-02T23:20:19.473365+08:00",
-  "total_titles_processed": 1443,
+  "generated_at": "2026-07-03T01:47:31.883748+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "伊朗",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "【伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为】伊朗外交部副部长、伊方技术谈判代表团团长加里巴巴迪表示，在当天于多哈举行的伊朗、卡塔尔、巴基斯坦三方会谈中，伊朗代表团提出并审查了美国违反美伊谅解备忘录第一条关于结束黎巴嫩战事的承诺，并讨论了有关美国加强地区军事装备和兵力部署的报道和美国官员发表的一些具有威胁性及干涉主义的言论。伊朗代表团在会谈中强调，美伊谅解备忘录中的各项承诺是一个整体，不能单独割裂看待。 加里巴巴迪宣布，将组建监督小组并通过直接沟通渠道通报和审查涉及美伊谅解备忘录的违规行为。他指出，伊朗代表在与卡塔尔央行等官员的会谈中已决定将部分解冻的60亿美元资金用于根据伊朗需求采购必要物资。他同时澄清称“伊朗与美国代表团没有在多哈举行会晤”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3127569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗称美方违反谅解备忘录承诺 将建立监督机制审查违规行为",
-          "url": "https://flash.jin10.com/detail/20260702014758632800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国常驻联合国代表：我们呼吁伊朗重回对话与和平努力。",
-          "url": "https://flash.jin10.com/detail/20260702230220381800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "据伊拉克安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克埃尔比勒以东地区的一个伊朗库尔德反对组织营地。",
-          "url": "https://flash.jin10.com/detail/20260702052233657800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "报道：海湾国家被曝欲独自与伊朗达成地区安全协议",
-          "url": "https://wallstreetcn.com/livenews/3127594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 05时28分]"
-        },
-        {
-          "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260702044814695800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3127565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时54分]"
-        },
-        {
-          "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
-          "url": "https://flash.jin10.com/detail/20260702044739454800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3127562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时54分]"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 20时58分]"
-        },
-        {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 18时39分]"
-        },
-        {
-          "title": "美国常驻联合国代表：我们不会接受在霍尔木兹海峡征收任何非法费用。伊朗不尊重《联合国宪章》。",
-          "url": "https://flash.jin10.com/detail/20260702230126377800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "伊朗国家队回国向民众道歉",
-          "url": "https://www.toutiao.com/trending/7657124026443402793/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美国常驻联合国代表：我们呼吁伊朗停止袭击，并开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260702230050019800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗副外长表示，伊朗代表团在多哈的会谈已结束。",
-          "url": "https://flash.jin10.com/detail/20260702012932413800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国常驻联合国代表：尽管已有谅解备忘录，伊朗仍继续袭击船只以及巴林和科威特。",
-          "url": "https://flash.jin10.com/detail/20260702230035928800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美国常驻联合国代表：伊朗试图在霍尔木兹海峡征收非法费用。霍尔木兹海峡必须向所有国家开放。",
-          "url": "https://flash.jin10.com/detail/20260702225942690800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美国常驻联合国代表：我们不会允许伊朗将全球经济作为人质。伊朗袭击民用船只并阻碍航行自由，对全球农业造成了影响。",
-          "url": "https://flash.jin10.com/detail/20260702225923863800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
-          "url": "https://wallstreetcn.com/livenews/3127554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
-          "url": "https://flash.jin10.com/detail/20260702054957594800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美方试图劝说伊朗放弃征收通行费，称解除制裁后收益将高出“百倍”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3127553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
-          "url": "https://wallstreetcn.com/livenews/3127632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗武装部队：美干涉霍尔木兹海峡将遭回击",
-          "url": "https://flash.jin10.com/detail/20260702182111058800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "伊朗称美若无法约束宠物伊朗将出手",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%8B%A5%E6%97%A0%E6%B3%95%E7%BA%A6%E6%9D%9F%E5%AE%A0%E7%89%A9%E4%BC%8A%E6%9C%97%E5%B0%86%E5%87%BA%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
-          "url": "https://wallstreetcn.com/livenews/3127569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "巴林外长：战争期间，伊朗向巴林领土发射了200多枚导弹和600多架无人机，德黑兰将人口稠密的平民地区作为攻击目标。联合国安理会不能对伊朗的行为袖手旁观。",
-          "url": "https://flash.jin10.com/detail/20260702224028004800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录 重点推动资产解冻",
-          "url": "https://flash.jin10.com/detail/20260702010617566800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://flash.jin10.com/detail/20260702150803429800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "据沙特阿拉伯阿拉比亚电视台：消息人士称，美国与伊朗下一轮谈判将于7月18日举行。",
-          "url": "https://flash.jin10.com/detail/20260702181315167800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
-          "url": "https://wallstreetcn.com/livenews/3127534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "美国常驻联合国代表：美国总统特朗普对伊朗的耐心正在耗尽。",
-          "url": "https://flash.jin10.com/detail/20260702230245601800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们正轻松赢得一场战争。 我们在伊朗问题上进展顺利，就像在委内瑞拉那样。",
-          "url": "https://wallstreetcn.com/livenews/3127591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
-          "url": "https://flash.jin10.com/detail/20260702030012797800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "特朗普回应赚数十亿美元：靠股市上涨，自己“不管投资”",
-          "url": "https://flash.jin10.com/detail/20260702110853685800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 23时20分]"
-        },
-        {
-          "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
-          "url": "https://flash.jin10.com/detail/20260702044234084800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
-          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时32分]"
-        },
-        {
-          "title": "Vanguard Group Inc.（领航集团）将充当“特朗普账户”的另类基金合作伙伴。 该公司股票ETF被选择为“特朗普账户”的投资选项。",
-          "url": "https://wallstreetcn.com/livenews/3127615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "美国总统特朗普：油价正在下跌。 船只正离开霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3127614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普又来：绝不让中国接管巴拿马运河",
-          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
-          "url": "https://flash.jin10.com/detail/20260702043036201800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普：油价在下跌。",
-          "url": "https://flash.jin10.com/detail/20260702042858373800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "又来施压美联储？特朗普经济顾问：加息应对通胀是错误之举！",
-          "url": "https://www.cls.cn/detail/2414901",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时39分"
-        },
-        {
-          "title": "美国总统特朗普：船只正从霍尔木兹海峡驶出。",
-          "url": "https://flash.jin10.com/detail/20260702042850197800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普：我们造出了有史以来最先进的潜艇。在潜艇以及其他一些领域，我们领先对手15年。",
-          "url": "https://flash.jin10.com/detail/20260702042523360800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "特朗普称台积电将扩大投资规模，台积电不予置评",
-          "url": "https://wallstreetcn.com/livenews/3127868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。",
-          "url": "https://wallstreetcn.com/livenews/3127612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
-          "url": "https://wallstreetcn.com/livenews/3127574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美国总统特朗普：股市频频创新高。",
-          "url": "https://wallstreetcn.com/livenews/3127611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普：西班牙是北约成员，但并不是一个表现很好的成员。他们的表现并不太友好，但他们会学会怎么做的。",
-          "url": "https://flash.jin10.com/detail/20260702041008414800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普：古巴正在向美国靠拢。",
-          "url": "https://flash.jin10.com/detail/20260702040849951800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国高级政府官员声称： 美国不同意按当前形式续签美国墨西哥加拿大贸易协议（USMCA）。 总统特朗普的贸易政策已经取代了USMCA中的许多条款。 USMCA未能实现减少美国贸易逆差、以及在加拿大和墨西哥提供市场准入的承诺。 美国贸易代表办公室（USTR）将继续就USMCA的修改事宜与国会及公众进行磋商。 特朗普已经通过新的关税和贸易政策改变了USMCA的现状，但通过谈判仍有可能改善局面。 我们不希望将USMCA的问题拖延长达10年。 在特朗普本届任期的剩余时间内，可能会看到美国与加拿大和墨西哥分别达成单独的贸易协议。 7月20日当周与墨西哥的谈判将继续讨论原产地规则和经济安全问题。 我们需要针对汽车及其他工业产品制定更严格的北美原产地规则。 很难看出总统的目标如何能与调整行业关税的做法相一致。 政府正在继续分析航空航天供应链，以确定相关的关税政策。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3127561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美国总统特朗普：西班牙并非北约的良好成员。 西班牙将得到教训。 数十年过后，将按我们的方式应对古巴问题。",
-          "url": "https://wallstreetcn.com/livenews/3127606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国贸易代表：特朗普任期剩余时间内，可能与加拿大和墨西哥分别签署贸易协议。",
-          "url": "https://flash.jin10.com/detail/20260702010544753800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)正与特朗普政府就芯片采购事宜进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260702035645327800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普：美国在北约上的开支比其他国多，真是荒谬。",
-          "url": "https://wallstreetcn.com/livenews/3128023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "特朗普再批西班牙：表现不好 会得到教训",
-          "url": "https://wallstreetcn.com/livenews/3128022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 15时32分]"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时58分]"
-        },
-        {
-          "title": "美股存储芯片指数跌超7%，成分股全线溃败，闪迪盘中跌幅扩大至10%，泰瑞达、拉姆研究、应用材料、希捷科技、西部数据、Rambus、美光科技至多跌7.6%。",
-          "url": "https://wallstreetcn.com/livenews/3128126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美股集体高开 黄金板块领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E9%BB%84%E9%87%91%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            21,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时15分]"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
-          "url": "https://wallstreetcn.com/livenews/3127621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 07时15分]"
-        },
-        {
-          "title": "美股低开 算力租赁商、存储股大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E7%AE%97%E5%8A%9B%E7%A7%9F%E8%B5%81%E5%95%86%E3%80%81%E5%AD%98%E5%82%A8%E8%82%A1%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时54分]"
-        },
-        {
-          "title": "美股三大股指期货在六月非农数据公布后延续涨势，纳指期货涨幅扩大至0.4%。",
-          "url": "https://flash.jin10.com/detail/20260702203314831800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美国非农数据公布后，美股股指期货快速拉升",
-          "url": "https://wallstreetcn.com/livenews/3128043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260702012114628800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260702012101023800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美股科技股走低，纳斯达克100指数跌幅扩大至1%，AMD(AMD.O)跌近4%，Meta Platforms(META.O)跌3.5%，英特尔(INTC.O)跌2.5%，英伟达(NVDA.O)跌0.6%，博通(AVGO.O)跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260702225019379800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，黄金ETF涨0.6%，纳指ETF跌超1.5%，布油基金跌超3.1%",
-          "url": "https://wallstreetcn.com/livenews/3127610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股存储概念股走低，闪迪跌近5%，希捷科技跌超2%，西部数据跌1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3128110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美股存储板块继续回调，美光科技(MU.O)跌超3%，西部数据(WDC.O)跌超5%，闪迪(SNDK.O)跌超9%。",
-          "url": "https://flash.jin10.com/detail/20260702224752801800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3127607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260702040547223800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260702040533844800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股三大股指期货转涨，美光科技盘前反弹",
-          "url": "https://wallstreetcn.com/livenews/3128027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
-          "url": "https://flash.jin10.com/detail/20260702040235507800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
-          "url": "https://wallstreetcn.com/livenews/3127538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "标普500指数收跌16.13点，跌幅0.22%，报7483.23点。 道琼斯工业平均指数收跌13.96点，跌幅0.03%，报52305.24点。 纳斯达克综合指数（纳指）收跌173.688点，跌幅0.66%，报26040.031点。 纳斯达克100指数收跌467.216点，跌幅1.54%，报29809.133点。 纳斯达克科技市值加权指数收跌1.33%，报2921.0461点，跳空低开之后持续低位震荡。 费城半导体指数收跌893.682点，跌幅6.27%，报13353.279点，跳空低开之后持续扩大跌幅，北京时间02:56刷新日低至13322.630点。 费城证交所KBW银行指数收涨1.79%，报184.54点，突破6月25日所创收盘历史最高位184.64点、逼近当天所创盘中历史最高位187.55点。 道琼斯KBW地区银行指数收涨1.70%，报147.88点，美股早盘持续上扬、00:40刷新盘中历史高位至148.38点，收盘突破6月26日所创收盘历史最高位146.21点。 罗素2000指数收跌0.39%，报3012.59点。 纳斯达克生物科技指数收跌0.05%，报6561.65点。 标普中盘股400指数收跌0.86%，纳斯达克美国中等市值指数跌0.12%，双双低开之后冲高回落。 恐慌指数VIX收涨0.73%，报16.57，欧股盘初跳空高开至17关口上方，随后持续回吐涨幅、21:35刷新日高至17.30、之后快速转跌。",
-          "url": "https://wallstreetcn.com/livenews/3127599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美元指数在非农公布后跌至两周低点100.58。",
-          "url": "https://wallstreetcn.com/livenews/3128054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，ICE美元指数涨0.20%，报101.387点，亚太盘初以来持续上扬、北京时间21:14刷新日高至101.595点，随后快速回落、刷新日低至101.200点、几乎完全回吐日内稍早涨幅，之后逐步回升。 彭博美元指数涨0.20%，报1224.73点，日内交投区间为1222.26-1226.75点。",
-          "url": "https://wallstreetcn.com/livenews/3127589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260702042100107800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美元指数DXY短线下挫30点，报100.85。",
-          "url": "https://flash.jin10.com/detail/20260702203107070800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
-          "url": "https://wallstreetcn.com/livenews/3127613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.22%，暂报2150.11点，北京时间08:55之前大致持平于2100点附近，09:13跌至2063.01点刷新期内最低位，随后呈现出N形走势、第一波反弹走势在12:47达到2155.28点、23:23刷新期内最高位至2161.93点。 MarketVectorTM数字资产100中盘指数涨0.99%，报2453.77点。 MarketVector数字资产100指数涨2.65%，报11919.46点。 目前，Solana涨4.78%，狗狗币涨1.11%，XRP涨1.31%。 比特币涨2.06%，暂报59850.94美元；以太坊涨2.33%，暂报1613.15美元。",
-          "url": "https://wallstreetcn.com/livenews/3127549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
-          "url": "https://www.zhihu.com/question/2056021886144864275",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际黄金价格跌破 4000 美元 / 盎司后，未来有可能进一步跌到 3000 美元 / 盎司吗？",
-          "url": "https://www.zhihu.com/question/2053257491765581754",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时15分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            23,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 07时15分]"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）上海金午盘价为888.61元/克，较国际金价(888.81元/克)，低0.2元/克",
-          "url": "https://flash.jin10.com/detail/20260702151153434800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "世界黄金协会：下半年金价或区间震荡",
-          "url": "https://www.toutiao.com/trending/7657587029475069494/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 05时28分]"
-        },
-        {
-          "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
-          "url": "https://wallstreetcn.com/livenews/3127592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时54分"
-        },
-        {
-          "title": "非农数据削减加息预期，美股期指拉升，美债收益率直线走低，黄金涨幅扩大至2%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        },
-        {
-          "title": "美国国债收益率在非农报告发布后下跌，10年期美债收益率最新下跌1.76个基点，报4.457%。",
-          "url": "https://flash.jin10.com/detail/20260702203339598800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时58分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
-          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "title": "7 月 2 日大量网友反馈 DeepSeek 崩了，是怎么回事？",
+          "url": "https://www.zhihu.com/question/2056064893745193207",
           "source": "知乎",
           "ranks": [
-            13,
-            17,
-            14
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 05时28分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "为什么现在 DeepSeek 快速模式豆包化？",
+          "url": "https://www.zhihu.com/question/2050992107284964141",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "出现性能下降问题 DeepSeek回应",
           "url": "https://www.baidu.com/s?wd=%E5%87%BA%E7%8E%B0%E6%80%A7%E8%83%BD%E4%B8%8B%E9%99%8D%E9%97%AE%E9%A2%98+DeepSeek%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "DeepSeek崩了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
-          "url": "https://wallstreetcn.com/articles/3775976",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时32分]"
-        },
-        {
-          "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
-          "url": "https://flash.jin10.com/detail/20260702041739954800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "01时47分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：GTIG估计NetNut僵尸网络规模为全球200万设备。",
+          "url": "https://flash.jin10.com/detail/20260703012953278800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：已禁用NetNut用于恶意软件指挥和控制的谷歌账户。",
+          "url": "https://flash.jin10.com/detail/20260703012925898800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：已对“NetNut住宅代理网络”（也称为POPA）采取行动。",
+          "url": "https://flash.jin10.com/detail/20260703012900926800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
       "match_count": 2,
       "titles": [
         {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
           "ranks": [
-            6,
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 03时54分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
-          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
-          "url": "https://www.cls.cn/detail/2414683",
-          "source": "财联社热门",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
+          "url": "https://wallstreetcn.com/livenews/3128161",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "传特朗普政府未与Anthropic讨论入股 OpenAI曾涉5%股权提议",
+          "url": "https://flash.jin10.com/detail/20260703004456845800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     }

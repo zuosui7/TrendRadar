@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T04:57:29.162620+08:00",
-  "total_titles_processed": 418,
+  "generated_at": "2026-07-05T06:01:41.401420+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "内塔尼亚胡或将访白宫 特朗普称内塔尼亚胡“知道谁才是老大”",
@@ -41,6 +41,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
+          "url": "https://flash.jin10.com/detail/20260705054951202800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "特朗普与内塔尼亚胡或最早于下周举行会晤。",
           "url": "https://flash.jin10.com/detail/20260705004719450800",
           "source": "金十数据",
@@ -50,6 +61,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "克里姆林宫：普京在通话中邀请了特朗普访问俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20260705053907326800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：普京与特朗普的对话务实且富有建设性。",
+          "url": "https://flash.jin10.com/detail/20260705053346224800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将继续协助和平努力，并准备访问莫斯科。",
+          "url": "https://flash.jin10.com/detail/20260705053327048800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "特朗普：华盛顿庆典人潮空前 美国比以往任何时候都更强大",
@@ -64,6 +119,17 @@
           "time_info": "[03时11分 ~ 04时57分]"
         },
         {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
+        },
+        {
           "title": "美国财长贝森特：在特朗普总统的领导下，我们正迈向史无前例的经济增长、美元的持久主导地位以及财政的稳健与强劲。",
           "url": "https://flash.jin10.com/detail/20260705024018579800",
           "source": "金十数据",
@@ -76,28 +142,6 @@
           "time_info": "[03时11分 ~ 04时57分]"
         },
         {
-          "title": "美国250周年庆典变特朗普私人派对？",
-          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
-        },
-        {
           "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
           "url": "https://wallstreetcn.com/livenews/3128926",
           "source": "华尔街见闻-快讯",
@@ -105,8 +149,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "内塔尼亚胡近期将访美与特朗普会晤",
@@ -127,9 +171,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：特朗普在北约峰会前提出帮助达成乌克兰冲突的解决方案。",
+          "url": "https://flash.jin10.com/detail/20260705053232997800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：普京对特朗普提供了关于乌克兰冲突中战场局势的准确评估。",
+          "url": "https://flash.jin10.com/detail/20260705053141875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国Axios记者称，若内塔尼亚胡造访白宫，这将是他自二月份在情况室与美国总统特朗普的戏剧性会晤以来的首次会面，当时，内塔尼亚胡提交了一份对伊朗开战的方案。",
@@ -138,9 +204,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与美国总统特朗普于周六进行了1小时25分钟的通话。",
+          "url": "https://flash.jin10.com/detail/20260705053058868800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国财政部正式推出“特朗普账户”应用程序",
@@ -160,9 +237,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "克里姆林宫：在普京与特朗普的通话中，双方谈及乌克兰问题。",
+          "url": "https://flash.jin10.com/detail/20260705052229258800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普举行了新的电话会谈，通话由美方发起，持续了1小时25分钟。普京向特朗普和美国人民祝贺美国独立日，纪念美国独立250周年。",
+          "url": "https://flash.jin10.com/detail/20260705052117522800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "据知情人士透露，乌克兰总统泽连斯基周六与美国总统特朗普通话，并就美国建国250周年向其表示祝贺。",
@@ -171,7 +270,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -182,9 +281,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "url": "https://flash.jin10.com/detail/20260705051451738800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "据以色列第15频道援引消息人士称，美国总统特朗普要求不要在黎巴嫩局势上升级，以免妨碍他与伊朗的沟通。",
@@ -209,6 +319,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "一名白宫高级官员透露，特朗普今晚将发表一篇具有历史意义的演讲，回顾美国建国二百五十年来的历程，并通过美国英雄的事迹来讲述这段历史。这将是一场独一无二的演讲，与他以往发表过的任何演讲都截然不同。",
+          "url": "https://flash.jin10.com/detail/20260705044719440800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "一名美国官员表示，特朗普身边多位核心幕僚都认为，内塔尼亚胡在所有问题上都判断失误。",
           "url": "https://flash.jin10.com/detail/20260705011106298800",
           "source": "金十数据",
@@ -218,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "以色列消息人士：内塔尼亚胡与特朗普的会面尚未敲定相关安排。",
+          "url": "https://flash.jin10.com/detail/20260705043308774800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "美国总统特朗普：我对伊朗人在哈梅内伊的葬礼上哭泣感到很惊讶，因为我原以为人们是讨厌他的。也许这些都是假眼泪。",
@@ -255,8 +387,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -266,8 +398,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -277,8 +409,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -288,8 +420,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
@@ -298,9 +430,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时01分]"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗很荣幸接待了来自70多个国家的代表，他们前来参加对我们已殉难的最高领袖哈梅内伊的悼念活动，其中包括我们忠诚的阿拉伯兄弟。这场具有历史意义的纪念活动，将成为我们共同关系发展历程中永恒的记忆。",
@@ -322,8 +454,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -333,8 +465,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
@@ -343,7 +475,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -376,7 +508,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -438,6 +570,35 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时05分 ~ 06时01分]"
+        },
+        {
+          "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
+          "url": "https://wallstreetcn.com/articles/3776188",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -451,23 +612,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时57分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T19:27:18.912711+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2026-07-04T21:24:03.452205+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -54,26 +54,37 @@
           "time_info": "[10时49分 ~ 14时20分]"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "21时24分"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://flash.jin10.com/detail/20260704184728055800",
-          "source": "金十数据",
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时27分"
+          "time_info": "21时24分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -86,6 +97,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 07时03分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 21时24分]"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -117,11 +140,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 21时24分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            3,
             14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时27分]"
+          "time_info": "[19时27分 ~ 21时24分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时27分 ~ 21时24分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -170,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时23分 ~ 19时27分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "伊朗总统与俄罗斯讨论扩大合作的事宜。（ISN）",
@@ -313,23 +372,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
-        },
-        {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -341,6 +389,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 10时50分]"
+        },
+        {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺贝尔奖",
@@ -370,11 +440,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 19时27分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 21时24分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -387,6 +458,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 07时03分]"
+        },
+        {
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时27分 ~ 21时24分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -444,17 +549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
-          "url": "https://flash.jin10.com/detail/20260704182308917800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时27分"
         },
         {
           "title": "特朗普：美国经济正强劲腾飞！",
@@ -591,7 +685,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -600,11 +694,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 21时24分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -632,6 +727,17 @@
           "time_info": "[01时25分 ~ 05时05分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        },
+        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
@@ -655,11 +761,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 19时27分]"
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 21时24分]"
         }
       ]
     },

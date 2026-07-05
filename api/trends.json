@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T00:09:01.885236+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-06T02:03:19.512678+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -37,19 +37,75 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
+        },
+        {
+          "title": "美国高级官员：特朗普将在北约峰会期间讨论霍尔木兹海峡的航行问题。盟友已准备好参与保护霍尔木兹海峡的航运安全。",
+          "url": "https://flash.jin10.com/detail/20260706012858730800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国高级官员：特朗普认为必须尽快结束俄乌冲突，俄乌前线战局已僵持数月。美方有望在结束乌克兰战事方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260706012207769800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
+        },
+        {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "time_info": "[00时09分 ~ 02时03分]"
+        },
+        {
+          "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
+          "url": "https://flash.jin10.com/detail/20260706012031099800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "美国高级官员：特朗普将与乌克兰总统泽连斯基讨论如何结束战争。",
+          "url": "https://flash.jin10.com/detail/20260706011737645800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
@@ -58,9 +114,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
+          "url": "https://flash.jin10.com/detail/20260706011614677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260706011411437800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "白宫：特朗普将在北约峰会期间与乌克兰和叙利亚领导人举行双边会晤。",
+          "url": "https://flash.jin10.com/detail/20260706010803777800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
@@ -69,7 +158,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         },
@@ -80,9 +169,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "多数美国选民认为特朗普对伊朗开战得不偿失",
+          "url": "https://flash.jin10.com/detail/20260706001649875800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
@@ -91,18 +191,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时09分"
-        },
-        {
-          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
-          "url": "https://wallstreetcn.com/livenews/3128968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
         }
@@ -110,7 +199,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -120,19 +209,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
           "url": "https://flash.jin10.com/detail/20260705235628247800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时03分]"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 02时03分]"
         },
         {
           "title": "伊朗已故最高领袖哈梅内伊三子现身",
@@ -146,15 +247,26 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://wallstreetcn.com/livenews/3129009",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议会议长卡利巴夫：抵抗阵线与黎巴嫩问题被视为我们的红线之一。",
+          "url": "https://flash.jin10.com/detail/20260706005622516800",
+          "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时09分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国是一个不可靠的谈判方，因此我们在谈判中划定了明确的界限，并始终坚持这些界限。",
+          "url": "https://flash.jin10.com/detail/20260706005606461800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         }
       ]
     },
@@ -170,8 +282,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
@@ -181,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         }
       ]
     },
@@ -195,11 +307,12 @@
           "url": "https://wallstreetcn.com/articles/3776218",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "appearance_count": 3,
+          "time_info": "[00时08分 ~ 02时03分]"
         }
       ]
     }

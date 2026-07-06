@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T13:11:43.630021+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-07-06T18:20:07.838501+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -43,6 +43,19 @@
           "time_info": "[00时08分 ~ 08时05分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 18时20分]"
+        },
+        {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
@@ -54,18 +67,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时08分 ~ 08时05分]"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时11分]"
         },
         {
           "title": "特朗普对哈梅内伊葬礼感到“震惊”",
@@ -85,7 +86,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         },
@@ -159,6 +160,18 @@
           "time_info": "[00时09分 ~ 06时02分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时20分]"
+        },
+        {
           "title": "美国高级官员：相信特朗普将与俄罗斯普京进行后续沟通。",
           "url": "https://flash.jin10.com/detail/20260706012031099800",
           "source": "金十数据",
@@ -169,6 +182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时03分 ~ 04时14分]"
+        },
+        {
+          "title": "曝特朗普曾施压国际足联",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%96%BD%E5%8E%8B%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "美国高级官员：特朗普将与乌克兰总统泽连斯基讨论如何结束战争。",
@@ -219,17 +243,6 @@
           "time_info": "[04时14分 ~ 06时02分]"
         },
         {
-          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
-          "url": "https://wallstreetcn.com/articles/3776227",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
           "url": "https://flash.jin10.com/detail/20260705234623439800",
           "source": "金十数据",
@@ -274,6 +287,28 @@
           "time_info": "02时03分"
         },
         {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普可能在不久的将来联系。",
+          "url": "https://flash.jin10.com/detail/20260706180436895800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的对话是向美国领导人直接传达俄罗斯立场的良好机会。",
+          "url": "https://flash.jin10.com/detail/20260706180340895800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先“内部分裂”",
           "url": "https://flash.jin10.com/detail/20260706073731841800",
           "source": "金十数据",
@@ -294,6 +329,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "克里姆林宫表示美国总统特朗普在乌克兰问题上的立场相当一致。",
+          "url": "https://flash.jin10.com/detail/20260706180018486800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "美媒曝特朗普儿时好友向其支招 以掌控中期选举",
+          "url": "https://flash.jin10.com/detail/20260706175752278800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普将自己头像加在林肯旁边",
@@ -351,6 +408,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-06）",
+          "url": "https://flash.jin10.com/detail/20260706175152590800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
           "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
           "url": "https://flash.jin10.com/detail/20260706065107849800",
           "source": "金十数据",
@@ -365,7 +433,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -383,11 +451,23 @@
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 18时20分]"
+        },
+        {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 13时11分]"
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -513,7 +593,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
         }
@@ -521,7 +601,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -552,22 +632,35 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时20分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 18时20分]"
+        },
+        {
+          "title": "摩根士丹利：美股资金将从芯片股转向超大规模企业股票",
+          "url": "https://flash.jin10.com/detail/20260706180743923800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "18时20分"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -590,6 +683,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马士基表示，AE15 Gemini 服务将通过苏伊士运河航行。此决定标志着逐步恢复通过苏伊士运河的第一步。",
+          "url": "https://flash.jin10.com/detail/20260706180948644800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },

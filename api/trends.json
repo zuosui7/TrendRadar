@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T18:20:07.838501+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-07-06T22:25:32.043398+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 22时25分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -276,6 +276,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "美国总统特朗普：股市将迎来大涨。 美国财长贝森特表现出色。",
+          "url": "https://wallstreetcn.com/livenews/3129419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "白宫：特朗普将在北约峰会期间与乌克兰和叙利亚领导人举行双边会晤。",
           "url": "https://flash.jin10.com/detail/20260706010803777800",
           "source": "金十数据",
@@ -293,9 +304,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "戴尔涨幅扩大至3%，特朗普称赞戴尔公司对特朗普账户的捐款，让大家去买戴尔电脑",
+          "url": "https://wallstreetcn.com/livenews/3129418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与美国总统特朗普的对话是向美国领导人直接传达俄罗斯立场的良好机会。",
@@ -304,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -337,9 +359,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "纳指涨幅扩大至1%，此前特朗普称市场将会暴涨。",
+          "url": "https://flash.jin10.com/detail/20260706215211545800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "特朗普力推“特朗普账户”，喊听众去买戴尔电脑",
+          "url": "https://flash.jin10.com/detail/20260706215203217800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美媒曝特朗普儿时好友向其支招 以掌控中期选举",
@@ -348,7 +392,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -408,13 +452,24 @@
           "time_info": "00时09分"
         },
         {
+          "title": "特朗普插手世界杯红牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%92%E6%89%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BA%A2%E7%89%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-06）",
           "url": "https://flash.jin10.com/detail/20260706175152590800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -433,7 +488,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -452,11 +507,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 18时20分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 22时25分]"
         },
         {
           "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
@@ -468,6 +524,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
+          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -596,12 +663,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时11分"
+        },
+        {
+          "title": "中国驻伊朗大使馆：7月8日起恢复所有领事证件业务",
+          "url": "https://wallstreetcn.com/livenews/3129402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -636,8 +714,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 22时25分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
@@ -645,11 +723,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 22时25分]"
         },
         {
           "title": "摩根士丹利：美股资金将从芯片股转向超大规模企业股票",
@@ -658,9 +737,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美股期指延续涨势 纳斯达克100指数期货涨超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2418371",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -672,6 +773,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨0.11%，标普500指数涨0.32%，纳指涨0.78%。博通涨3.5%，公司宣布与苹果合作协议延长至2031年。存储概念股集体走高，西部数据涨超5%，闪迪涨超4%，希捷科技涨超4%，美光科技涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3129413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3129407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -697,7 +820,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         }

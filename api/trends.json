@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T06:02:09.840761+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-07-06T08:05:54.286916+08:00",
+  "total_titles_processed": 584,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -15,30 +15,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
           "url": "https://news.ifeng.com/c/8uW6iftDRFS",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
@@ -46,11 +48,23 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到“震惊”",
+          "url": "https://wallstreetcn.com/livenews/3129042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
@@ -59,9 +73,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -70,7 +95,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -226,6 +251,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "北约峰会火药味升级：特朗普调停俄乌冲突，盟友却先“内部分裂”",
+          "url": "https://flash.jin10.com/detail/20260706073731841800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们并不是处于永久战争状态。我和美国总统特朗普一起促成了四项和平协议。寻求我们保护的，不仅仅是黎巴嫩的基督徒，还有德鲁兹人、穆斯林、逊尼派穆斯林，以及相当多的什叶派穆斯林。",
           "url": "https://flash.jin10.com/detail/20260705232818933800",
           "source": "金十数据",
@@ -235,6 +271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普将自己头像加在林肯旁边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我和特朗普在愿景上意见一致，虽然可能会出现分歧，但我们坦率而公开地讨论它们，并且通常能达成解决方案。",
@@ -259,6 +306,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "据华尔街日报：美国航空航天局（NASA）局长贾里德·艾萨克曼不顾美国联邦航空管理局（FAA）反对，驾驶复古战机参加华盛顿航展。艾萨克曼曾邀请美国财长贝森特、白宫办公厅副主任丹·斯卡维诺以及特朗普高级顾问克里斯·拉西维塔等白宫官员乘坐飞机，但这些安排最终被取消。",
+          "url": "https://flash.jin10.com/detail/20260706071640269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：（谈到与特朗普的关系）我不认为我们之间有裂痕。与其他盟友不同，我们与美国并肩作战，在99%的情况下，我和美国总统的看法是一致的。",
           "url": "https://flash.jin10.com/detail/20260705231132842800",
           "source": "金十数据",
@@ -268,12 +326,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "特朗普一个电话改写世界杯？FIFA撤销红牌引爆“政治干预体育”风暴",
+          "url": "https://flash.jin10.com/detail/20260706065107849800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -283,19 +352,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
           "url": "https://wallstreetcn.com/livenews/3129009",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时09分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 08时05分]"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时13分 ~ 08时05分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
@@ -308,18 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 02时03分]"
-        },
-        {
-          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
-          "url": "https://www.zhihu.com/question/2056886502731297310",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时13分 ~ 06时02分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -389,34 +471,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗最高领袖任命埃杰伊继续担任司法总监",
+          "url": "https://wallstreetcn.com/livenews/3129023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
           "url": "https://wallstreetcn.com/articles/3776204",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
         },
         {
           "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
+        },
+        {
+          "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
+          "url": "https://www.cls.cn/detail/2417191",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     },
@@ -433,8 +550,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 08时05分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T08:05:54.286916+08:00",
-  "total_titles_processed": 584,
+  "generated_at": "2026-07-06T13:11:43.630021+08:00",
+  "total_titles_processed": 818,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -56,15 +56,38 @@
           "time_info": "[00时08分 ~ 08时05分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时11分]"
+        },
+        {
           "title": "特朗普对哈梅内伊葬礼感到“震惊”",
           "url": "https://wallstreetcn.com/livenews/3129042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         },
         {
           "title": "特朗普据悉计划在土耳其会见泽连斯基后与普京通话",
@@ -76,17 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -207,6 +219,17 @@
           "time_info": "[04时14分 ~ 06时02分]"
         },
         {
+          "title": "特朗普：哈梅内伊葬礼上一次攻击就能全部干掉伊朗高层，但不会这么做，这样就没人谈判了",
+          "url": "https://wallstreetcn.com/articles/3776227",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：财政部已正式推出特朗普账户项目，本届政府希望借助该项目提升下一代民众的金融素养，帮助他们理解投资的价值。",
           "url": "https://flash.jin10.com/detail/20260705234623439800",
           "source": "金十数据",
@@ -257,7 +280,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -279,7 +302,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -312,7 +335,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -334,7 +357,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -342,7 +365,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -362,9 +385,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 13时11分]"
         },
         {
           "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
@@ -479,15 +502,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "伊朗已故最高领袖送葬仪式在德黑兰举行",
+          "url": "https://wallstreetcn.com/livenews/3129145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -514,13 +548,35 @@
           "time_info": "[00时08分 ~ 08时05分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
           "url": "https://www.cls.cn/detail/2417191",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -531,7 +587,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -547,11 +603,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 08时05分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 13时11分]"
         }
       ]
     }

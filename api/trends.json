@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T11:20:21.862408+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-07-07T15:37:47.179342+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时07分]"
+        },
+        {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 15时37分]"
         },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 05时29分]"
-        },
-        {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         },
         {
           "title": "特朗普插手世界杯红牌",
@@ -130,7 +130,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -151,11 +151,24 @@
           "url": "https://www.zhihu.com/question/2057732608214004902",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 15时37分]"
+        },
+        {
+          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
+          "url": "https://www.cls.cn/detail/2418537",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
+          "time_info": "[11时20分 ~ 15时37分]"
         },
         {
           "title": "特朗普称不知道红牌还要禁赛",
@@ -192,6 +205,17 @@
           "time_info": "[04时22分 ~ 04时23分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "美国总统特朗普：沃尔玛将把一磅碎牛肉价格下调近15%，并降低包括其他多种商品在内的售价。",
           "url": "https://flash.jin10.com/detail/20260707044730846800",
           "source": "金十数据",
@@ -214,6 +238,28 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特朗普称不知道红牌还要禁赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
+          "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "美媒：内塔尼亚胡求特朗普“约束”埃尔多安",
           "url": "https://flash.jin10.com/detail/20260707033319103800",
           "source": "金十数据",
@@ -225,24 +271,13 @@
           "time_info": "04时23分"
         },
         {
-          "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
-          "url": "https://www.cls.cn/detail/2418537",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
           "title": "特朗普，对伊朗再次发出威胁",
           "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -313,6 +348,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
+          "url": "https://www.zhihu.com/question/2057769216468415013",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "特朗普称不理解红牌还要禁赛",
           "url": "https://flash.jin10.com/detail/20260707031208857800",
           "source": "金十数据",
@@ -330,7 +376,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
         },
@@ -371,7 +417,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -409,6 +455,18 @@
           "time_info": "[07时06分 ~ 07时07分]"
         },
         {
+          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
+          "url": "https://www.cls.cn/detail/2418586",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 15时37分]"
+        },
+        {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
@@ -442,15 +500,15 @@
           "time_info": "07时07分"
         },
         {
-          "title": "美股收盘：道指再创历史新高 AI硬件链重现抱团",
-          "url": "https://www.cls.cn/detail/2418586",
+          "title": "撤出美股七巨头，押注中国AI！华尔街正在赌上一场“东升西落”？",
+          "url": "https://www.cls.cn/detail/2418780",
           "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "15时37分"
         },
         {
           "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
@@ -488,6 +546,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "罕见！特朗普在白宫为纽交所和纳斯达克敲钟，称美股将涨破天际",
+          "url": "https://news.ifeng.com/c/8uZ9ehIphCl",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
           "title": "大豆基金收涨将近3.3%，与农产品ETF、新兴市场ETF领跑美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3129555",
           "source": "华尔街见闻-快讯",
@@ -497,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "SK海力士即将登陆美股，对美光科技短期、中期、长期分别意味着什么？",
+          "url": "https://flash.jin10.com/detail/20260707150655914800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         },
         {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
@@ -630,6 +710,56 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "DeepSeek面试",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -682,23 +812,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "前华为天才少年吐槽DeepSeek面试",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%8D%8E%E4%B8%BA%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%90%90%E6%A7%BDDeepSeek%E9%9D%A2%E8%AF%95%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时19分 ~ 11时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -712,6 +825,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月07日（周二）上海金午盘价为902.7元/克，较国际金价(903.31元/克)，低0.61元/克",
+          "url": "https://flash.jin10.com/detail/20260707151648257800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     }

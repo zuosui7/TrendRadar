@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T02:50:58.088980+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-07-10T04:47:22.060617+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -47,11 +47,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
@@ -60,9 +61,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "据半岛电视台：伊朗科纳拉克市长表示，相关部门已立即赶赴袭击现场，目前正在调查事件规模及具体细节。",
+          "url": "https://flash.jin10.com/detail/20260710042318962800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "报道：伊朗多地传出爆炸声",
@@ -71,7 +83,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -85,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗官方通讯社援引地方官员消息称，位于科纳拉克的伊朗海军基地遭到“敌人”袭击。",
+          "url": "https://flash.jin10.com/detail/20260710041113293800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "以色列防长Katz：如果威胁再次出现，以色列将准备恢复袭击伊朗。",
@@ -126,9 +149,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "据伊朗官方媒体报道：伊朗位于Konarak的海军基地遭到“敌人”袭击。",
+          "url": "https://wallstreetcn.com/livenews/3131538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗恰巴哈尔省科纳拉克传出三声爆炸声。目前尚无关于爆炸原因以及可能造成损失程度的详细信息。",
@@ -137,7 +171,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         },
@@ -175,21 +209,43 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗遭袭系误报，实为防空系统启动",
+          "url": "https://flash.jin10.com/detail/20260710034807607800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
           "title": "以总理：“不允许”伊朗拥核，拟大幅追加国防预算",
           "url": "https://wallstreetcn.com/livenews/3131486",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡周边的区域并没有报告爆炸问题。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3131519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -199,8 +255,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "美国白宫：特朗普指示商务部长和美国贸易代表与贸易伙伴谈判，以应对对美国国家安全构成威胁的问题。",
+          "url": "https://flash.jin10.com/detail/20260710042658442800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们在很多方面都取得胜利。",
@@ -221,8 +288,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -232,8 +299,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
@@ -243,8 +310,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
         },
         {
           "title": "“二鬼子”章家敦，被特朗普点名批评了",
@@ -254,8 +321,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
+          "url": "https://flash.jin10.com/detail/20260710042151909800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
+          "url": "https://wallstreetcn.com/livenews/3131541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
         },
         {
           "title": "美国总统特朗普：（谈及伊朗）我们已经赢了，尤其是在军事领域。",
@@ -267,6 +356,206 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
+          "url": "https://flash.jin10.com/detail/20260710035930896800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "内塔尼亚胡与特朗普通话，商定保持两国政策协调",
+          "url": "https://wallstreetcn.com/livenews/3131529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "以色列总理办公室：以色列总理内塔尼亚胡与美国总统特朗普进行了通话，达成继续在各个领域协调的共识。",
+          "url": "https://flash.jin10.com/detail/20260710035516714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "据Axios：以色列总理办公室表示，特朗普周四与内塔尼亚胡通话，讨论伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260710035337454800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3131518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时47分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
+          "url": "https://wallstreetcn.com/livenews/3131543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3131539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260710040615773800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260710040543739800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260710040126846800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
+          "url": "https://flash.jin10.com/detail/20260710040649835800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
+          "url": "https://flash.jin10.com/detail/20260709233707293800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
+          "url": "https://flash.jin10.com/detail/20260710040229258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时50分"
         }
       ]
     },
@@ -310,77 +599,31 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美元",
       "match_count": 3,
       "titles": [
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
-        },
-        {
-          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
-        },
-        {
-          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2422043",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：在与特朗普政府磋商后对GPT-5.6做出多项调整",
-          "url": "https://flash.jin10.com/detail/20260709233707293800",
+          "title": "美元指数9日下跌",
+          "url": "https://flash.jin10.com/detail/20260710035820523800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://wallstreetcn.com/livenews/3131490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
+          "time_info": "04时47分"
+        },
+        {
+          "title": "周四（7月9日）纽约尾盘，ICE美元指数跌0.07%，报100.916点，日内交投区间为101.039-100.786点。 彭博美元指数跌0.02%，报1220.05点，日内交投区间为1221.24-1218.64点。 美元兑日元跌0.13%，报162.39日元，日内交投区间为162.62-162.25日元。 欧元兑日元跌0.03%，报185.59日元；英镑兑日元涨0.03%，报217.737日元。",
+          "url": "https://wallstreetcn.com/livenews/3131523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时47分"
+        },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.64%，暂报2168.03点。 MarketVectorTM数字资产100中盘指数涨0.89%，报2538.31点。 MarketVector数字资产100指数涨0.69%，报12443.14点。 目前，Solana涨0.44%，狗狗币涨0.11%，XRP持平。 比特币涨0.68%，暂报62572.83美元；以太坊跌0.11%，暂报1734.71美元。",
           "url": "https://wallstreetcn.com/livenews/3131481",
@@ -388,7 +631,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
         }

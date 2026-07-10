@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T08:05:24.425206+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-10T12:52:07.515905+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "美军称再次对伊朗发起打击",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时27分 ~ 06时22分]"
+        },
+        {
+          "title": "伊朗：已发射10枚弹道导弹，打击驻约旦美军基地",
+          "url": "https://news.ifeng.com/c/8udgruF8e0q",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -49,9 +71,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时52分]"
         },
         {
           "title": "美官员称外交努力仍在进行 如有必要将继续打击伊朗",
@@ -60,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -102,6 +136,17 @@
           "time_info": "[04时47分 ~ 06时22分]"
         },
         {
+          "title": "伊朗发射导弹打击美军4处军事基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B4%E5%A4%84%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260710023239108800",
           "source": "金十数据",
@@ -135,24 +180,13 @@
           "time_info": "02时50分"
         },
         {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "以总理：“不允许”伊朗拥核 拟大幅追加国防预算",
           "url": "https://flash.jin10.com/detail/20260710070756335800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -251,7 +285,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -295,7 +329,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -347,7 +381,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -371,6 +405,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时27分 ~ 08时05分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "政治新星、“民主党版特朗普”，涉性侵丑闻“塌房”退选",
@@ -430,6 +475,17 @@
           "time_info": "[04时47分 ~ 06时22分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
+        {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
           "url": "https://flash.jin10.com/detail/20260710054645407800",
           "source": "金十数据",
@@ -452,6 +508,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普松口了，美媒：泽连斯基但不能高兴太早",
+          "url": "https://news.ifeng.com/c/8uda049HcXP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -485,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美国佛罗里达州棕榈滩机场更名为特朗普机场",
+          "url": "https://wallstreetcn.com/livenews/3131752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         },
         {
           "title": "以色列总理办公室：特朗普向内塔尼亚胡告知了美国在海湾地区采取的行动。内塔尼亚胡则提及土耳其总统埃尔多安及其盟友针对以色列存在问题发表的强硬言论，并强调维持以色列边境安全区的必要性。",
@@ -537,7 +615,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -571,6 +649,29 @@
           "time_info": "[00时27分 ~ 06时22分]"
         },
         {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时52分]"
+        },
+        {
+          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
+          "url": "https://www.cls.cn/detail/2422278",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时52分]"
+        },
+        {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -581,17 +682,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 04时47分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -605,17 +695,6 @@
           "time_info": "[00时27分 ~ 08时05分]"
         },
         {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
@@ -625,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
+          "url": "https://www.cls.cn/detail/2422268",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 12时52分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
@@ -649,17 +739,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时47分 ~ 06时22分]"
-        },
-        {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时05分"
         },
         {
           "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
@@ -712,7 +791,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         }
@@ -720,8 +799,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时51分 ~ 12时52分]"
+        },
         {
           "title": "OpenAI高管Fidji Simo将卸任",
           "url": "https://flash.jin10.com/detail/20260710070918440800",
@@ -729,7 +819,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -740,7 +830,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -751,7 +841,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },

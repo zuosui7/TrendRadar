@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-12T06:48:09.757983+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-07-12T07:55:18.609553+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
           "url": "https://news.ifeng.com/c/8uftNlwm3k6",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -27,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -38,8 +39,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
+        },
+        {
+          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
+          "url": "https://wallstreetcn.com/livenews/3132344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
+          "url": "https://wallstreetcn.com/livenews/3132342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
+          "url": "https://wallstreetcn.com/livenews/3132340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
@@ -53,40 +90,31 @@
           "time_info": "03时06分"
         },
         {
-          "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
-          "url": "https://wallstreetcn.com/livenews/3132344",
-          "source": "华尔街见闻-快讯",
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            23
+            4,
+            11,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[03时06分 ~ 07时55分]"
         },
         {
-          "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
-          "url": "https://wallstreetcn.com/livenews/3132342",
-          "source": "华尔街见闻-快讯",
+          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
+          "url": "https://flash.jin10.com/detail/20260712041548582800",
+          "source": "金十数据",
           "ranks": [
-            22,
-            25
+            2,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时48分]"
-        },
-        {
-          "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
-          "url": "https://wallstreetcn.com/livenews/3132340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -117,33 +145,6 @@
           "time_info": "[00时58分 ~ 04时46分]"
         },
         {
-          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
-          "url": "https://flash.jin10.com/detail/20260712021317281800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            11,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时06分 ~ 06时48分]"
-        },
-        {
-          "title": "美官员称美国团队未前往阿曼参加与伊朗的谈判",
-          "url": "https://flash.jin10.com/detail/20260712041548582800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
-        },
-        {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
           "url": "https://flash.jin10.com/detail/20260712030241916800",
           "source": "金十数据",
@@ -153,8 +154,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
         },
         {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
@@ -166,8 +167,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -219,6 +220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时57分]"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7660473512151465993/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 07时55分]"
         }
       ]
     },
@@ -235,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -246,8 +258,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
+          "url": "https://flash.jin10.com/detail/20260712053423358800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时48分 ~ 07时55分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -264,16 +288,15 @@
           "time_info": "[00时58分 ~ 06时48分]"
         },
         {
-          "title": "美国总统特朗普：即便所有媒体都对我极尽抹黑、充斥虚假新闻，我依旧以压倒性大胜拿下总统大选。由此可见，主流媒体毫无公信力可言！",
-          "url": "https://flash.jin10.com/detail/20260712053423358800",
+          "title": "两党住房法案未经特朗普签署自动生效",
+          "url": "https://flash.jin10.com/detail/20260712054924358800",
           "source": "金十数据",
           "ranks": [
-            2,
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 06时48分]"
+          "time_info": "[06时48分 ~ 07时55分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -291,26 +314,16 @@
           "time_info": "[00时58分 ~ 05时48分]"
         },
         {
-          "title": "两党住房法案未经特朗普签署自动生效",
-          "url": "https://flash.jin10.com/detail/20260712054924358800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
           "url": "https://wallstreetcn.com/articles/3776705",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时48分 ~ 06时48分]"
+          "appearance_count": 5,
+          "time_info": "[05时48分 ~ 07时55分]"
         }
       ]
     },
@@ -327,8 +340,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -342,18 +367,6 @@
           "time_info": "[00时58分 ~ 04时46分]"
         },
         {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
@@ -362,8 +375,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 06时48分]"
+          "appearance_count": 9,
+          "time_info": "[00时58分 ~ 07时55分]"
         },
         {
           "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
@@ -375,8 +388,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
         }
       ]
     },
@@ -391,11 +404,12 @@
           "ranks": [
             13,
             8,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时06分 ~ 06时48分]"
+          "appearance_count": 7,
+          "time_info": "[03时06分 ~ 07时55分]"
         }
       ]
     },
@@ -413,8 +427,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时46分 ~ 06时48分]"
+          "appearance_count": 4,
+          "time_info": "[04时46分 ~ 07时55分]"
         }
       ]
     }

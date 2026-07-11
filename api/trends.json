@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T01:57:41.513070+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-07-12T03:06:54.007753+08:00",
+  "total_titles_processed": 356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -26,8 +26,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
+        },
+        {
+          "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
+          "url": "https://flash.jin10.com/detail/20260712024237763800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
+          "url": "https://flash.jin10.com/detail/20260712021317281800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -35,11 +57,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
@@ -47,11 +70,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -59,11 +83,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -71,11 +96,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗学者称美方从未真正履行备忘录",
@@ -83,23 +109,12 @@
           "source": "金十数据",
           "ranks": [
             15,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
-        },
-        {
-          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
-          "url": "https://flash.jin10.com/detail/20260711221401757800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -109,8 +124,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -120,8 +135,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -129,6 +144,18 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
+        },
+        {
+          "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20260711221401757800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -148,8 +175,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -159,8 +186,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -170,8 +197,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -181,8 +208,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         }
       ]
     },
@@ -198,8 +225,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -209,8 +236,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -218,11 +245,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -230,11 +258,29 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 01时57分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 03时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
+          "url": "https://www.zhihu.com/question/2055029429290771542",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     }

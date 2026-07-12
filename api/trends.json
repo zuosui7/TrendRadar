@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T03:05:20.484997+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-07-13T04:46:04.019881+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -59,41 +59,55 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
-          "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
-          "url": "https://flash.jin10.com/detail/20260713022951270800",
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
+          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
+          "url": "https://www.zhihu.com/question/2059566718733776028",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗导弹打击中东美军目标 画面公布",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗否认布什尔核电站区域遭袭",
+          "url": "https://flash.jin10.com/detail/20260713035228154800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "安全消息人士：无人机袭击目标为伊朗库尔德反对派在伊拉克东部苏莱曼尼亚的营地。",
-          "url": "https://flash.jin10.com/detail/20260713020118699800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
-          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
-          "url": "https://flash.jin10.com/detail/20260713015857749800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "04时46分"
         },
         {
           "title": "伊朗阿巴斯港和格什姆岛沿海地区传出爆炸声",
@@ -106,29 +120,6 @@
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时01分 ~ 03时05分]"
-        },
-        {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
-        },
-        {
-          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
-          "url": "https://www.zhihu.com/question/2059566718733776028",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
           "time_info": "[00时01分 ~ 03时05分]"
         },
         {
@@ -145,6 +136,18 @@
           "time_info": "[00时01分 ~ 03时05分]"
         },
         {
+          "title": "加拿大就伊朗袭击事件表示“与海湾国家站在一起”",
+          "url": "https://flash.jin10.com/detail/20260713022951270800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
+        },
+        {
           "title": "据伊朗Press TV：驻科威特美军基地内的ATACMS导弹系统设施遭到袭击，现场升起浓烟。",
           "url": "https://flash.jin10.com/detail/20260712233918237800",
           "source": "金十数据",
@@ -156,6 +159,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 03时05分]"
+        },
+        {
+          "title": "安全消息人士：无人机袭击目标为伊朗库尔德反对派在伊拉克东部苏莱曼尼亚的营地。",
+          "url": "https://flash.jin10.com/detail/20260713020118699800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "联合国驻黎巴嫩代表与伊朗外长会晤",
@@ -182,17 +197,16 @@
           "time_info": "[01时11分 ~ 03时05分]"
         },
         {
-          "title": "伊朗导弹打击中东美军目标 画面公布",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
+          "title": "伊朗议员：管控霍尔木兹海峡是伊朗的“最终”政策",
+          "url": "https://flash.jin10.com/detail/20260713015857749800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            10,
-            8
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -202,8 +216,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
+          "url": "https://flash.jin10.com/detail/20260713014859242800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "卡塔尔称将依法追究伊朗袭击行为的责任",
@@ -230,48 +256,73 @@
           "time_info": "[00时01分 ~ 01时11分]"
         },
         {
-          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
-          "url": "https://flash.jin10.com/detail/20260713014859242800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
           "url": "https://flash.jin10.com/detail/20260713012608595800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "科威特军方：伊朗袭击致边境哨所及钻井平台受损",
           "url": "https://flash.jin10.com/detail/20260713010907062800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "独立投资研究平台HFI Research：伊朗一侧航道仍有一些船只通行，但整体航运十分冷清。",
           "url": "https://flash.jin10.com/detail/20260713005709592800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
+        },
+        {
+          "title": "一名伊朗海军军官在美军袭击中身亡",
+          "url": "https://www.toutiao.com/trending/7661588497953721919/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗宣布关闭霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7660473512151465993/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时45分 ~ 04时46分]"
+        },
+        {
+          "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
+          "url": "https://flash.jin10.com/detail/20260713031516956800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "04时46分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -298,8 +349,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -309,19 +360,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 03时05分]"
-        },
-        {
-          "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
-          "url": "https://flash.jin10.com/detail/20260713021538403800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时05分"
+          "appearance_count": 4,
+          "time_info": "[00时01分 ~ 04时46分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -331,8 +371,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
+        },
+        {
+          "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
+          "url": "https://flash.jin10.com/detail/20260713021538403800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 04时46分]"
         },
         {
           "title": "特朗普称美军“猛烈打击”伊朗 霍尔木兹海峡“仍然开放”",
@@ -394,8 +446,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时05分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时46分]"
         }
       ]
     }

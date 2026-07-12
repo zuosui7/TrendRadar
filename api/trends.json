@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T06:47:39.550598+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-07-13T07:54:12.989681+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
@@ -26,8 +26,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
+          "url": "https://news.ifeng.com/c/8uhmdS5DUXq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
@@ -41,27 +52,47 @@
           "time_info": "[00时01分 ~ 06时47分]"
         },
         {
-          "title": "伊朗最高领袖顾问：霍尔木兹海峡比“几十颗原子弹”更重要",
-          "url": "https://news.ifeng.com/c/8uhmdS5DUXq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
-        },
-        {
           "title": "伊朗打击美国在中东地区目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
           "source": "澎湃新闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
+          "url": "https://www.zhihu.com/question/2059566718733776028",
+          "source": "知乎",
+          "ranks": [
+            7,
+            18,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗导弹打击中东美军目标 画面公布",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            10,
+            8,
+            9,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -76,43 +107,26 @@
           "time_info": "[00时01分 ~ 06时47分]"
         },
         {
-          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
-          "url": "https://www.zhihu.com/question/2059566718733776028",
-          "source": "知乎",
-          "ranks": [
-            7,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
-        },
-        {
-          "title": "伊朗导弹打击中东美军目标 画面公布",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%B8%AD%E4%B8%9C%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87+%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            10,
-            8,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
-        },
-        {
-          "title": "伊朗否认布什尔核电站区域遭袭",
-          "url": "https://wallstreetcn.com/livenews/3132456",
+          "title": "美国否认伊朗袭击致3名美军士兵死亡",
+          "url": "https://wallstreetcn.com/livenews/3132467",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时54分"
+        },
+        {
+          "title": "伊朗称胡齐斯坦省遭美方袭击",
+          "url": "https://flash.jin10.com/detail/20260713072000112800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -240,6 +254,18 @@
           "time_info": "[05时50分 ~ 06时47分]"
         },
         {
+          "title": "伊朗否认布什尔核电站区域遭袭",
+          "url": "https://wallstreetcn.com/livenews/3132456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
           "title": "据伊朗伊斯兰广播电视台（IRIB）：伊朗霍尔木兹甘省贾斯克市传出三声爆炸声。",
           "url": "https://flash.jin10.com/detail/20260713051831521800",
           "source": "金十数据",
@@ -312,6 +338,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 05时50分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "也门外交部重申，面对美国和以色列持续不断的侵略，也门将继续支持伊朗。",
@@ -410,6 +447,18 @@
           "time_info": "[05时50分 ~ 06时47分]"
         },
         {
+          "title": "伊朗外交部谴责美军袭击 称将坚定抵御军事侵略",
+          "url": "https://wallstreetcn.com/livenews/3132437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
           "title": "独立投资研究平台HFI Research：伊朗一侧航道仍有一些船只通行，但整体航运十分冷清。",
           "url": "https://flash.jin10.com/detail/20260713005709592800",
           "source": "金十数据",
@@ -420,6 +469,66 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时05分 ~ 04时46分]"
+        },
+        {
+          "title": "伊朗多地再次传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "美中央司令部：已对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3132440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3132442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "美军再次对伊朗实施打击",
+          "url": "https://wallstreetcn.com/livenews/3132446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗称格什姆岛军事目标遭袭",
+          "url": "https://wallstreetcn.com/livenews/3132447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
         },
         {
           "title": "一名伊朗海军军官在美军袭击中身亡",
@@ -433,46 +542,35 @@
           "time_info": "[04时45分 ~ 04时46分]"
         },
         {
+          "title": "据纽约时报此前援引一名美国官员的话称，当地时间周日晚上（北京时间13日上午）美国对伊朗军事目标发动的打击规模可能比当天早些时候的更大。",
+          "url": "https://flash.jin10.com/detail/20260713071349910800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "英国、法国、德国发表联合声明，谴责伊朗在霍尔木兹袭击船只，呼吁恢复停火和谈判。",
+          "url": "https://wallstreetcn.com/livenews/3132461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
           "url": "https://flash.jin10.com/detail/20260713055814899800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗外交部谴责美军袭击 称将坚定抵御军事侵略",
-          "url": "https://wallstreetcn.com/livenews/3132437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "伊朗多地再次传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3132439",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美中央司令部：已对伊朗发动新一轮打击",
-          "url": "https://wallstreetcn.com/livenews/3132440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -483,31 +581,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
         {
-          "title": "伊朗霍尔木兹甘省多地遭美袭击 致1死2伤",
-          "url": "https://wallstreetcn.com/livenews/3132442",
-          "source": "华尔街见闻-快讯",
+          "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
+          "url": "https://flash.jin10.com/detail/20260713063453673800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击",
-          "url": "https://wallstreetcn.com/livenews/3132446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -519,17 +606,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "伊朗称格什姆岛军事目标遭袭",
-          "url": "https://wallstreetcn.com/livenews/3132447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         }
       ]
     },
@@ -545,8 +621,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
         },
         {
           "title": "特朗普谈伊朗：霍尔木兹海峡已开放。",
@@ -558,17 +645,6 @@
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时01分 ~ 06时47分]"
-        },
-        {
-          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
-          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时01分 ~ 06时47分]"
         },
         {
@@ -601,11 +677,12 @@
           "url": "https://wallstreetcn.com/livenews/3132448",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
         },
         {
           "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
@@ -643,36 +720,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "苹果起诉OpenAI引骂战，马斯克炮轰Altman欺诈，Altman反讽其吹嘘“太空数据中心”",
@@ -683,8 +732,48 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 06时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时54分]"
+        },
+        {
+          "title": "OpenAI宣称攻克CDC猜想",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E7%A7%B0%E6%94%BB%E5%85%8BCDC%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     }

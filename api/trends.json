@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T18:26:13.664172+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-07-13T21:23:42.533934+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 83,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -95,6 +95,17 @@
           "time_info": "[00时01分 ~ 07时54分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 21时23分]"
+        },
+        {
           "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
           "url": "https://www.cls.cn/detail/2423960",
           "source": "财联社热门",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时53分 ~ 14时18分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时17分 ~ 18时26分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -131,6 +131,19 @@
           "time_info": "[00时01分 ~ 06时47分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 21时23分]"
+        },
+        {
           "title": "美军完成对伊朗的新一轮打击。 美国重申伊朗不控制霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3132569",
           "source": "华尔街见闻-快讯",
@@ -142,16 +155,15 @@
           "time_info": "10时42分"
         },
         {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
+          "title": "沙特被指空袭萨那国际机场，十年来首趟伊朗航班引爆也门危机",
+          "url": "https://flash.jin10.com/detail/20260713212152153800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            15
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 18时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "美国否认伊朗袭击致3名美军士兵死亡",
@@ -165,6 +177,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "伊朗：不会允许美国干预霍尔木兹海峡的管理事务",
+          "url": "https://flash.jin10.com/detail/20260713212033909800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "伊朗称胡齐斯坦省遭美方袭击",
           "url": "https://flash.jin10.com/detail/20260713072000112800",
           "source": "金十数据",
@@ -174,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "也门总统：我已下令不扩大对抗范围，以免伊朗将也门拖入为其利益服务的战争目标得逞。",
+          "url": "https://flash.jin10.com/detail/20260713211944810800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "伊朗称打击约旦美军基地导弹库和燃料库",
@@ -196,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "伊朗称如果战争范围扩大，其战火将吞没整个地区。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3132932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -628,7 +673,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -661,7 +706,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -675,6 +720,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：美国频繁的冒险和恶意行径，试图干预霍尔木兹海峡的管理，已严重危及地区安全、国际贸易以及油轮和商业船只的通航。遗憾的是，某些地区国家的配合也导致战争在整个地区扩大的风险增加。",
+          "url": "https://flash.jin10.com/detail/20260713211335965800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：伊朗将坚决应对美军在伊朗指定航线之外、未经武装部队许可的情况下，任何对商业船只和油轮航行造成干扰或不安全的行为。",
+          "url": "https://flash.jin10.com/detail/20260713211110835800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗：不会被迫为船只通行向敌人支付费用",
+          "url": "https://wallstreetcn.com/livenews/3132924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "据CNN：美国中央司令部发言人霍金斯上尉表示，在过去一小时内，伊朗革命卫队向通过霍尔木兹海峡的商船开火。截至目前，美军飞机已成功击落一枚伊朗巡航导弹和一架单向攻击无人机。",
@@ -697,6 +775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        },
+        {
+          "title": "伊朗局势生变 交易员的“战事已过”投资剧本瞬间作废",
+          "url": "https://wallstreetcn.com/livenews/3132922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "伊朗革命卫队：报复行动仍在继续。",
@@ -727,9 +816,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：若战争扩大，将波及地区所有国家，而责任在美国及其盟友。",
+          "url": "https://flash.jin10.com/detail/20260713210849730800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：霍尔木兹海峡已不可通行",
+          "url": "https://wallstreetcn.com/livenews/3132919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：初步报告称在布什尔省部分地区传出爆炸声。",
@@ -754,6 +865,28 @@
           "time_info": "10时42分"
         },
         {
+          "title": "伊朗最高联合军事指挥部：我们向地区国家领导人发出警告，任何与美国的合作都将被视为对伊朗的战争行为。",
+          "url": "https://flash.jin10.com/detail/20260713210659270800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "伊朗武装部队发布其击落的美国无人机的照片。",
+          "url": "https://flash.jin10.com/detail/20260713210617768800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
           "url": "https://flash.jin10.com/detail/20260713063453673800",
           "source": "金十数据",
@@ -763,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部：美国任何未经伊朗授权而试图通过该海峡的行为都将遭到强烈对抗。",
+          "url": "https://flash.jin10.com/detail/20260713210536861800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "伊朗对美国位于海湾地区的军事目标发动大规模袭击",
@@ -787,13 +931,24 @@
           "time_info": "00时01分"
         },
         {
+          "title": "伊朗最高联合军事指挥部：伊朗不会允许美国干预霍尔木兹海峡的管理事务。",
+          "url": "https://flash.jin10.com/detail/20260713210359698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "也门警告伊朗与胡塞武装 耐心耗尽将回击",
           "url": "https://flash.jin10.com/detail/20260713174541658800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         },
@@ -815,7 +970,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
         }
@@ -823,7 +978,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -844,8 +999,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时41分 ~ 18时26分]"
+          "appearance_count": 7,
+          "time_info": "[10时41分 ~ 21时23分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -891,8 +1046,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 21时23分]"
         },
         {
           "title": "“国会山最吵闹的战争贩子\"去世，特朗普下令全美降半旗",
@@ -952,6 +1107,39 @@
           "time_info": "[14时17分 ~ 14时18分]"
         },
         {
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
           "title": "特朗普：伊朗昨天已同意“完美协议”，但转头就开了火",
           "url": "https://flash.jin10.com/detail/20260712220334979800",
           "source": "金十数据",
@@ -983,6 +1171,102 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "特朗普：伊朗总是撕毁协议，所以要狠狠打击他们",
+          "url": "https://flash.jin10.com/detail/20260713205510868800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时25分 ~ 21时23分]"
+        },
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时54分]"
+        },
+        {
+          "title": "SK海力士为何美股热、韩股冷？",
+          "url": "https://flash.jin10.com/detail/20260713134755569800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3132925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
+          "url": "https://www.cls.cn/detail/2424724",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-13）",
+          "url": "https://flash.jin10.com/detail/20260713210918009800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         }
       ]
     },
@@ -1035,57 +1319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时41分 ~ 10时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时25分 ~ 18时26分]"
-        },
-        {
-          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
-          "url": "https://wallstreetcn.com/livenews/3132438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时54分]"
-        },
-        {
-          "title": "SK海力士为何美股热、韩股冷？",
-          "url": "https://flash.jin10.com/detail/20260713134755569800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
-          "url": "https://flash.jin10.com/detail/20260713060020016800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         }
       ]
     },

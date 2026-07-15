@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:01:42.588722+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-07-16T07:06:33.041882+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 57,
       "titles": [
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "特朗普为何频频感谢中俄？",
@@ -37,8 +37,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
+          "url": "https://wallstreetcn.com/articles/3776989",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -52,19 +65,6 @@
           "time_info": "[00时21分 ~ 02时07分]"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
-        },
-        {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
@@ -72,8 +72,32 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -87,28 +111,15 @@
           "time_info": "00时22分"
         },
         {
-          "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：伊朗已经允许被扣押的美国人离开。 美方对伊朗释放的这种善意表示感谢。",
+          "url": "https://wallstreetcn.com/livenews/3134642",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            14,
-            15
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
-        },
-        {
-          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
@@ -144,17 +155,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "特朗普敦促国防企业增加武器产量",
-          "url": "https://flash.jin10.com/detail/20260716054732872800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美国总统特朗普：重申美国无需风电。",
           "url": "https://wallstreetcn.com/livenews/3134588",
           "source": "华尔街见闻-快讯",
@@ -164,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普倾向扩大对伊军事行动，美军评估夺取哈尔克岛、轰炸核隧道等“最危险选项”",
+          "url": "https://flash.jin10.com/detail/20260716064035933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国总统特朗普：国防生产需要再加快一些速度。",
@@ -193,11 +204,24 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 06时01分]"
+          "appearance_count": 5,
+          "time_info": "[02时07分 ~ 07时06分]"
+        },
+        {
+          "title": "特朗普敦促国防企业增加武器产量",
+          "url": "https://flash.jin10.com/detail/20260716054732872800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
@@ -288,6 +312,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
           "url": "https://flash.jin10.com/detail/20260716032925416800",
           "source": "金十数据",
@@ -321,6 +356,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "据知情人士透露，特朗普政府正考虑要求部分美国绿卡申请人缴纳10万美元保证金。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3134627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "美国总统特朗普：美国应该拥有全球最低的利率。",
           "url": "https://flash.jin10.com/detail/20260716032026974800",
           "source": "金十数据",
@@ -341,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "据华尔街日报：知情人士透露，特朗普政府正在考虑对部分绿卡申请者设定10万美元的保证金。",
+          "url": "https://flash.jin10.com/detail/20260716060148669800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国总统特朗普宣称：伊朗希望会面。",
@@ -415,7 +472,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -470,7 +527,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -492,7 +549,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -503,7 +560,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -525,7 +582,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -536,7 +593,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -547,7 +604,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -569,7 +626,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -580,7 +637,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -588,7 +645,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -598,8 +655,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -610,8 +667,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗拉斯克传出爆炸声。",
@@ -631,7 +688,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -694,6 +751,42 @@
           "time_info": "[00时21分 ~ 02时07分]"
         },
         {
+          "title": "美军对一艘驶往伊朗的油轮发射“地狱火”导弹",
+          "url": "https://wallstreetcn.com/livenews/3134619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗一儿童医院附近遭美军袭击",
+          "url": "https://flash.jin10.com/detail/20260716050247877800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
+          "url": "https://wallstreetcn.com/livenews/3134611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
           "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
           "url": "https://wallstreetcn.com/livenews/3134545",
           "source": "华尔街见闻-快讯",
@@ -703,17 +796,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "美军对一艘驶往伊朗的油轮发射“地狱火”导弹",
-          "url": "https://wallstreetcn.com/livenews/3134619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "伊朗卫生部：美国近期空袭导致的死亡人数升至35人。",
@@ -736,17 +818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "伊朗一儿童医院附近遭美军袭击",
-          "url": "https://flash.jin10.com/detail/20260716050247877800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
@@ -777,7 +848,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -821,7 +892,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -870,15 +941,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "美国中央司令部：美军7月15日在阿拉伯湾执行针对伊朗的海上封锁措施，击停了一艘试图驶往伊朗港口、且未装载货物的油轮。",
-          "url": "https://wallstreetcn.com/livenews/3134611",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗国家媒体：伊朗南部霍尔木兹港东部传出两声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260716060745848800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：维护霍尔木兹海峡的“伊朗主导安排（Iranian Arrangement）”，是保障伊朗国家安全的重要因素。",
@@ -909,7 +980,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -1035,6 +1106,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "伊朗称南部多地遭美军炮击",
+          "url": "https://flash.jin10.com/detail/20260716055445668800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "美军：于美东时间15:00对伊朗发动打击。",
           "url": "https://wallstreetcn.com/livenews/3134569",
           "source": "华尔街见闻-快讯",
@@ -1077,6 +1159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗军方发言人表示，美国遵守谅解备忘录并在霍尔木兹海峡落实“伊朗法规”是重新开放水道的唯一途径。",
+          "url": "https://flash.jin10.com/detail/20260716054958538800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：伊朗从未寻求战争，也不希望发生战争，但必须始终做好战斗准备，并坚持到底，以维护国家安全和利益。",
@@ -1170,7 +1263,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1180,8 +1273,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -1206,8 +1299,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -1222,49 +1338,39 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
-          "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
-        },
-        {
           "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
           "url": "https://wallstreetcn.com/livenews/3134610",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
         },
         {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
           "url": "https://wallstreetcn.com/livenews/3134607",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "07时06分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
@@ -1284,7 +1390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -1295,7 +1401,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -1306,7 +1412,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -1350,6 +1456,30 @@
           "time_info": "00时22分"
         },
         {
+          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
+          "url": "https://wallstreetcn.com/livenews/3134609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
+          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
+          "url": "https://wallstreetcn.com/livenews/3134608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 07时06分]"
+        },
+        {
           "title": "市场消息：谷歌将于下周允许第三方商店入驻其应用商店。",
           "url": "https://flash.jin10.com/detail/20260715235437535800",
           "source": "金十数据",
@@ -1361,35 +1491,13 @@
           "time_info": "00时22分"
         },
         {
-          "title": "周三（7月15日），美股信息科技指数跌3.43%，报398.76点。成分股中，戴尔科技收跌9.80%，与西部数据、闪迪、美光科技、Lumentum表现最差，甲骨文涨3.56%、与苹果领跑。 人工智能（AI）赢家指数跌2.51%，报400.58点。成分股中，戴尔、西数、闪迪、美光、Lumentum领跌，Meta、谷歌A、甲骨文领涨。 AI软件先驱指数跌0.18%，报110.87点。成分股MongoDB收跌3.37%，领跌，甲骨文领涨。",
-          "url": "https://wallstreetcn.com/livenews/3134609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "周三（7月15日），美股超大规模云服务商（Hyperscalers）涨3.10%，报96.09点。 成分股普遍收涨，甲骨文、谷歌A、Meta、亚马逊涨3.56%-3.02%，微软涨2.78%。",
-          "url": "https://wallstreetcn.com/livenews/3134608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -1406,11 +1514,12 @@
           "ranks": [
             6,
             11,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -1421,8 +1530,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         }
       ]
     },
@@ -1448,7 +1557,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }

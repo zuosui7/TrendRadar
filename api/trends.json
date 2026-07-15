@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-07-16T00:22:06.172107+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-16T02:07:34.797675+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "美国白宫发言人：（关于伊朗）美国可以在任何地点、任何时间发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260716014727199800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
+          "url": "https://wallstreetcn.com/livenews/3134548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：我们能够在任何时候袭击（伊朗的）任何地方。",
+          "url": "https://wallstreetcn.com/livenews/3134547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
         {
           "title": "上千枚导弹，要飞向伊朗？",
           "url": "https://news.ifeng.com/c/8umrKcjjbd0",
@@ -15,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -26,30 +59,43 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://www.toutiao.com/trending/7662700409185635891/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.douyin.com/hot/2571461",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
+        },
+        {
+          "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
+          "url": "https://wallstreetcn.com/livenews/3134545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "伊朗卫生部：美国近期空袭导致的死亡人数升至35人。",
@@ -58,9 +104,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：将谈判与战争割裂开来，并认为二者只能二选一，是一种战略错误。",
+          "url": "https://flash.jin10.com/detail/20260716013931333800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
@@ -69,9 +126,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：当前阶段的谈判并不等同于妥协，而是与战争一样，都是抵抗战略和维护国家利益的一部分。",
+          "url": "https://flash.jin10.com/detail/20260716013927446800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "美国财长贝森特：将继续针对伊朗采购网络采取行动。",
@@ -80,9 +148,75 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗议会议长、顶级谈判员卡利巴夫：我们必须应用外交+谈判手段。 伊朗必须随时准备好（与敌人）战斗。 如果与美国达成的停火谅解备忘录（MoU）不能（给伊朗）带来好处，那就没理由遵守。 国家安全完全取决于伊朗在霍尔木兹海峡问题上的安排。 谈判不等于妥协。 我们正面临一场复杂的战争。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3134542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "美国副总统万斯：（关于伊朗问题）当他们实施暴力行为时，我们会予以回应。",
+          "url": "https://flash.jin10.com/detail/20260716013920189800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "美国副总统万斯：（关于伊朗问题）我们正在进行一场微妙的外交博弈。",
+          "url": "https://flash.jin10.com/detail/20260716013824653800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：维护霍尔木兹海峡的“伊朗主导安排（Iranian Arrangement）”，是保障伊朗国家安全的重要因素。",
+          "url": "https://flash.jin10.com/detail/20260716013747192800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们的武装部队始终拥有完全的行动自由，以应对“敌人的侵略”。",
+          "url": "https://flash.jin10.com/detail/20260716013529163800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗外交部称伊方目前没有谈判计划，专注于防御",
+          "url": "https://wallstreetcn.com/livenews/3134535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "美国中央司令部：伊朗对海峡及邻近海湾国家的无辜平民进行攻击。",
@@ -91,9 +225,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：如果伊朗无法从谅解备忘录中获益，我们没有理由遵守这样的备忘录。",
+          "url": "https://flash.jin10.com/detail/20260716013526119800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "美国中央司令部：伊朗官媒称美军7月14日袭击了他们的一处民用小麦储存设施。此说法不实。",
@@ -102,9 +247,75 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们别无选择，只能依靠自己的力量变得强大。",
+          "url": "https://flash.jin10.com/detail/20260716013245570800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：我们的战争或谈判方式必须基于国家利益和安全，务实且具有长期性。",
+          "url": "https://flash.jin10.com/detail/20260716013243046800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：“敌人”的战略并未改变。",
+          "url": "https://flash.jin10.com/detail/20260716013116455800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗正与美国进行一场关乎国家存亡的重要战争。美国除了试图推翻伊朗现有体制外，目标还包括分裂我们深爱的祖国伊朗。",
+          "url": "https://flash.jin10.com/detail/20260716013110954800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗也必须利用外交和谈判手段，实现并维护国家利益。",
+          "url": "https://flash.jin10.com/detail/20260716013023320800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：伊朗从未寻求战争，也不希望发生战争，但必须始终做好战斗准备，并坚持到底，以维护国家安全和利益。",
+          "url": "https://flash.jin10.com/detail/20260716012942627800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "伊朗：目前没有谈判计划 专注于防御",
@@ -113,7 +324,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -124,7 +335,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -135,7 +346,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         }
@@ -143,7 +354,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -153,8 +364,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
@@ -164,8 +375,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -175,8 +386,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "特朗普为何频频感谢中俄？",
@@ -186,8 +397,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -196,20 +407,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国白宫发言人：特朗普将在今天的峰会上宣布规模超过100亿美元的交易。",
+          "url": "https://flash.jin10.com/detail/20260716014724801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
           "url": "https://wallstreetcn.com/articles/3776989",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
@@ -219,19 +442,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590389",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
@@ -241,8 +465,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
+        },
+        {
+          "title": "白宫发言人Anna Kelly：美国总统特朗普今天将宣布合计超过100亿美元的若干协议。",
+          "url": "https://wallstreetcn.com/livenews/3134544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "美联储主席沃什：（特朗普政府的）移民决定影响到美国潜在的GDP。",
@@ -251,15 +486,59 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3134530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "美国总统特朗普要求纽约州立即改变数据中心政策。",
+          "url": "https://wallstreetcn.com/livenews/3134527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "沃什称已“多次”向特朗普表明其独立性",
+          "url": "https://wallstreetcn.com/livenews/3134523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -269,8 +548,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -280,8 +559,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -291,30 +570,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
           "url": "https://www.cls.cn/detail/2427604",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
           "url": "https://www.zhihu.com/question/2060658036918719165",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.21%，暂报2201.16点，北京时间20:48曾出现一波显著的拉升行情。 MarketVectorTM数字资产100中盘指数跌1.37%，报2601.54点，美股开盘前后冲高回落。 MarketVector数字资产100指数涨0.59%，报12956.63点。 目前，Solana涨0.31%，狗狗币跌0.62%，XRP持平。 比特币涨0.66%，暂报64969.74美元；以太坊涨1.95%，暂报1913.81美元。",
+          "url": "https://wallstreetcn.com/livenews/3134531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "美股中概股大涨 阿里巴巴涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     },
@@ -327,11 +630,12 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         },
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -341,8 +645,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 00时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时07分]"
         }
       ]
     },
@@ -357,7 +661,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         },
@@ -368,7 +672,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
         }

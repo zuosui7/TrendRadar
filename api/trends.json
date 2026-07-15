@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T10:27:32.463703+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-07-15T13:32:13.952184+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -30,6 +30,21 @@
           "time_info": "[00时14分 ~ 06时58分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时02分 ~ 13时32分]"
+        },
+        {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
           "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
           "source": "凤凰网",
@@ -40,6 +55,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 10时27分]"
+        },
+        {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -54,21 +80,6 @@
           "time_info": "[00时14分 ~ 07时56分]"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://wallstreetcn.com/articles/3776923",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 10时27分]"
-        },
-        {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
           "url": "https://news.ifeng.com/c/8ulRMRR0mag",
           "source": "凤凰网",
@@ -79,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时27分]"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -120,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -134,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "伊朗霍尔木兹甘省政府表示，当地时间约23时，美军打击命中伊朗南部锡里克附近地区。",
@@ -167,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "伊朗称打击美军在中东多地军事设施",
+          "url": "https://wallstreetcn.com/livenews/3134104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "据伊朗官方媒体：伊朗班达尔阿巴斯市政府消息称，美军打击已击中伊朗南部港口城市班达尔阿巴斯周边地区。",
@@ -408,7 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -606,9 +628,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡将继续关闭，直至美国停止袭击。",
+          "url": "https://wallstreetcn.com/livenews/3134084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗副外长：在战争状态下，我们将完全管理霍尔木兹海峡。",
@@ -639,7 +672,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -732,6 +765,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "伊朗称打击美军在中东多地军事设施",
+          "url": "https://flash.jin10.com/detail/20260715130852749800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：霍尔木兹甘省东部海域及锡里克地区传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260715055613933800",
           "source": "金十数据",
@@ -790,8 +834,23 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
+        {
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时11分 ~ 13时32分]"
+        },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
           "url": "https://news.ifeng.com/c/8ukTbU27CpD",
@@ -814,21 +873,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 04时11分]"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时11分 ~ 10时27分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -858,6 +902,33 @@
           "time_info": "[00时14分 ~ 07时56分]"
         },
         {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时11分 ~ 13时32分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时57分 ~ 13时32分]"
+        },
+        {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
           "url": "https://news.ifeng.com/c/8ulRMRR0meG",
           "source": "凤凰网",
@@ -867,17 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -893,6 +953,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 10时27分]"
+        },
+        {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
@@ -917,31 +989,42 @@
           "time_info": "07时56分"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            17
+            16,
+            18,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时11分 ~ 10时27分]"
+          "time_info": "[06时58分 ~ 13时32分]"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
           "ranks": [
+            13,
             10,
-            8,
-            7,
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[05时57分 ~ 10时27分]"
+          "time_info": "[07时56分 ~ 13时32分]"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -956,16 +1039,16 @@
           "time_info": "[00时14分 ~ 02时03分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            18
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时58分 ~ 10时27分]"
+          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "特朗普：将继续打击伊朗",
@@ -980,16 +1063,15 @@
           "time_info": "[06时58分 ~ 07时56分]"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
-          "source": "财联社热门",
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时27分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "美国总统特朗普宣称：现在，我才不想与伊朗对话。 （被问及他上一次与伊朗方面交谈是什么时候时）我的代表就在今天下午已经与伊朗官员交谈。 美方（已经）告诉伊朗，最好还是达成一份协议。 我们一直都认真仔细地对待（伊朗）平民。 美国官员告诉伊朗方面，德黑兰最好达成协议，否则将“一无所有”。 （当被问及是否认为伊朗会达成协议）伊朗应该这么做，但他不知道伊朗会不会这样做。",
@@ -1037,17 +1119,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
-        },
-        {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "特朗普证实美伊举行对话 暗示仍可能存在谈判路径",
@@ -1138,6 +1209,17 @@
           "time_info": "02时03分"
         },
         {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "美国总统特朗普：美国于周二与伊朗进行了对话。",
           "url": "https://flash.jin10.com/detail/20260715061629798800",
           "source": "金十数据",
@@ -1147,17 +1229,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "美媒：特朗普要求内塔尼亚胡从叙利亚、黎巴嫩撤军",
@@ -1265,6 +1336,18 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时58分 ~ 13时32分]"
+        },
+        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -1289,16 +1372,27 @@
           "time_info": "[00时14分 ~ 04时11分]"
         },
         {
-          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2426541",
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
           "source": "财联社热门",
           "ranks": [
-            4,
-            2
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 13时32分]"
+        },
+        {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时58分 ~ 10时27分]"
+          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -1312,18 +1406,6 @@
           "time_info": "[05时57分 ~ 06时58分]"
         },
         {
-          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
-          "url": "https://www.cls.cn/detail/2426576",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时27分]"
-        },
-        {
           "title": "美国通胀降温，美股指全线反弹，海力士ADR飙升27%，IBM暴跌25%，油金齐涨",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
@@ -1333,17 +1415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -1537,7 +1608,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         },
@@ -1562,6 +1633,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时14分 ~ 07时56分]"
+        },
+        {
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "曝DeepSeek计划明年上市",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "The Information：DeepSeek正寻求新一轮融资，目标金额为74亿美元，公司估值达740亿美元。",
+          "url": "https://flash.jin10.com/detail/20260715131749291800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "The Information：DeepSeek年化收入达到4亿至5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260715131552111800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -1601,35 +1745,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 07时56分]"
-        },
-        {
-          "title": "DeepSeek估值或达4814亿",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
         }
       ]
     },

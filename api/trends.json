@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T13:32:13.952184+08:00",
-  "total_titles_processed": 1093,
+  "generated_at": "2026-07-15T16:09:14.992413+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -41,8 +41,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 13时32分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 16时09分]"
+        },
+        {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时09分]"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时09分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -55,17 +78,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 10时27分]"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -90,17 +102,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时27分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -186,7 +187,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -244,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "载有伊朗石油的两艘油轮指示目的地是巴基斯坦。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3134197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
@@ -390,6 +402,17 @@
           "time_info": "[06时58分 ~ 07时56分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
           "title": "美称将继续打击伊朗",
           "url": "https://www.toutiao.com/trending/7661877138492149289/",
           "source": "今日头条",
@@ -477,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "伊朗军方称美军袭击伊朗沙赫尔军营致7人死亡。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3134191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "美军确认对伊朗进行了新一轮打击",
@@ -639,7 +673,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -771,7 +805,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -834,7 +868,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -848,8 +882,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时11分 ~ 13时32分]"
+          "appearance_count": 9,
+          "time_info": "[04时11分 ~ 16时09分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -873,6 +907,47 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时14分 ~ 04时11分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时11分 ~ 16时09分]"
+        },
+        {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时09分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时57分 ~ 16时09分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -902,31 +977,18 @@
           "time_info": "[00时14分 ~ 07时56分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            15,
-            17
+            16,
+            18,
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[04时11分 ~ 13时32分]"
-        },
-        {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时57分 ~ 13时32分]"
+          "time_info": "[06时58分 ~ 16时09分]"
         },
         {
           "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
@@ -955,16 +1017,16 @@
           "time_info": "[04时11分 ~ 10时27分]"
         },
         {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时09分]"
         },
         {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
@@ -989,17 +1051,17 @@
           "time_info": "07时56分"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
           "ranks": [
-            16,
-            18,
+            17,
+            15,
             13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时58分 ~ 13时32分]"
+          "time_info": "[10时27分 ~ 16时09分]"
         },
         {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
@@ -1015,18 +1077,6 @@
           "time_info": "[07时56分 ~ 13时32分]"
         },
         {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时32分]"
-        },
-        {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
           "url": "https://wallstreetcn.com/articles/3776932",
           "source": "华尔街见闻",
@@ -1037,18 +1087,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时03分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "特朗普：将继续打击伊朗",
@@ -1086,6 +1124,17 @@
           "time_info": "[06时58分 ~ 07时56分]"
         },
         {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
+        },
+        {
           "title": "特朗普：对伊朗的打击将持续到我喊停 能源目标最后再打",
           "url": "https://wallstreetcn.com/livenews/3133907",
           "source": "华尔街见闻-快讯",
@@ -1108,6 +1157,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时58分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普性侵案败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E6%A1%88%E8%B4%A5%E8%AF%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时08分 ~ 16时09分]"
         },
         {
           "title": "特朗普转变态度力挺乌克兰有何意图",
@@ -1152,6 +1212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时58分"
+        },
+        {
+          "title": "迄今最直接表态！沃什国会首秀：若遭特朗普施压，他将做好本职工作！",
+          "url": "https://www.cls.cn/detail/2426639",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "据法新社：美国总统特朗普威胁称，如果没有达成协议，将于下周打击伊朗发电厂。",
@@ -1215,7 +1286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1333,8 +1404,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 16时09分]"
+        },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2426541",
@@ -1382,17 +1464,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时56分 ~ 13时32分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时27分 ~ 13时32分]"
         },
         {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
@@ -1461,6 +1532,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 02时03分]"
+        },
+        {
+          "title": "美股盘前，SK海力士ADR(SKHY.O)下跌4.6%。",
+          "url": "https://flash.jin10.com/detail/20260715160114229800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
@@ -1668,22 +1750,24 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时09分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 16时09分]"
         },
         {
           "title": "The Information：DeepSeek正寻求新一轮融资，目标金额为74亿美元，公司估值达740亿美元。",
@@ -1692,7 +1776,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -1703,9 +1787,49 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3133904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 07时56分]"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "高盛启动三批欧元债发行 紧随美债融资100亿美元之后",
+          "url": "https://flash.jin10.com/detail/20260715155248550800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -1777,35 +1901,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3133904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时56分]"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
         }
       ]
     }

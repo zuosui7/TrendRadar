@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T13:40:45.758310+08:00",
-  "total_titles_processed": 1044,
+  "generated_at": "2026-07-16T16:12:16.346896+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 13时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 16时12分]"
         },
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -27,19 +27,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
         },
         {
           "title": "伊朗议长发声：这是与美国的生存之战",
           "url": "https://news.ifeng.com/c/8unecXHHhfz",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
         },
         {
           "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
@@ -197,7 +198,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -296,7 +297,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -450,9 +451,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "美国一连五天袭击伊朗 局势升级导致霍尔木兹海峡石油运输量骤降",
+          "url": "https://wallstreetcn.com/livenews/3134925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们的武装部队始终拥有完全的行动自由，以应对“敌人的侵略”。",
@@ -609,6 +621,17 @@
           "time_info": "10时32分"
         },
         {
+          "title": "瑞士央行：当前货币政策适宜。 通胀压力基本未变。 已增强外汇市场干预意愿，必要时将果断行动。 无需立即采取行动。 未来几个季度通胀应会进一步上升。 伊朗冲突的不确定性显著上升。 第二轮效应可能增强。 瑞郎强劲升值的风险仍然存在。 当前通胀风险偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3134916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：伊朗也必须利用外交和谈判手段，实现并维护国家利益。",
           "url": "https://flash.jin10.com/detail/20260716013023320800",
           "source": "金十数据",
@@ -681,9 +704,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
+        },
+        {
+          "title": "伊朗军方：若敌对行动持续 冲突将扩展至新领域",
+          "url": "https://wallstreetcn.com/livenews/3134912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "伊朗：目前没有谈判计划 专注于防御",
@@ -719,6 +753,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "报道：伊朗威胁打击中东基础设施以回应美国",
+          "url": "https://wallstreetcn.com/livenews/3134908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "美国财长贝森特：将继续瞄准伊朗采购网络。",
           "url": "https://flash.jin10.com/detail/20260715233843906800",
           "source": "金十数据",
@@ -739,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "巴林：周四拦截了多次伊朗空中打击。",
+          "url": "https://wallstreetcn.com/livenews/3134907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "迈赫尔通讯社：伊朗称美国袭击了霍尔木兹海峡附近的亨加姆岛。",
@@ -766,7 +822,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 63,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -824,11 +880,40 @@
             14,
             15,
             11,
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 16时12分]"
+        },
+        {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            14,
+            11
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时21分 ~ 13时40分]"
+          "time_info": "[02时07分 ~ 16时12分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时06分 ~ 16时12分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -842,20 +927,6 @@
           "time_info": "[00时21分 ~ 02时07分]"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时07分 ~ 13时40分]"
-        },
-        {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
@@ -867,6 +938,17 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
+          "title": "特朗普感谢伊朗",
+          "url": "https://news.ifeng.com/c/8undGPmAvXz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
           "source": "澎湃新闻",
@@ -876,18 +958,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 13时40分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -989,6 +1059,18 @@
           "time_info": "04时09分"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
+        },
+        {
           "title": "特朗普敦促国防企业增加武器产量",
           "url": "https://flash.jin10.com/detail/20260716054732872800",
           "source": "金十数据",
@@ -1001,15 +1083,15 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
+          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
+          "url": "https://www.cls.cn/detail/2427879",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
@@ -1260,7 +1342,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -1430,13 +1512,24 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美武器库存消耗加剧 特朗普再促军工增产",
+          "url": "https://wallstreetcn.com/livenews/3134905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
           "title": "特朗普发文感谢伊朗",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         }
@@ -1444,7 +1537,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1472,6 +1565,17 @@
           "time_info": "[00时21分 ~ 10时32分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
+        },
+        {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -1482,6 +1586,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时21分 ~ 04时09分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时06分 ~ 16时12分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -1495,30 +1612,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 10时32分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时06分 ~ 13时40分]"
         },
         {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
@@ -1542,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时01分]"
+        },
+        {
+          "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
+          "url": "https://wallstreetcn.com/livenews/3134935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
@@ -1629,6 +1733,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
+          "url": "https://wallstreetcn.com/articles/3777063",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
+        },
+        {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
           "url": "https://wallstreetcn.com/livenews/3134592",
           "source": "华尔街见闻-快讯",
@@ -1649,18 +1766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        },
-        {
-          "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
-          "url": "https://wallstreetcn.com/articles/3777063",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
         },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
@@ -1715,7 +1820,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -1754,11 +1859,12 @@
           "url": "https://www.zhihu.com/question/2060769193977280048",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 13时40分]"
+          "appearance_count": 5,
+          "time_info": "[10时31分 ~ 16时12分]"
         },
         {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",

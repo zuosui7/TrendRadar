@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:57:19.435635+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-07-17T06:05:04.661542+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3135278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -50,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260717054128239800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "伊朗阿巴斯港西部传出三次爆炸声",
@@ -85,26 +85,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
-          "url": "https://flash.jin10.com/detail/20260717044848844800",
+          "title": "伊朗部分机场、桥梁和铁路枢纽遭美军袭击",
+          "url": "https://flash.jin10.com/detail/20260717053952754800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
-          "url": "https://flash.jin10.com/detail/20260717044824911800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "06时05分"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -118,6 +107,54 @@
           "time_info": "[01时14分 ~ 04时57分]"
         },
         {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://flash.jin10.com/detail/20260717044848844800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
+          "url": "https://flash.jin10.com/detail/20260717044824911800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
+          "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
+          "url": "https://wallstreetcn.com/livenews/3135273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
           "url": "https://flash.jin10.com/detail/20260717004358097800",
           "source": "金十数据",
@@ -129,15 +166,15 @@
           "time_info": "01时15分"
         },
         {
-          "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
-          "url": "https://wallstreetcn.com/livenews/3135273",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗迈赫尔通讯社发布了一张遭美方袭击的桥梁的图片。",
+          "url": "https://flash.jin10.com/detail/20260717052015059800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "06时05分"
         },
         {
           "title": "美军开始对伊朗实施新一轮袭击。",
@@ -190,7 +227,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -212,7 +249,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -228,13 +265,46 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美军对伊朗阿巴斯港居民区的袭击已造成1人死亡、8人受伤。此外，位于伊朗南部霍尔木兹甘省哈米尔港的大桥当晚也遭到美军袭击。有消息称，一辆私家车的司机遇袭身亡。",
+          "url": "https://flash.jin10.com/detail/20260717045636977800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "社媒有未经证实的消息称，一位中东消息人士说，美国已更新针对伊朗的打击指令，将桥梁及交通连接设施等目标纳入其中，旨在进一步向伊朗施压。美国已付诸行动，兑现了打击伊朗民用设施的威胁。（此前伊朗媒体已报道伊朗境内部分机场、铁路枢纽和桥梁遇袭）",
+          "url": "https://flash.jin10.com/detail/20260717045624635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美军袭击伊朗阿巴斯港居民区，已致多人死伤",
+          "url": "https://wallstreetcn.com/livenews/3135279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3135256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -278,7 +348,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -289,7 +359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -318,8 +388,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         },
         {
           "title": "谷歌A跌幅扩大至2.7%。",
@@ -372,7 +442,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -427,7 +497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -471,7 +541,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }
@@ -479,7 +549,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -489,8 +559,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -500,8 +570,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -511,19 +581,55 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
+        },
+        {
+          "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
+          "url": "https://wallstreetcn.com/livenews/3135298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美股存储芯片指数收跌超8%",
           "url": "https://wallstreetcn.com/livenews/3135275",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
+          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
+          "url": "https://wallstreetcn.com/livenews/3135268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
+        },
+        {
+          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3135267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -548,35 +654,13 @@
           "time_info": "01时15分"
         },
         {
-          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
-          "url": "https://wallstreetcn.com/livenews/3135268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
-          "url": "https://wallstreetcn.com/livenews/3135267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260717040547992800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -587,7 +671,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -598,7 +682,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -609,7 +693,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         },
@@ -638,8 +722,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -668,11 +752,12 @@
           "url": "https://wallstreetcn.com/livenews/3135274",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -729,11 +814,12 @@
           "url": "https://flash.jin10.com/detail/20260717045050743800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 06时05分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
@@ -753,7 +839,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }
@@ -772,8 +858,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
@@ -785,8 +871,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时57分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 06时05分]"
         }
       ]
     },
@@ -829,7 +915,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
         }

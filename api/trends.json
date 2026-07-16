@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T10:32:02.508440+08:00",
-  "total_titles_processed": 870,
+  "generated_at": "2026-07-16T13:40:45.758310+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -16,8 +16,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 10时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时40分]"
+        },
+        {
+          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
+          "url": "https://www.cls.cn/detail/2427842",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
+        },
+        {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
+        },
+        {
+          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
+          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
         },
         {
           "title": "上千枚导弹，要飞向伊朗？",
@@ -29,39 +62,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
-          "url": "https://www.cls.cn/detail/2427842",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
-          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
-          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗拉斯克传出爆炸声。",
@@ -191,6 +191,17 @@
           "time_info": "[06时01分 ~ 07时06分]"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗方面表示，在美方接受伊朗法律之前，海峡将保持关闭。",
+          "url": "https://flash.jin10.com/detail/20260716132448417800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
           "url": "https://wallstreetcn.com/livenews/3134545",
           "source": "华尔街见闻-快讯",
@@ -279,6 +290,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "伊朗官媒PRESS TV：伊朗袭击美国在科威特和约旦的设施。",
+          "url": "https://wallstreetcn.com/livenews/3134814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗问题）当他们实施暴力行为时，我们会予以回应。",
           "url": "https://flash.jin10.com/detail/20260716013920189800",
           "source": "金十数据",
@@ -307,7 +329,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -417,9 +439,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗塞姆南机场遭空袭 未造成人员伤亡",
+          "url": "https://wallstreetcn.com/livenews/3134809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们的武装部队始终拥有完全的行动自由，以应对“敌人的侵略”。",
@@ -571,7 +604,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -637,9 +670,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "约旦称，击落伊朗发射的8枚导弹。",
+          "url": "https://wallstreetcn.com/livenews/3134794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         },
         {
           "title": "伊朗：目前没有谈判计划 专注于防御",
@@ -714,7 +758,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
@@ -722,19 +766,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
-        {
-          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
-          "url": "https://news.ifeng.com/c/8umustJIuDD",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 07时06分]"
-        },
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
           "url": "https://wallstreetcn.com/articles/3776989",
@@ -746,8 +779,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 10时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时40分]"
+        },
+        {
+          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
+          "url": "https://news.ifeng.com/c/8umustJIuDD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时06分]"
         },
         {
           "title": "利润率不足10%，特朗普硬抽20%，拦路式收费方案一天作废？",
@@ -779,11 +823,12 @@
             13,
             14,
             15,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 10时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时40分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -797,6 +842,20 @@
           "time_info": "[00时21分 ~ 02时07分]"
         },
         {
+          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时07分 ~ 13时40分]"
+        },
+        {
           "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
           "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
           "source": "澎湃新闻",
@@ -808,19 +867,6 @@
           "time_info": "[00时21分 ~ 07时06分]"
         },
         {
-          "title": "特朗普称俄罗斯已准备好达成协议以结束俄乌冲突",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592968",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时07分 ~ 10时32分]"
-        },
-        {
           "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
           "source": "澎湃新闻",
@@ -830,6 +876,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时06分]"
+        },
+        {
+          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
+          "url": "https://wallstreetcn.com/articles/3777042",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 13时40分]"
         },
         {
           "title": "据AXIOS：白宫高级官员表示，目前特朗普的日程中还没有与内塔尼亚胡下周会面的安排。",
@@ -931,18 +989,6 @@
           "time_info": "04时09分"
         },
         {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 10时32分]"
-        },
-        {
           "title": "特朗普敦促国防企业增加武器产量",
           "url": "https://flash.jin10.com/detail/20260716054732872800",
           "source": "金十数据",
@@ -962,8 +1008,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
         },
         {
           "title": "美国总统特朗普：将宣布国防工业领域近100亿美元投资。",
@@ -1208,6 +1254,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "特朗普再挥关税大棒！美国7月22日起对巴西部分商品加征25%关税",
+          "url": "https://flash.jin10.com/detail/20260716131356190800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "美国参议院成员们将于周四会见总统特朗普，讨论加密货币立法问题。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3134530",
           "source": "华尔街见闻-快讯",
@@ -1371,6 +1428,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "特朗普发文感谢伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
         }
       ]
     },
@@ -1429,6 +1497,30 @@
           "time_info": "[00时21分 ~ 10时32分]"
         },
         {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时06分 ~ 13时40分]"
+        },
+        {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -1438,17 +1530,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时06分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -1461,18 +1542,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时01分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
-          "url": "https://www.cls.cn/detail/2427818",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时06分 ~ 10时32分]"
         },
         {
           "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
@@ -1557,7 +1626,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1586,11 +1655,12 @@
           "url": "https://wallstreetcn.com/articles/3777063",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
         },
         {
           "title": "巴菲特最新访谈：批评当下市场投机潮 揭秘押注谷歌的逻辑",
@@ -1639,6 +1709,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
+          "url": "https://wallstreetcn.com/livenews/3134804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时40分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周三（7月15日），美国科技股七巨头（Magnificent 7）指数涨2.41%，连续第二个交易日走高，报223.13点。 成分股中，苹果收涨4.01%，刷新收盘历史高位至327.50美元，收盘市值4.81万亿美元——相比之下英伟达5.14万亿美元；谷歌A涨3.17%，巴菲特称他启动了伯克希尔哈撒韦对谷歌母公司Alphabet的投资。 “超大”市值科技股指数涨1.12%，报446.55点。",
           "url": "https://wallstreetcn.com/livenews/3134606",
           "source": "华尔街见闻-快讯",
@@ -1669,6 +1750,17 @@
           "time_info": "[00时21分 ~ 10时32分]"
         },
         {
+          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
+          "url": "https://www.zhihu.com/question/2060769193977280048",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 13时40分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -1681,17 +1773,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时06分]"
-        },
-        {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
         }
       ]
     },

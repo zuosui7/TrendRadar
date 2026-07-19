@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T05:53:30.216884+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-07-20T06:52:07.615035+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -26,8 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时04分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[02时04分 ~ 06时52分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "伊朗让美军付出重大代价",
@@ -41,15 +53,38 @@
           "time_info": "01时02分"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            7
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
+        },
+        {
+          "title": "科威特军方：科威特防空部队目前正应对敌方无人机的攻击。此次攻击源于伊朗的敌对行为。",
+          "url": "https://flash.jin10.com/detail/20260720062734615800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "周一亚市盘初，布油、WTI原油期货高开2%，美国和伊朗在中东地区冲突加剧。 布油期货突破90美元/桶，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3136359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "据《今日以色列报》援引官员消息称，受地区安全局势紧张影响，以色列总理内塔尼亚胡原定于下周赴美国出席美国参议员格雷厄姆葬礼的行程面临取消风险。以方担忧伊朗可能将打击目标扩大至内塔尼亚胡以外的以色列高级官员，并表示“受到威胁的人数非常多”。",
@@ -148,17 +183,6 @@
           "time_info": "[04时08分 ~ 05时53分]"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
-        },
-        {
           "title": "美国能源部长称对伊朗军事行动将持续进行",
           "url": "https://wallstreetcn.com/livenews/3136306",
           "source": "华尔街见闻-快讯",
@@ -231,6 +255,30 @@
           "time_info": "[01时02分 ~ 04时08分]"
         },
         {
+          "title": "伊朗导弹击中约旦美军基地瞬间遭曝光",
+          "url": "https://wallstreetcn.com/livenews/3136350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
+          "url": "https://flash.jin10.com/detail/20260720045743667800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
           "title": "伊拉克总理将访问伊朗并签署合作谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260720011531221800",
           "source": "金十数据",
@@ -241,6 +289,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时08分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗中央省副省长哈桑·加马里表示，几分钟前在伊朗中部城市阿拉克（Arak）听到的爆炸声与“进攻性行动”有关，无需担心。此外，社交媒体流传出伊朗发射导弹的视频。",
+          "url": "https://flash.jin10.com/detail/20260720045626344800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）援引消息人士称，一个伊朗高级别代表团将于明日抵达巴基斯坦伊斯兰堡，进行为期两天的访问。",
@@ -255,6 +315,18 @@
           "time_info": "[02时04分 ~ 04时08分]"
         },
         {
+          "title": "美国官员：美国计划升级对伊朗的战争 但可能受到多重制约",
+          "url": "https://flash.jin10.com/detail/20260720045309711800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
           "title": "据阿拉伯卫星电视台援引消息人士称，伊朗内政部长将于明日在伊斯兰堡与巴基斯坦领导层举行会晤。",
           "url": "https://flash.jin10.com/detail/20260720010304917800",
           "source": "金十数据",
@@ -267,6 +339,18 @@
           "time_info": "[02时04分 ~ 04时08分]"
         },
         {
+          "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260720044514567800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗方面称，数小时前一枚美国发射的巡航导弹在伊朗西部地区遭防空系统成功拦截和击中，导弹已被摧毁。",
           "url": "https://flash.jin10.com/detail/20260720005741846800",
           "source": "金十数据",
@@ -277,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时04分 ~ 04时08分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗革命卫队发布了显示约旦境内的F-15和F-16机库遭摧毁的画面。据革命卫队公共关系部门称，这些图像显示相关设施遭受了广泛破坏。",
+          "url": "https://flash.jin10.com/detail/20260720043742041800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "伊朗外长：部分核争端可能“无法解决”",
@@ -301,48 +397,15 @@
           "time_info": "[01时02分 ~ 02时04分]"
         },
         {
-          "title": "伊朗导弹击中约旦美军基地瞬间遭曝光",
-          "url": "https://wallstreetcn.com/livenews/3136350",
-          "source": "华尔街见闻-快讯",
+          "title": "美国打伊朗越打越尴尬",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%89%93%E4%BC%8A%E6%9C%97%E8%B6%8A%E6%89%93%E8%B6%8A%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
-          "url": "https://flash.jin10.com/detail/20260720045743667800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗中央省副省长哈桑·加马里表示，几分钟前在伊朗中部城市阿拉克（Arak）听到的爆炸声与“进攻性行动”有关，无需担心。此外，社交媒体流传出伊朗发射导弹的视频。",
-          "url": "https://flash.jin10.com/detail/20260720045626344800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "美国官员：美国计划升级对伊朗的战争 但可能受到多重制约",
-          "url": "https://flash.jin10.com/detail/20260720045309711800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 06时52分]"
         },
         {
           "title": "伊拉克总理将于本周末访问伊朗首都德黑兰。（伊拉克国家新闻社）",
@@ -356,35 +419,13 @@
           "time_info": "04时08分"
         },
         {
-          "title": "据沙特阿拉比亚电视台：伊朗媒体称伊朗马尔卡齐省（中央省）南部德利詹市发生爆炸，伊朗西部的阿拉克发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260720044514567800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗革命卫队发布了显示约旦境内的F-15和F-16机库遭摧毁的画面。据革命卫队公共关系部门称，这些图像显示相关设施遭受了广泛破坏。",
-          "url": "https://flash.jin10.com/detail/20260720043742041800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
           "url": "https://flash.jin10.com/detail/20260720041116682800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
@@ -428,7 +469,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
@@ -443,11 +484,12 @@
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -457,30 +499,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
-        },
-        {
-          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
-          "url": "https://wallstreetcn.com/livenews/3136355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "大罗把大力神杯递给特朗普",
           "url": "https://www.toutiao.com/trending/7663818959565602859/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "以媒：特朗普倾向进一步升级对伊行动",
@@ -495,6 +527,44 @@
           "time_info": "[02时04分 ~ 04时08分]"
         },
         {
+          "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
+          "url": "https://wallstreetcn.com/livenews/3136355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普现身世界杯决赛看台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 06时52分]"
+        },
+        {
+          "title": "FIFA将大力神杯送入特朗普包厢",
+          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时08分 ~ 06时52分]"
+        },
+        {
           "title": "美国总统特朗普宣称：北海石油是世界上最优质的石油来源之一。 英国的巨大潜力始于开放北海石油。 英国花钱向挪威买油简直是荒唐。 “我们爱你，苏格兰！”",
           "url": "https://wallstreetcn.com/livenews/3136305",
           "source": "华尔街见闻-快讯",
@@ -505,6 +575,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 04时08分]"
+        },
+        {
+          "title": "特朗普摸大力神杯",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时52分]"
         },
         {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
@@ -519,16 +601,16 @@
           "time_info": "[01时02分 ~ 04时08分]"
         },
         {
-          "title": "特朗普现身世界杯决赛看台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            14
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[04时08分 ~ 06时52分]"
         },
         {
           "title": "以媒：特朗普警告海湾国家 本周若不停火局势将显著升级",
@@ -555,18 +637,6 @@
           "time_info": "[04时08分 ~ 05时53分]"
         },
         {
-          "title": "FIFA将大力神杯送入特朗普包厢",
-          "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时08分 ~ 05时53分]"
-        },
-        {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
           "url": "https://flash.jin10.com/detail/20260720022026593800",
           "source": "金十数据",
@@ -577,28 +647,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 05时53分]"
-        },
-        {
-          "title": "特朗普摸大力神杯",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%91%B8%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时08分"
         }
       ]
     },
@@ -614,8 +662,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -644,8 +692,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
         }
       ]
     },
@@ -661,11 +709,29 @@
             9,
             8,
             5,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股股指期货周一基本平开。",
+          "url": "https://flash.jin10.com/detail/20260720060012850800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     }

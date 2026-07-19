@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T16:16:31.237956+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-19T18:27:55.435849+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 89,
+      "match_count": 95,
       "titles": [
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -105,6 +105,18 @@
           "time_info": "[00时59分 ~ 07时53分]"
         },
         {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时27分]"
+        },
+        {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
           "url": "https://wallstreetcn.com/livenews/3136070",
           "source": "华尔街见闻-快讯",
@@ -128,17 +140,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时51分 ~ 10时37分]"
-        },
-        {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
         },
         {
           "title": "一觉醒来，伊朗让美军付出重大代价",
@@ -224,6 +225,17 @@
           "time_info": "[00时59分 ~ 07时53分]"
         },
         {
+          "title": "伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "市场消息：有报道称，美国正对伊朗南部阿巴斯港进行空袭 。当地居民称，阿巴斯港各地传出三到五次爆炸声。",
           "url": "https://flash.jin10.com/detail/20260719031128640800",
           "source": "金十数据",
@@ -246,6 +258,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "伊朗革命卫队表示，两艘在霍尔木兹海峡南线航行的船只发生事故，另外两艘放弃通行 。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3136220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "据纽约时报：美方官员称，伊朗对约旦境内美军基地发动的袭击造成多架美军直升机受损，数十名美军人员受伤。",
           "url": "https://flash.jin10.com/detail/20260719043816622800",
           "source": "金十数据",
@@ -257,6 +280,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时53分]"
+        },
+        {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 18时27分]"
+        },
+        {
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "据华尔街日报：美国熟悉相关袭击情况的官员表示，伊朗已适应美国的防御体系，发射的导弹速度极高，且在飞向地面过程中能够机动变轨。",
@@ -343,18 +390,6 @@
           "time_info": "[03时18分 ~ 05时51分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 16时16分]"
-        },
-        {
           "title": "科威特：伊朗袭击引发多处火灾 多名消防员受伤",
           "url": "https://flash.jin10.com/detail/20260719003759760800",
           "source": "金十数据",
@@ -416,6 +451,18 @@
           "time_info": "[04时46分 ~ 07时53分]"
         },
         {
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 18时27分]"
+        },
+        {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
           "url": "https://flash.jin10.com/detail/20260719034107497800",
           "source": "金十数据",
@@ -442,16 +489,17 @@
           "time_info": "[04时46分 ~ 07时53分]"
         },
         {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
+          "title": "伊朗直接掀了桌子",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            13,
-            12
+            7,
+            18,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时53分 ~ 16时16分]"
+          "time_info": "[13时52分 ~ 18时27分]"
         },
         {
           "title": "美官员称“约旦美军基地5天遭4袭，美军两人死亡”，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
@@ -465,6 +513,18 @@
           "time_info": "[10时36分 ~ 10时37分]"
         },
         {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 18时27分]"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长穆罕默德·莫扎法里表示，目前既未提出、也未正式下达有关撤离哈尔格岛居民的请求或官方指令。",
           "url": "https://flash.jin10.com/detail/20260719024347577800",
           "source": "金十数据",
@@ -475,18 +535,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时18分 ~ 04时46分]"
-        },
-        {
-          "title": "伊朗直接掀了桌子",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
         },
         {
           "title": "据美联社：自去年2月与伊朗爆发战争以来，已有16名美国士兵遇难，超过430人受伤。",
@@ -593,6 +641,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "伊朗革命卫队：已在霍尔木兹海峡成功“拦截”四艘“违规”船只",
+          "url": "https://flash.jin10.com/detail/20260719174534118800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊朗称打击科威特境内美军基地",
           "url": "https://wallstreetcn.com/livenews/3136135",
           "source": "华尔街见闻-快讯",
@@ -604,15 +663,15 @@
           "time_info": "13时52分"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
+          "title": "伊朗革命卫队：有两艘在霍尔木兹海峡南部航线上航行的船只发生事故，另有两艘船已宣布放弃航行。",
+          "url": "https://flash.jin10.com/detail/20260719173936328800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "18时27分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：至少六枚导弹击中伊朗的凯什姆岛郊区。",
@@ -654,7 +713,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -709,7 +768,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -731,7 +790,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -852,7 +911,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -951,7 +1010,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -962,7 +1021,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -984,7 +1043,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         },
@@ -1022,6 +1081,17 @@
           "time_info": "13时52分"
         },
         {
+          "title": "据巴林国家电视台：巴林防空系统拦截了伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260719164759505800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊朗：将“毁灭性回击”美国野蛮行径",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E5%9B%9E%E5%87%BB%E2%80%9D%E7%BE%8E%E5%9B%BD%E9%87%8E%E8%9B%AE%E8%A1%8C%E5%BE%84",
           "source": "百度热搜",
@@ -1036,7 +1106,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "穆杰塔巴：特朗普的签名毫无价值、无效",
@@ -1144,6 +1214,19 @@
           "time_info": "[05时51分 ~ 10时37分]"
         },
         {
+          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
+          "url": "https://www.cls.cn/detail/2430341",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时27分]"
+        },
+        {
           "title": "加拿大安大略省省长：特朗普对加拿大扑灭山火努力的批评是“绝对不可接受”的",
           "url": "https://flash.jin10.com/detail/20260719101247637800",
           "source": "金十数据",
@@ -1201,18 +1284,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时46分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
-          "url": "https://www.cls.cn/detail/2430341",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -1310,6 +1381,17 @@
           "time_info": "[13时52分 ~ 16时16分]"
         },
         {
+          "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
+          "url": "https://news.ifeng.com/c/8utCDuus6XE",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -1392,8 +1474,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时27分]"
         },
         {
           "title": "美股危险信号密集亮起",
@@ -1413,7 +1495,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
         }
@@ -1446,11 +1528,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时27分]"
         }
       ]
     },
@@ -1475,11 +1558,12 @@
           "url": "https://wallstreetcn.com/articles/3777171",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 16时16分]"
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 18时27分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T21:05:58.183178+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-07-20T23:50:20.761235+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -41,6 +41,18 @@
           "time_info": "[10时54分 ~ 21时05分]"
         },
         {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 23时50分]"
+        },
+        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时02分 ~ 14时19分]"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 21时05分]"
         },
         {
           "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
@@ -150,7 +151,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -194,7 +195,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -627,7 +628,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -660,7 +661,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -685,6 +686,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "法国外交部长巴罗：两名大使馆官员在周日遭到伊朗安全部门的严重威胁。",
+          "url": "https://flash.jin10.com/detail/20260720232657642800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗称，阿巴丹发生的爆炸与伊朗军方行动有关，并非美国发动的袭击。",
@@ -726,7 +738,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -737,7 +749,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -762,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗：美国空袭针对设拉子（Shiraz），没有造成人员伤亡。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3136987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "以色列国防军：以色列国防军发现，伊朗向毗邻以色列的约旦亚喀巴市（Aqaba）方向发射了导弹。为防止导弹残骸落入以色列境内，以军发射了多枚拦截弹，对导弹残骸进行拦截。目前暂无人员伤亡或财产损失报告。根据既定程序，未启动防空警报。此次事件已结束。",
@@ -833,7 +856,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -883,15 +906,15 @@
           "time_info": "[10时54分 ~ 14时19分]"
         },
         {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
+          "title": "美国总统特朗普：要求众议院共和党本周投票支持预算解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3137012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "23时50分"
         },
         {
           "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
@@ -900,11 +923,24 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时18分 ~ 21时05分]"
+          "appearance_count": 6,
+          "time_info": "[14时18分 ~ 23时50分]"
+        },
+        {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 23时50分]"
         },
         {
           "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
@@ -1064,13 +1100,46 @@
           "time_info": "07时57分"
         },
         {
+          "title": "美国参议员敦促美国总统特朗普政府维持航空业零关税，并寻求与盟国防务公司的更紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260720232958903800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "特朗普政府的人工智能安全机构负责人辞职",
+          "url": "https://flash.jin10.com/detail/20260720232911398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "美国总统特朗普的AI安全部门主管离职。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "大V谈特朗普颁奖后赖着不走",
           "url": "https://www.toutiao.com/trending/7664551205074374187/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1084,6 +1153,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "据Axios网站：美国总统特朗普政府的人工智能安全机构负责人辞职。",
+          "url": "https://flash.jin10.com/detail/20260720232317606800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普为西班牙颁奖",
@@ -1111,7 +1202,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
@@ -1120,9 +1211,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
+        },
+        {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
@@ -1131,7 +1233,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -1147,6 +1249,28 @@
           "time_info": "[14时18分 ~ 14时19分]"
         },
         {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
+          "url": "https://wallstreetcn.com/livenews/3137005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美股股指期货周一基本平开。",
           "url": "https://flash.jin10.com/detail/20260720060012850800",
           "source": "金十数据",
@@ -1158,13 +1282,24 @@
           "time_info": "06时52分"
         },
         {
+          "title": "美股存储芯片反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货跌0.6%，道指期货跌0.4%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶；WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 据报道，调解人已向伊朗提出一项与美国停火10天的提议，以寻找途径重振双方上月达成的临时协议。",
           "url": "https://wallstreetcn.com/livenews/3136884",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -1172,7 +1307,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -1215,11 +1350,23 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 23时50分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "23时50分"
         }
       ]
     },

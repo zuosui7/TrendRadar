@@ -1,11 +1,296 @@
 {
-  "generated_at": "2026-07-22T05:09:32.290635+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-07-22T06:56:55.578781+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
+          "url": "https://flash.jin10.com/detail/20260722044021391800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普有意提名国际足联主席因凡蒂诺出任联合国秘书长",
+          "url": "https://flash.jin10.com/detail/20260722064418802800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
+          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
+        },
+        {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            8,
+            14,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普称很快重击伊朗镐山核设施",
+          "url": "https://wallstreetcn.com/livenews/3137693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普会见黎巴嫩总统奥恩",
+          "url": "https://flash.jin10.com/detail/20260722003143324800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普计划下周到访密歇根州开展选举造势活动。",
+          "url": "https://flash.jin10.com/detail/20260722063924180800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "加拿大取消与美国的跨境大桥庆祝活动，此前特朗普政府宣布对加拿大加征关税。 加拿大说，Gordie Howe Bridge仍然将在7月27日开放。",
+          "url": "https://wallstreetcn.com/livenews/3137772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普提名Adam Candeub负责司法部反垄断部门的事务。",
+          "url": "https://wallstreetcn.com/livenews/3137768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普“淡化”与伊朗谈判可能性，并称将在红海航运受威胁时出手",
+          "url": "https://wallstreetcn.com/livenews/3137767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据Axios：美国议员要求美国证交会调查特朗普媒体科技集团(DJT.O)旗下的Truth Social将其数据访问权商业化的计划。此前有报道称，该集团的“Truth API”产品定于8月1日上线，该产品将提供对该平台排名前十的热门账户公开帖文的实时访问权限。",
+          "url": "https://flash.jin10.com/detail/20260722062026177800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
+          "url": "https://wallstreetcn.com/livenews/3137704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据华尔街日报：官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。",
+          "url": "https://flash.jin10.com/detail/20260722060041607800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美国总统特朗普宣布与约旦达成贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260721235701108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
+          "url": "https://flash.jin10.com/detail/20260722015056462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
+          "url": "https://flash.jin10.com/detail/20260722055028115800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普承认伊朗在约旦“钻了空子”",
+          "url": "https://flash.jin10.com/detail/20260721234954823800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
+          "url": "https://flash.jin10.com/detail/20260721234532750800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
+          "url": "https://flash.jin10.com/detail/20260722013554217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
+          "url": "https://wallstreetcn.com/livenews/3137671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
+          "url": "https://wallstreetcn.com/livenews/3137667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普会见黎巴嫩总统奥恩",
+          "url": "https://wallstreetcn.com/livenews/3137692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3137726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -15,8 +300,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         },
         {
           "title": "伊朗还有两大杀手锏",
@@ -26,8 +311,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         },
         {
           "title": "伊朗警告保加利亚勿为美军提供便利",
@@ -47,7 +332,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -57,11 +342,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 05时09分]"
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 06时56分]"
         },
         {
           "title": "伊朗称已部署新防空系统。（伊朗媒体IRNA）",
@@ -147,7 +433,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -180,7 +466,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -194,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
+          "url": "https://wallstreetcn.com/livenews/3137757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗Press TV：伊拉克库尔德地区首府埃尔比勒美国领事馆附近发生爆炸。",
@@ -213,7 +510,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -224,9 +521,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "科威特军方表示，空中防御系统目前正在拦截伊朗无人机。",
+          "url": "https://flash.jin10.com/detail/20260722054058903800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊拉克埃尔比勒传出爆炸声。",
@@ -240,198 +548,24 @@
           "time_info": "03时21分"
         },
         {
+          "title": "伊朗军方：若美攻击伊核设施 中东地区美方利益都将遭报复",
+          "url": "https://flash.jin10.com/detail/20260722052653164800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
           "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
           "url": "https://wallstreetcn.com/livenews/3137727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "核能企业Oklo和X-energy已加入特朗普政府推动的新核反应堆建设计划，旨在加快为人工智能数据中心提供能源支持。",
-          "url": "https://flash.jin10.com/detail/20260722044021391800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
-        },
-        {
-          "title": "特朗普称很快重击伊朗镐山核设施",
-          "url": "https://wallstreetcn.com/livenews/3137693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 03时21分]"
-        },
-        {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
-        },
-        {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
-          "url": "https://wallstreetcn.com/articles/3777496",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普会见黎巴嫩总统奥恩",
-          "url": "https://flash.jin10.com/detail/20260722003143324800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
-          "url": "https://wallstreetcn.com/livenews/3137704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国总统特朗普宣布与约旦达成贸易协议。",
-          "url": "https://flash.jin10.com/detail/20260721235701108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
-          "url": "https://flash.jin10.com/detail/20260722015056462800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普承认伊朗在约旦“钻了空子”",
-          "url": "https://flash.jin10.com/detail/20260721234954823800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
-          "url": "https://flash.jin10.com/detail/20260721234532750800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
-          "url": "https://flash.jin10.com/detail/20260722013554217800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
-          "url": "https://wallstreetcn.com/livenews/3137671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国总统特朗普谈及红海局势，声称：如果的确发生（也门胡塞武装袭击），我们将处理。",
-          "url": "https://wallstreetcn.com/livenews/3137667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普会见黎巴嫩总统奥恩",
-          "url": "https://wallstreetcn.com/livenews/3137692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
-          "url": "https://wallstreetcn.com/livenews/3137726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -439,7 +573,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -449,19 +583,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         },
         {
           "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
           "url": "https://www.cls.cn/detail/2433005",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -487,6 +622,53 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
+          "title": "科技股力撑美股指反弹，芯片指数大涨5%，美光市值重回万亿，黄金拉升",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
+          "url": "https://wallstreetcn.com/livenews/3137752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时56分]"
+        },
+        {
+          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时56分]"
+        },
+        {
+          "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3137748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时56分]"
+        },
+        {
           "title": "美股全线高开 闪迪、西部数据均涨超8%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
           "source": "百度热搜",
@@ -498,37 +680,15 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
-          "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
-          "url": "https://wallstreetcn.com/livenews/3137752",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3137751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3137748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "time_info": "06时56分"
         },
         {
           "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
@@ -537,7 +697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -548,7 +708,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -589,7 +749,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -599,8 +759,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         },
         {
           "title": "AI逃离沙盒 OpenAI认下Hugging Face被黑事件",
@@ -609,7 +769,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -620,7 +780,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         },
@@ -653,9 +813,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "OpenAI称其AI模型导致了Hugging Face遭遇网络攻击",
+          "url": "https://wallstreetcn.com/livenews/3137753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时56分"
         },
         {
           "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
@@ -664,7 +835,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
         }
@@ -697,6 +868,18 @@
           "time_info": "[01时18分 ~ 05时09分]"
         },
         {
+          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+          "url": "https://www.zhihu.com/question/2063033606767895735",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时56分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
           "url": "https://flash.jin10.com/detail/20260722002853814800",
           "source": "金十数据",
@@ -717,17 +900,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
-          "url": "https://www.zhihu.com/question/2063033606767895735",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
         },
         {
           "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
@@ -751,11 +923,12 @@
           "url": "https://wallstreetcn.com/articles/3777510",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时09分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时56分]"
         }
       ]
     },
@@ -768,11 +941,12 @@
           "url": "https://wallstreetcn.com/livenews/3137759",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时09分 ~ 06时56分]"
         }
       ]
     },

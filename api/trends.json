@@ -1,33 +1,217 @@
 {
-  "generated_at": "2026-07-22T01:19:06.148172+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T03:21:28.273215+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗还有两大杀手锏",
+          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗警告保加利亚勿为美军提供便利",
+          "url": "https://flash.jin10.com/detail/20260722005010964800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "伊朗称已部署新防空系统。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3137713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与法国外长巴罗通话，伊朗外长阿拉格齐指责法国外交官在德黑兰行为不可接受，并称霍尔木兹海峡局势升级责任在美国。",
+          "url": "https://flash.jin10.com/detail/20260722002835074800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊拉克消息人士称，因伊拉克库尔德地区近期遭遇火箭弹和无人机袭击，埃尔比勒国际机场已暂停运营。",
+          "url": "https://flash.jin10.com/detail/20260722022003980800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
+          "url": "https://flash.jin10.com/detail/20260722002000799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗军方发言人称，目前伊朗武装力量的防御部署范围并不局限于边境。",
+          "url": "https://flash.jin10.com/detail/20260722021718018800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "卡塔尔外交部强烈谴责伊朗再次袭击约旦、巴林和科威特，并指责伊朗在科威特油轮通过霍尔木兹海峡期间对其发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260722021531809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗军方发言人表示，伊朗已完成部分受损防空系统修复，并将新型防空装备纳入作战体系，大幅提升防空能力。",
+          "url": "https://flash.jin10.com/detail/20260722021420606800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克埃尔比勒地区爆炸声已持续约半小时，多轮导弹袭击目标据称为“反伊朗武装分子”驻地。",
+          "url": "https://flash.jin10.com/detail/20260722021357167800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗导弹突防能力提升 美军防空系统面临考验",
+          "url": "https://flash.jin10.com/detail/20260722021112133800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：巴林遭到袭击的区域是美国军方人员驻扎地点。",
+          "url": "https://flash.jin10.com/detail/20260722014951792800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据伊朗Press TV：伊拉克库尔德地区首府埃尔比勒美国领事馆附近发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260722014900592800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊拉克埃尔比勒传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260722013253895800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普称很快重击伊朗镐山核设施",
           "url": "https://wallstreetcn.com/livenews/3137693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 03时21分]"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
           "url": "https://www.zhihu.com/question/2062849285499138343",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
         },
         {
           "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
@@ -37,8 +221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
         },
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -48,8 +232,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
         },
         {
           "title": "特朗普会见黎巴嫩总统奥恩",
@@ -58,9 +242,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普：胡塞武装若封锁红海，美国将采取行动",
+          "url": "https://wallstreetcn.com/livenews/3137704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "美国总统特朗普宣布与约旦达成贸易协议。",
@@ -69,9 +264,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
+          "url": "https://flash.jin10.com/detail/20260722015056462800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -80,7 +286,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -91,9 +297,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
+          "url": "https://flash.jin10.com/detail/20260722013554217800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "特朗普：没兴趣与伊朗见面，我们的斗争根本没有结束",
@@ -102,7 +319,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -113,7 +330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -124,7 +341,101 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "美股全线高开 闪迪、西部数据均涨超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 01时19分]"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260722014721363800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260722014347075800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收涨0.56%，报643.19点，欧股盘初、美股盘初均短暂转跌。 欧元区STOXX 50指数收涨0.94%，报6285.63点，跳空高开之后呈现出W形涨势。 富时泛欧绩优300指数收涨0.64%，报2572.31点。",
+          "url": "https://wallstreetcn.com/livenews/3137672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -141,7 +452,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -153,8 +464,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
         },
         {
           "title": "谷歌(GOOG.O)：自7月21日起，使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。",
@@ -163,7 +474,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -174,7 +485,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         },
@@ -185,129 +496,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球科技股反弹！美股存储芯片指数涨超10%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "美股全线高开 闪迪、西部数据均涨超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80+%E9%97%AA%E8%BF%AA%E3%80%81%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%9D%87%E6%B6%A8%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "欧洲STOXX 600指数收涨0.56%，报643.19点，欧股盘初、美股盘初均短暂转跌。 欧元区STOXX 50指数收涨0.94%，报6285.63点，跳空高开之后呈现出W形涨势。 富时泛欧绩优300指数收涨0.64%，报2572.31点。",
-          "url": "https://wallstreetcn.com/livenews/3137672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
-          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "伊朗还有两大杀手锏",
-          "url": "https://news.ifeng.com/c/8uwrsyeC1bU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "伊朗警告保加利亚勿为美军提供便利",
-          "url": "https://flash.jin10.com/detail/20260722005010964800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐与法国外长巴罗通话，伊朗外长阿拉格齐指责法国外交官在德黑兰行为不可接受，并称霍尔木兹海峡局势升级责任在美国。",
-          "url": "https://flash.jin10.com/detail/20260722002835074800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "巴基斯坦政府：巴基斯坦总理会见伊朗内政部长，伊朗内政部长肯定了巴基斯坦方面为促成伊斯兰堡谅解备忘录作出的努力。",
-          "url": "https://flash.jin10.com/detail/20260722002000799800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -315,7 +504,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI负责人抨击Kimi开源",
@@ -325,8 +514,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        },
+        {
+          "title": "OpenAI产品负责人Tibo表示，Codex和 ChatGPT Work每周活跃用户已突破1000万人。",
+          "url": "https://wallstreetcn.com/livenews/3137702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
@@ -335,7 +535,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -353,8 +553,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周三（8月6日）纽约尾盘，彭博谷物分类指数涨0.42%，报32.19点。 CBOT玉米期货涨0.48%，CBOT小麦期货涨0.67%。 CBOT大豆期货跌0.33%，报12.2225美元/蒲式耳，豆粕期货涨1.43%，豆油期货跌0.78%。 CBOT瘦肉猪期货涨0.54%，活牛期货跌0.74%，饲牛期货跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3137719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:29:12.891064+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-07-23T19:09:48.973500+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -61,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -97,6 +97,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗军方：将继续打击美军目标直至美方罢手",
+          "url": "https://wallstreetcn.com/livenews/3138823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
+          "title": "伊通社：伊朗总统与伊拉克总理举行双边会晤。 伊朗和伊拉克承诺深化战略关系。 伊朗和伊拉克讨论新的合作领域。",
+          "url": "https://wallstreetcn.com/livenews/3138822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "美军称对伊朗海上封锁已迫使9艘商船改道",
@@ -162,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -184,7 +206,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -217,9 +239,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "伊拉克总理扎伊迪与伊朗总统佩泽希齐扬会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队称袭击了美国在约旦的基地，摧毁了一套美国“萨德”导弹防御系统的雷达。同时，一套“爱国者”系统和一个C-RAM雷达也被击中并摧毁，该基地的燃料库被点燃。",
@@ -261,7 +294,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -376,6 +409,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗总统与伊拉克总理举行双边会议，双方讨论新的合作领域，并承诺深化战略关系。",
+          "url": "https://flash.jin10.com/detail/20260723183613087800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。",
           "url": "https://flash.jin10.com/detail/20260723021722018800",
           "source": "金十数据",
@@ -445,8 +489,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 19时09分]"
+        },
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
           "url": "https://wallstreetcn.com/articles/3777612",
@@ -457,18 +513,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时03分]"
-        },
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 16时29分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -511,7 +555,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -538,6 +582,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时06分 ~ 10时39分]"
+        },
+        {
+          "title": "洛克希德马丁第二季度净销售额200.6亿美元，预期193.3亿美元 第二季度每股收益7.94美元，去年同期1.46美元。 洛克希德马丁预计全年净销售额797.5亿至817.5亿美元，市场预期791.3亿美元。 洛克希德马丁预计全年营业利润85亿至87亿美元。 洛克希德马丁预计全年每股收益29.95至30.65美元，此前预期29.35至30.25美元。 洛克希德马丁美股盘前涨7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3138819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "特斯拉二季度营收282.4亿美元，分析师预期263.2亿美元。 二季度汽车营收205.2亿美元，分析师预期186.8亿美元。 二季度服务与其他营收45.8亿美元，分析师预期32.7亿美元。 二季度活跃的FSD（全自动驾驶）订阅用户数148万，分析师预期140万。 二季度发电与储能营收31.4亿美元，分析师预期37.7亿美元。 二季度调整后每股收益（EPS）为0.33美元，分析师预期0.51美元。 二季度毛利润率16.8%，分析师预期19.4%。 二季度运营利润3.98亿美元，分析师预期13.9亿美元。 二季度自由现金流（FCF）为负10.9亿美元（-10.9亿美元），分析师预期-36.4亿美元。 特斯拉美股盘后跌2.41%，暂报365.00美元。",
@@ -568,7 +623,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -593,6 +648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "霍尼韦尔第二季度销售额97.2亿美元，第二季度调整后每股收益4.52美元。 霍尼韦尔预计2026年全年销售额198亿至200亿美元，此前预期199亿至202亿美元。 霍尼韦尔预计2026年有机销售额增长3%至4%，此前预期2%至3%。 霍尼韦尔预计2026年自由现金流约20亿美元，此前预期约20亿美元。 霍尼韦尔美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
         },
         {
           "title": "金十图示：2026年07月22日（周三）美股热门股票行情一览（美股收盘）",
@@ -648,224 +714,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
-          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 07时03分]"
         },
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
-          "url": "https://www.cls.cn/detail/2434427",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时06分 ~ 13时53分]"
-        },
-        {
-          "title": "美国总统特朗普：9月份将面临政府停摆。",
-          "url": "https://flash.jin10.com/detail/20260723044952204800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
-          "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
-          "url": "https://flash.jin10.com/detail/20260723024503926800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时17分"
-        },
-        {
-          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
-          "url": "https://www.cls.cn/detail/2434152",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时07分]"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时29分]"
-        },
-        {
-          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-          "url": "https://wallstreetcn.com/articles/3777603",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时17分]"
-        },
-        {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 13时53分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
-        },
-        {
-          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
-          "url": "https://flash.jin10.com/detail/20260723061154517800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
-          "url": "https://flash.jin10.com/detail/20260723002126993800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3138382",
+          "title": "康卡斯特（Comcast）第二季度营收299.4亿美元，预期293亿美元。 第二季度调整后每股收益为1.04美元，预期为0.97美元。 康卡斯特（Comcast）旗下流媒体平台Peacock首次实现季度盈利。 康卡斯特美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3138792",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时07分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普的政策是以牙还牙，伊朗将付出沉重代价。",
-          "url": "https://flash.jin10.com/detail/20260723161200054800",
-          "source": "金十数据",
-          "ranks": [
-            18
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时29分"
-        },
-        {
-          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
-          "url": "https://flash.jin10.com/detail/20260723000745259800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "19时09分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -889,8 +754,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 19时09分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -901,8 +766,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时39分 ~ 16时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 19时09分]"
         },
         {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
@@ -927,6 +792,18 @@
           "time_info": "05时07分"
         },
         {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 19时09分]"
+        },
+        {
           "title": "Reddit(RDDT.O)现跌8.74%，此前一度跌超10%，消息称Reddit不再续签谷歌AI合作内容协议。",
           "url": "https://flash.jin10.com/detail/20260723004322768800",
           "source": "金十数据",
@@ -936,17 +813,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
-          "url": "https://www.cls.cn/detail/2434820",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时28分 ~ 16时29分]"
         },
         {
           "title": "谷歌Q2云业务超预期飙升82%，云积压订单达5140亿美元，AI投入开始兑现｜财报见闻",
@@ -977,7 +843,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
         },
@@ -1026,6 +892,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "谷歌二季度营收同比增 24% 、云业务大涨 82%，盘后股价却暴跌，如何解读该业绩？市场在担忧什么？",
+          "url": "https://www.zhihu.com/question/2063582676884223714",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "Alphabet(GOOG.O)：Gemini APP月活用户数（Maus）达到9.5亿。",
           "url": "https://flash.jin10.com/detail/20260723040745375800",
           "source": "金十数据",
@@ -1048,6 +925,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "欧盟因谷歌搜索业务对其罚款4.6亿欧元，因Google Play商店业务对其罚款4.3亿欧元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "谷歌母公司Alphabet的CFO：收购Wiz对谷歌云利润构成拖累。",
           "url": "https://wallstreetcn.com/livenews/3138425",
           "source": "华尔街见闻-快讯",
@@ -1061,8 +949,222 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时03分]"
+        },
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 19时09分]"
+        },
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 16时29分]"
+        },
+        {
+          "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
+          "url": "https://www.cls.cn/detail/2434427",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时06分 ~ 13时53分]"
+        },
+        {
+          "title": "美国总统特朗普：9月份将面临政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260723044952204800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
+          "url": "https://news.ifeng.com/c/8uyvegEdrQo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国财长贝森特：86%的特朗普账户计划参与家庭年收入低于20万美元。",
+          "url": "https://flash.jin10.com/detail/20260723024503926800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时39分 ~ 19时09分]"
+        },
+        {
+          "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
+          "url": "https://www.cls.cn/detail/2434152",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时07分]"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 05时07分]"
+        },
+        {
+          "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
+          "url": "https://wallstreetcn.com/articles/3777603",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 03时17分]"
+        },
+        {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时28分 ~ 19时09分]"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 13时53分]"
+        },
+        {
+          "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
+          "url": "https://flash.jin10.com/detail/20260723061154517800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美媒：特朗普政府正在考虑在马里采取军事行动",
+          "url": "https://flash.jin10.com/detail/20260723002126993800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "特朗普：我们在伊朗取得胜利，我们不需要霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时07分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普的政策是以牙还牙，伊朗将付出沉重代价。",
+          "url": "https://flash.jin10.com/detail/20260723161200054800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "据华盛顿邮报：美国总统特朗普政府正在考虑在马里采取军事行动。",
+          "url": "https://flash.jin10.com/detail/20260723000745259800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "吧友做梗图催更DeepSeekV4",
@@ -1135,6 +1237,17 @@
           "time_info": "13时53分"
         },
         {
+          "title": "黄仁勋：美国不该限制DeepSeek、Kimi等中国模型，优秀的开源模型就该被用起来",
+          "url": "https://wallstreetcn.com/livenews/3138806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时09分"
+        },
+        {
           "title": "梁文峰称DeepSeek只有一条主线",
           "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E6%96%87%E5%B3%B0%E7%A7%B0DeepSeek%E5%8F%AA%E6%9C%89%E4%B8%80%E6%9D%A1%E4%B8%BB%E7%BA%BF&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1171,8 +1284,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 16时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 19时09分]"
         },
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",

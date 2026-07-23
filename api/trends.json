@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T03:16:44.292166+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-07-24T05:05:30.136671+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -41,15 +41,27 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
+          "url": "https://wallstreetcn.com/livenews/3139062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "据以色列i24News：消息人士称，伊朗拒绝“改进”目前摆在桌面上的10天停火外交提议。",
@@ -69,7 +81,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -83,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "伊拉克总理：伊拉克不允许从其领土发起威胁伊朗的行动",
+          "url": "https://flash.jin10.com/detail/20260724041220156800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "市场消息：德国外交官称，德国驻伊朗使馆人员已撤离。",
@@ -102,7 +125,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -116,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美军称对伊朗海上封锁已迫使12艘商船改道",
+          "url": "https://wallstreetcn.com/livenews/3139038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "伊朗格什姆岛传出爆炸声",
@@ -165,7 +199,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -175,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -185,7 +219,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -196,9 +230,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -212,15 +258,16 @@
           "time_info": "[01时22分 ~ 03时16分]"
         },
         {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 05时05分]"
         },
         {
           "title": "美国总统特朗普：伊朗比四个月前更弱。",
@@ -229,7 +276,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -240,18 +287,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -262,7 +298,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
         },
@@ -273,9 +309,266 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
+          "url": "https://wallstreetcn.com/livenews/3139045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
+          "url": "https://wallstreetcn.com/livenews/3139040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗想要做些什么，但他们还没有准备好。",
+          "url": "https://wallstreetcn.com/livenews/3139043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3139066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "英特尔美股盘后涨幅扩大至12%。",
+          "url": "https://wallstreetcn.com/livenews/3139064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260724025443791800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "摩根大通：接下来几周是美股命运关键",
+          "url": "https://www.toutiao.com/trending/7665718883323481643/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260724025439749800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
+          "url": "https://wallstreetcn.com/livenews/3139055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260724040548081800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260724040543931800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "英特尔(INTC.O)美股盘后涨超9%，其三季度营收展望高于预期。",
+          "url": "https://flash.jin10.com/detail/20260724040502451800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美股收盘：三大股指集体收跌 特斯拉大跌逾14%",
+          "url": "https://flash.jin10.com/detail/20260724040341676800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777718",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
+        },
+        {
+          "title": "美国科技股七巨头指数收跌4.8%，市值蒸发7970亿美元。 成分股特斯拉与谷歌母公司Alphabet市值在业绩报告发布次日分别收跌14.52%和7.13%，合计蒸发（至少）数千亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
+          "url": "https://flash.jin10.com/detail/20260724004823135800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
+          "url": "https://wallstreetcn.com/livenews/3138992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
         }
       ]
     },
@@ -365,136 +658,30 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777718",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "据福克斯商业：特朗普政府表示，欧盟依据《数字市场法案》对谷歌处以10亿美元罚款的决定威胁贸易稳定。",
-          "url": "https://flash.jin10.com/detail/20260724004823135800",
+          "title": "美元指数23日上涨",
+          "url": "https://flash.jin10.com/detail/20260724040944825800",
           "source": "金十数据",
           "ranks": [
-            23
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时05分"
         },
         {
-          "title": "谷歌云CEO：随着云业务表现远超预期，客户支出激增50%",
-          "url": "https://wallstreetcn.com/livenews/3138992",
+          "title": "美元指数涨超0.3%，日元跌0.4%逼近164",
+          "url": "https://wallstreetcn.com/livenews/3139047",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260724025443791800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
-        },
-        {
-          "title": "摩根大通：接下来几周是美股命运关键",
-          "url": "https://www.toutiao.com/trending/7665718883323481643/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "金十图示：2026年07月23日（周四）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260724025439749800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "time_info": "05时05分"
         }
       ]
     },
@@ -525,11 +712,12 @@
           "source": "微博",
           "ranks": [
             30,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时16分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时05分]"
         }
       ]
     }

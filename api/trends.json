@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-24T17:22:09.826004+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2026-07-24T19:42:41.177369+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 19时42分]"
+        },
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 11时36分]"
-        },
-        {
-          "title": "伊朗公布美军近期袭击伤亡数据",
-          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时22分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -61,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -153,6 +153,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "巴基斯坦外交部：巴基斯坦外长会见了伊朗外长阿拉格齐，强调降低紧张局势的重要性。",
+          "url": "https://flash.jin10.com/detail/20260724193033343800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "市场消息：德国外交官称，德国驻伊朗使馆人员已撤离。",
@@ -271,9 +282,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们本该更早攻击伊朗。 我们将尽一切努力在石油供应方面帮助日本。",
+          "url": "https://wallstreetcn.com/livenews/3139427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "伊朗格什姆岛传出爆炸声",
@@ -287,6 +309,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称袭击科威特的AL-ADIRI美军基地。",
+          "url": "https://wallstreetcn.com/livenews/3139426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "伊朗外长：扣押他国资产“极具煽动性”",
           "url": "https://wallstreetcn.com/livenews/3139224",
           "source": "华尔街见闻-快讯",
@@ -296,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "巴林国防军：周五拦截了一次伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260724191910831800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
@@ -334,8 +378,34 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 19时42分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时16分 ~ 19时42分]"
+        },
         {
           "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
           "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
@@ -352,17 +422,6 @@
           "time_info": "[01时22分 ~ 17时22分]"
         },
         {
-          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
-          "url": "https://wallstreetcn.com/articles/3777811",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时22分]"
-        },
-        {
           "title": "特朗普：我们与伊朗只是小规模冲突",
           "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
@@ -374,19 +433,27 @@
           "time_info": "[01时22分 ~ 06时56分]"
         },
         {
-          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
-          "url": "https://wallstreetcn.com/articles/3777791",
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            5,
-            6
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时16分 ~ 17时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时25分 ~ 19时42分]"
+        },
+        {
+          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/articles/3777809",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 19时42分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -420,29 +487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
-        },
-        {
-          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
-          "url": "https://wallstreetcn.com/articles/3777830",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时25分 ~ 17时22分]"
-        },
-        {
-          "title": "美国会要让特朗普“踩刹车”，众院通过议案要求停止对伊朗军事行动",
-          "url": "https://wallstreetcn.com/articles/3777809",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时22分]"
         },
         {
           "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
@@ -567,6 +611,17 @@
           "time_info": "06时56分"
         },
         {
+          "title": "美国前国务卿布林肯：我相信美国总统特朗普想要摆脱他自己所处的困境。他在寻找出路，但找不到。有些人称之为升级紧张局势的陷阱。",
+          "url": "https://flash.jin10.com/detail/20260724192512380800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "加拿大总理卡尼：如果到8月19日（特朗普关税生效日）仍然无法与美国达成贸易协议，一切都是可能的。",
           "url": "https://wallstreetcn.com/livenews/3139040",
           "source": "华尔街见闻-快讯",
@@ -592,7 +647,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -603,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时56分 ~ 17时22分]"
+          "appearance_count": 7,
+          "time_info": "[06时56分 ~ 19时42分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -614,8 +669,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 17时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 19时42分]"
         },
         {
           "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
@@ -675,6 +730,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "美国运通二季度营收196.4亿美元，预期196.9亿美元。 二季度每股收益4.53美元，预期4.41美元。 美国运通预计全年营收增长10%，此前预期增长9%至10%。 美国运通仍预计全年每股收益为17.30至17.90美元，市场预期为17.68美元。 美国运通美股盘前跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3139451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260724025443791800",
           "source": "金十数据",
@@ -706,8 +772,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时42分]"
         },
         {
           "title": "摩根大通：接下来几周是美股命运关键",
@@ -732,6 +798,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "Verizon预计全年调整后每股收益4.99美元至5.04美元，此前预计4.95美元至4.99美元，市场预估4.97美元。 Verizon仍然预测全年资本支出160亿美元至165亿美元，预估163.5亿美元。 Verizon第二季度调整后每股收益1.30美元，上年同期1.22美元，预估1.27美元。 Verizon第二季度调整后息税折旧及摊销前利润137亿美元，预估136.5亿美元。 Verizon第二季度营运收入343亿美元，预估351.7亿美元。 Verizon美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3139449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.57%，报6145.46点，美股早盘持续走低，北京时间23:00-03:44低位企稳——震荡于6120点附近，随后显著收复失地。 热门中概股里，日月光半导体初步收跌2.8%，阿里跌2.1%，网易跌0.8%，美团涨2.4%，小马智行涨7.5%。 ETF中，中国科技指数ETF（CQQQ）收跌2.04%，中概互联网指数ETF（KWEB）收跌0.64%。 XtrackersHarvest中证50（ASHS）收跌1.07%，德银嘉实沪深300指数ETF（ASHR）收跌0.54%，MSCI新兴市场ex中国ETF（EMXC）收跌0.50%。",
           "url": "https://wallstreetcn.com/livenews/3139055",
           "source": "华尔街见闻-快讯",
@@ -741,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "斯伦贝谢第二季度营收89.7亿美元，预期86.9亿美元。 第二季度调整后每股收益55美分，预期51美分。 第二季度调整后EBITDA为19.0亿美元，预期17.8亿美元。 第二季度资本支出4.59亿美元，预期4.88亿美元。 斯伦贝谢美股盘前涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3139443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -808,11 +896,12 @@
           "url": "https://www.zhihu.com/question/2063832242242184073",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时42分]"
         },
         {
           "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
@@ -824,6 +913,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时42分]"
         },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
@@ -848,17 +949,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 03时16分]"
-        },
-        {
-          "title": "新闻蒸馏器｜OpenAI模型失控事件后，美国两党议员推动“AI终止开关法案”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650370",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
         },
         {
           "title": "OpenAI基础设施负责人：OpenAI计划与AMD合作开发MI500系列AI芯片及后续产品。",
@@ -889,7 +979,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -933,7 +1023,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -1088,11 +1178,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E7%BA%A0%E7%BB%93%E4%BA%8610%E7%A7%92%E8%BF%98%E6%98%AF%E5%86%B3%E5%AE%9A%E8%B0%84%E5%AA%9A&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时42分]"
         },
         {
           "title": "黄仁勋力挺中国AI模型：DeepSeek、Kimi这样优秀的大模型得到广泛应用",

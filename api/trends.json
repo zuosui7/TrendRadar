@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T11:36:05.558589+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-07-24T14:25:50.252144+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "以色列国防部长卡茨：如果伊朗攻击以色列，将遭受毁灭性打击。",
@@ -91,11 +91,12 @@
           "url": "https://www.cls.cn/detail/2435700",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "据以色列i24News：消息人士称，伊朗拒绝“改进”目前摆在桌面上的10天停火外交提议。",
@@ -170,7 +171,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -192,7 +193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -203,9 +204,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "据报伊朗防空系统击落一飞行器",
+          "url": "https://wallstreetcn.com/livenews/3139236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "伊朗卫生部：6月27日以来美国袭击已致55人死亡",
@@ -252,6 +264,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗外长：扣押他国资产“极具煽动性”",
+          "url": "https://wallstreetcn.com/livenews/3139224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
           "title": "伊朗媒体：美军导弹袭击伊朗南部Qeshm Island的Suaz小镇。",
           "url": "https://wallstreetcn.com/livenews/3138986",
           "source": "华尔街见闻-快讯",
@@ -288,7 +311,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -308,11 +331,12 @@
           "ranks": [
             17,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 11时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 14时25分]"
         },
         {
           "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
@@ -322,8 +346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -336,8 +360,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时16分 ~ 11时36分]"
+          "appearance_count": 6,
+          "time_info": "[03时16分 ~ 14时25分]"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -349,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "分析师：特朗普的关税大棒越挥越响，实际打击力却越来越虚",
+          "url": "https://flash.jin10.com/detail/20260724140448068800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国总统特朗普：如果我们不对伊朗采取行动，就没有人会采取行动。",
@@ -380,19 +415,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
           "url": "https://www.cls.cn/detail/2435732",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
@@ -415,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
+          "url": "https://wallstreetcn.com/articles/3777830",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国总统特朗普：我们在应对伊朗方面进展非常顺利，表现非常好。",
@@ -448,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "欧洲央行管委穆兰：美国总统特朗普的关税给全球经济和增长带来了更多不确定性。",
+          "url": "https://flash.jin10.com/detail/20260724135408121800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "美国司法部在总统特朗普飞机调查中撤销针对纽约时报的传唤。",
@@ -530,8 +588,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 11时36分]"
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 14时25分]"
         },
         {
           "title": "【早报】美股科技赛道大跌，存储股逆市走高；油价暴涨、黄金跳水；长鑫科技下周一上市",
@@ -541,8 +599,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -552,8 +610,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 14时25分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
+          "url": "https://www.cls.cn/detail/2435694",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时56分 ~ 14时25分]"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -576,18 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "美股收盘：七巨头齐跌特斯拉重挫14% 纳指降2%布油站上100美元",
-          "url": "https://www.cls.cn/detail/2435694",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时56分 ~ 11时36分]"
         },
         {
           "title": "金十图示：2026年07月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -705,8 +764,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "新晋菲尔兹奖得主当天宣布加入OpenAI",
+          "url": "https://www.baidu.com/s?wd=%E6%96%B0%E6%99%8B%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%BD%93%E5%A4%A9%E5%AE%A3%E5%B8%83%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
         {
           "title": "OpenAI：预计将大规模部署AMD的Helios。",
           "url": "https://wallstreetcn.com/livenews/3139011",
@@ -793,7 +863,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         }
@@ -888,7 +958,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价四连涨深圳水贝又挤爆了",
@@ -903,6 +973,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 06时56分]"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时25分"
         },
         {
           "title": "金价跌2%，下探4000美元整数位心理关口",

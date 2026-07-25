@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T04:52:39.630892+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-07-26T05:55:49.827690+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
@@ -37,30 +37,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
-          "title": "伊朗革命卫队发言人：我们不认为当前的冲突是全面战争，而是对美国侵略的回应。",
-          "url": "https://flash.jin10.com/detail/20260726040957254800",
+          "title": "据伊朗学生通讯社：伊拉克消息人士称，伊拉克基尔库克省詹布尔油田发生数次剧烈爆炸并引发大范围火灾。",
+          "url": "https://flash.jin10.com/detail/20260726052806994800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时55分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：伊朗革命卫队发言人表示，如果英国在战争中支持美国，将成为明确且合法的目标。",
-          "url": "https://flash.jin10.com/detail/20260726040625900800",
+          "title": "伊朗就商船遇袭事件召见乌克兰临时代办",
+          "url": "https://flash.jin10.com/detail/20260726045509207800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时55分"
         },
         {
           "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
@@ -74,15 +74,63 @@
           "time_info": "01时58分"
         },
         {
-          "title": "伊朗：新一轮冲突是因美国违反协议而导致",
-          "url": "https://flash.jin10.com/detail/20260726035651334800",
+          "title": "伊朗革命卫队发言人：以色列知道，如果它重回战争而我们集中力量对付它，将会发生什么。",
+          "url": "https://flash.jin10.com/detail/20260726044142198800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时55分"
+        },
+        {
+          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
+          "url": "https://www.cls.cn/detail/2437013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会发言人：伊朗与美国之间的主要争论点是霍尔木兹海峡。 海峡永远不会回到战争前的状态。",
+          "url": "https://flash.jin10.com/detail/20260726025410161800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时16分 ~ 05时55分]"
         },
         {
           "title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。",
@@ -97,16 +145,16 @@
           "time_info": "[01时58分 ~ 03时16分]"
         },
         {
-          "title": "伊朗议会国家安全委员会发言人：伊朗与美国之间的主要争论点是霍尔木兹海峡。 海峡永远不会回到战争前的状态。",
-          "url": "https://flash.jin10.com/detail/20260726025410161800",
+          "title": "伊朗革命卫队发言人：我们不认为当前的冲突是全面战争，而是对美国侵略的回应。",
+          "url": "https://flash.jin10.com/detail/20260726040957254800",
           "source": "金十数据",
           "ranks": [
-            1,
-            14
+            2,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时52分]"
+          "time_info": "[04时52分 ~ 05时55分]"
         },
         {
           "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
@@ -121,39 +169,28 @@
           "time_info": "[01时58分 ~ 03时16分]"
         },
         {
-          "title": "伊朗打击亚马逊数据中心，卫星图像公布",
-          "url": "https://www.cls.cn/detail/2437013",
-          "source": "财联社热门",
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队发言人表示，如果英国在战争中支持美国，将成为明确且合法的目标。",
+          "url": "https://flash.jin10.com/detail/20260726040625900800",
+          "source": "金十数据",
           "ranks": [
-            11,
+            3,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
+          "title": "伊朗：新一轮冲突是因美国违反协议而导致",
+          "url": "https://flash.jin10.com/detail/20260726035651334800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
-        },
-        {
-          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3139764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
         },
         {
           "title": "伊朗：美军伤亡数字远超官方口径",
@@ -166,6 +203,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时16分 ~ 04时52分]"
+        },
+        {
+          "title": "内塔尼亚胡访美之行拟分享伊朗情报问题",
+          "url": "https://flash.jin10.com/detail/20260726033107100800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
         },
         {
           "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
@@ -204,6 +253,18 @@
           "time_info": "[03时16分 ~ 04时52分]"
         },
         {
+          "title": "伊朗外交部谴责乌克兰对里海一艘伊朗商船发动袭击：爆炸造成一名船员死亡，另一名船员受伤。",
+          "url": "https://flash.jin10.com/detail/20260726030022566800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
           "title": "伊朗官员：镐山设施“目前是空的”",
           "url": "https://flash.jin10.com/detail/20260725214500074800",
           "source": "金十数据",
@@ -216,26 +277,15 @@
           "time_info": "[00时56分 ~ 01时58分]"
         },
         {
-          "title": "内塔尼亚胡访美之行拟分享伊朗情报问题",
-          "url": "https://flash.jin10.com/detail/20260726033107100800",
+          "title": "伊朗谴责乌克兰袭击里海商船 警告乌将为此次袭击承担后果",
+          "url": "https://flash.jin10.com/detail/20260726043744206800",
           "source": "金十数据",
           "ranks": [
-            8
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "伊朗外交部谴责乌克兰对里海一艘伊朗商船发动袭击：爆炸造成一名船员死亡，另一名船员受伤。",
-          "url": "https://flash.jin10.com/detail/20260726030022566800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "time_info": "05时55分"
         },
         {
           "title": "伊朗：在战争及停火期间合计出售180亿美元石油",
@@ -262,8 +312,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -275,8 +325,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "特朗普称准备第四次竞选总统",
@@ -286,8 +336,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
@@ -315,6 +365,18 @@
           "time_info": "[01时58分 ~ 04时52分]"
         },
         {
+          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260726031504146800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
           "title": "特朗普下令暂停空袭伊朗",
           "url": "https://flash.jin10.com/detail/20260726013259150800",
           "source": "金十数据",
@@ -327,6 +389,18 @@
           "time_info": "[03时16分 ~ 04时52分]"
         },
         {
+          "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
+          "url": "https://flash.jin10.com/detail/20260726031254710800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
+        },
+        {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
           "url": "https://flash.jin10.com/detail/20260725222304302800",
           "source": "金十数据",
@@ -337,28 +411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时58分]"
-        },
-        {
-          "title": "美国上诉法院拒绝允许实施特朗普限制邮寄投票的行政命令。",
-          "url": "https://flash.jin10.com/detail/20260726031504146800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
-        },
-        {
-          "title": "特朗普：若不能100%得到想要的 将考虑恢复全面战争",
-          "url": "https://flash.jin10.com/detail/20260726031254710800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
         }
       ]
     },
@@ -374,8 +426,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -385,8 +437,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -396,8 +448,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时56分 ~ 04时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时56分 ~ 05时55分]"
         },
         {
           "title": "美股已经有人在提前跑路了",
@@ -415,18 +467,30 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI Codex开发人员Thomas Ricouard：我让5.6 Sol稍微提升几何精度和材质细节，效果令人惊喜。这是一个完全在Blender中构建的场景，可以自由操控和漫游，而且它还能持续从中生成颇有格调的静态画面。",
+          "url": "https://flash.jin10.com/detail/20260726044659225800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时55分"
+        },
         {
           "title": "OpenAI Codex产品负责人Tibo：我们已经为所有Codex和ChatGPT Work用户重置了使用额度。昨夜凌晨2点至4点左右，我们遭遇了一次几乎全球范围的服务中断。目前所有服务均已恢复正常。",
           "url": "https://flash.jin10.com/detail/20260726031905539800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时52分 ~ 05时55分]"
         }
       ]
     }

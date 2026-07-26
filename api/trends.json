@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T05:59:47.691971+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-27T07:04:55.479756+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "乌军袭击商船引发爆炸，伊朗发表声明谴责",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "沙特媒体：伊朗方面称并未退出谈判，愿在日内瓦多地与美国继续谈判",
@@ -47,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "伊朗官员：一艘里海通行伊朗商船遭袭致1死3伤",
@@ -59,33 +61,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
-          "title": "伊朗高层警告乌克兰对伊行动必遭回击",
-          "url": "https://flash.jin10.com/detail/20260727050321722800",
+          "title": "伊朗最高领袖：保卫黎巴嫩是伊“战略使命”",
+          "url": "https://flash.jin10.com/detail/20260727063442708800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "据美联社：美国五角大楼官方公布的伊朗战争死亡人数中，不再包含在近期战斗中丧生的4名美军士兵，他们与207名伤员一同被归入新的“海外行动”类别。",
-          "url": "https://flash.jin10.com/detail/20260727044234525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "07时04分"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -96,8 +88,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
+        },
+        {
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "url": "https://flash.jin10.com/detail/20260727062839831800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3139853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "俄罗斯外交部：阿拉格齐向拉夫罗夫通报了当前为缓和因美国袭击伊朗而引发的中东紧张局势所开展的外交努力。",
@@ -139,16 +155,16 @@
           "time_info": "[01时01分 ~ 04时09分]"
         },
         {
-          "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3139853",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗高层警告乌克兰对伊行动必遭回击",
+          "url": "https://flash.jin10.com/detail/20260727050321722800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "伊朗外交部：我们绝不允许美国在阿拉伯湾和霍尔木兹海峡水域推行霸权。",
@@ -185,6 +201,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时09分 ~ 05时59分]"
+        },
+        {
+          "title": "据美联社：美国五角大楼官方公布的伊朗战争死亡人数中，不再包含在近期战斗中丧生的4名美军士兵，他们与207名伤员一同被归入新的“海外行动”类别。",
+          "url": "https://flash.jin10.com/detail/20260727044234525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
@@ -319,6 +347,39 @@
           "time_info": "[01时01分 ~ 02时08分]"
         },
         {
+          "title": "美国防部：美军因伊朗战事累计伤亡642人",
+          "url": "https://wallstreetcn.com/livenews/3139881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗外交部：伊美间信息交流及斡旋方活动仍在进行",
+          "url": "https://wallstreetcn.com/livenews/3139875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗称超288个美军在中东基地目标于近期冲突中遭打击",
+          "url": "https://wallstreetcn.com/livenews/3139876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
           "title": "伊朗总统批准执行伊斯兰议会内部条例第一条修正案。",
           "url": "https://flash.jin10.com/detail/20260727014228137800",
           "source": "金十数据",
@@ -331,6 +392,17 @@
         },
         {
           "title": "伊朗最高领袖：支持黎真主党并要求全面结束以对黎军事行动",
+          "url": "https://wallstreetcn.com/livenews/3139868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗最高领袖：支持黎真主党并要求全面结束以对黎军事行动",
           "url": "https://flash.jin10.com/detail/20260727015443558800",
           "source": "金十数据",
           "ranks": [
@@ -339,6 +411,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美称暂停对伊朗军事打击，为谈判留出空间",
+          "url": "https://wallstreetcn.com/livenews/3139867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗商船在里海遭袭 伊外长：绝不能不予以回应",
+          "url": "https://wallstreetcn.com/livenews/3139870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
+        },
+        {
+          "title": "以总理：此次访美旨在了解美总统对伊朗问题的想法",
+          "url": "https://wallstreetcn.com/livenews/3139872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时04分"
         },
         {
           "title": "乌克兰袭击伊朗商船 缘何对抗升级",
@@ -365,8 +470,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
@@ -377,8 +482,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
@@ -388,8 +493,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -410,8 +515,20 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
+        },
+        {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "time_info": "[02时07分 ~ 07时04分]"
         },
         {
           "title": "据Axios：美国中央司令部司令库珀建议停止在霍尔木兹海峡周边的轰炸行动，因该行动的效力已达极限。这影响了特朗普周五做出的暂停对伊打击的决定。",
@@ -448,18 +565,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 05时59分]"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时07分 ~ 05时59分]"
         },
         {
           "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
@@ -514,44 +619,48 @@
           "url": "https://flash.jin10.com/detail/20260727043919947800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "特朗普在社交平台上发布伊朗油轮被炸毁的AI图片，并配文“动能已经耗尽”。",
           "url": "https://flash.jin10.com/detail/20260727041540869800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "据华尔街日报：特朗普否认弹药短缺是个问题，他坚称，美国拥有的弹药远超世界上任何国家，也远超实际需求。",
           "url": "https://flash.jin10.com/detail/20260727034547959800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "特朗普在社交平台上发布了一张飞机袭击哈尔克岛的AI图片。",
           "url": "https://flash.jin10.com/detail/20260727034241267800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         },
         {
           "title": "以总理办公室官员：我们同意维和委员会及国际部队进入加沙，这是特朗普计划中规定的内容。",
@@ -578,8 +687,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "提醒：下周一（7月27日）美股盘后，铿腾电子（CDNS）、Rambus将发布业绩报告。 下周二美股盘前，康宁公司（GLW）、波音、可口可乐将发布业绩报告； 美股盘后，希捷科技、恩智浦将、福特汽车发布业绩报告。 下周三美股盘后，微软、Meta、高通、Arm控股、拉姆研究发布业绩报告。 下周四美股盘后，苹果、亚马逊、Coinbase发布业绩报告。 下周五美股盘前，雪佛龙、埃克森美孚发布业绩报告。",
@@ -587,22 +696,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 07时04分]"
         },
         {
           "title": "高盛交易主管：美股“操作难度依然极高”，建议逢低布局黄金",
           "url": "https://wallstreetcn.com/articles/3777937",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 07时04分]"
         }
       ]
     },
@@ -615,11 +726,12 @@
           "url": "https://flash.jin10.com/detail/20260727051159970800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时04分]"
         }
       ]
     }

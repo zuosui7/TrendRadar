@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T16:26:13.124001+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-07-30T19:08:58.427267+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时07分 ~ 19时08分]"
         },
         {
           "title": "特朗普称美国将强力打击伊朗 中东局势升级推动国际油价大幅飙升",
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 13时41分]"
+        },
+        {
+          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
+          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时15分 ~ 19时08分]"
         },
         {
           "title": "又吃糖又犯困，特朗普在美政客葬礼现场小动作惹争议，白宫：他在缅怀",
@@ -84,15 +96,17 @@
           "time_info": "10时15分"
         },
         {
-          "title": "以色列煽风，乌克兰点火，特朗普不为所动",
-          "url": "https://news.ifeng.com/c/8v9V5d2YFtT",
-          "source": "凤凰网",
+          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时15分 ~ 16时26分]"
+          "time_info": "[13时40分 ~ 19时08分]"
         },
         {
           "title": "伊朗武装部队警告特朗普",
@@ -112,18 +126,6 @@
           "source": "凤凰网",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 16时26分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -286,184 +288,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时07分 ~ 13时41分]"
-        },
-        {
-          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
-          "url": "https://wallstreetcn.com/articles/3778176",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 02时08分]"
-        },
-        {
-          "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
-          "url": "https://flash.jin10.com/detail/20260729235733108800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美股盘前，存储概念股持续走低，美光科技跌超2%，SK海力士跌3.5%；Meta Platforms下跌超8%，公司营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低；微软盘前上涨7%，上季业绩强劲，云收入增超40%，资本支出低于预期；高通盘前跌超5%，Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/3142278",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2440482",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 10时15分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 07时07分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2590070",
-          "source": "抖音",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 13时41分]"
-        },
-        {
-          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
-          "url": "https://www.cls.cn/detail/2440809",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 16时26分]"
-        },
-        {
-          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
-          "url": "https://flash.jin10.com/detail/20260730060759487800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美股存储概念股盘前走低，美光科技(MU.O)跌2.6%，SK海力士(SKHY.O)跌4.4%，西部数据(WDC.O)跌1.2%，闪迪(SNDK.O)跌1.5%，希捷科技(STX.O)跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20260730160358409800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "Meta Platforms(META.O)美股盘前下跌8.3%，二季度自由现金流下降91%。微软(MSFT.O)盘前上涨7%，第四财季云业务收入增长超过市场预期。高通(QCOM.O)盘前下跌5.7%，Arm(ARM.O)盘前下跌7.2%。",
-          "url": "https://flash.jin10.com/detail/20260730160146877800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
-          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
-          "url": "https://wallstreetcn.com/livenews/3141937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
-          "url": "https://wallstreetcn.com/livenews/3141779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "Meta美股盘后跌幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/3141919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美股尾盘大跳水原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊媒称伊朗格什姆岛和基什岛遭美军袭击",
@@ -485,8 +311,63 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时15分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时15分 ~ 19时08分]"
+        },
+        {
+          "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
+          "url": "https://news.ifeng.com/c/8vBRvOidAuY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "伊朗声称击中美军F-35战机",
+          "url": "https://flash.jin10.com/detail/20260730185112421800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：周四早上瞄准了位于约旦的美国基地。",
+          "url": "https://wallstreetcn.com/livenews/3142381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
+          "url": "https://news.ifeng.com/c/8vBNVZCUP9m",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "巴基斯坦与伊朗达成协议，确保LNG船安全通行",
+          "url": "https://flash.jin10.com/detail/20260730185056625800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国中央司令部（CENTCOM）：霍尔木兹海峡对国际航运保持开放，合法合规的船舶航行正得到美国军方的支持。自5月以来，美国中央司令部部队已协助约1000艘船只及5亿桶原油顺利通过该海峡。 在威胁霍尔木兹海峡内的商船之后，伊朗伊斯兰革命卫队（IRGC）仍在要求国际海员仅使用其指定的航线。",
@@ -568,6 +449,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：当地时间周四上午袭击了约旦的美军基地。",
+          "url": "https://flash.jin10.com/detail/20260730184525154800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
           "title": "美称伊朗发射导弹袭击驻中东美军",
           "url": "https://www.douyin.com/hot/2588834",
           "source": "抖音",
@@ -577,6 +469,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "据伊朗劳工新闻通讯社（ILNA）：伊朗方面表示与阿曼就霍尔木兹海峡管理的谈判仍在继续。",
+          "url": "https://flash.jin10.com/detail/20260730184106307800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "市场消息：巴基斯坦在与伊朗的协议中，确保了液化天然气运输的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260730183840606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "据以色列i24News：一位美国官员表示，夜间对伊朗的空袭强度和范围大约是之前行动的两倍。",
@@ -636,8 +561,195 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时07分 ~ 13时41分]"
+        },
+        {
+          "title": "FOMC和巨头财报在即，特朗普称将对伊朗进行打击，美股指跌幅扩大，道指跌超1.5%，布油涨超6%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时21分 ~ 02时08分]"
+        },
+        {
+          "title": "美股三大股指悉数跌超1%，标普500指数跌幅扩大至1%，纳指现跌1.3%，道指现跌1.6%。",
+          "url": "https://flash.jin10.com/detail/20260729235733108800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美股盘前，存储概念股持续走低，美光科技跌超2%，SK海力士跌3.5%；Meta Platforms下跌超8%，公司营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低；微软盘前上涨7%，上季业绩强劲，云收入增超40%，资本支出低于预期；高通盘前跌超5%，Q3财季净利润同比下滑25%，上调产品售价并给出疲软业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3142278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "SK海力士美股盘前转涨，此前一度跌近5%，报道称SK集团会长崔泰源买入3600股SK海力士。",
+          "url": "https://wallstreetcn.com/livenews/3142380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美联储决议前市场情绪谨慎 美股期指走弱 油价飙升近6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2440482",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 10时15分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 07时07分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2590070",
+          "source": "抖音",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 13时41分]"
+        },
+        {
+          "title": "7月30日投资避雷针：美股三大指数集体下跌 光通信、存储板块继续大跌",
+          "url": "https://www.cls.cn/detail/2440809",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时25分 ~ 16时26分]"
+        },
+        {
+          "title": "微软(MSFT.O)公布一系列财务指引，美股盘后涨幅扩大至8%。",
+          "url": "https://flash.jin10.com/detail/20260730060759487800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股存储概念股盘前走低，美光科技(MU.O)跌2.6%，SK海力士(SKHY.O)跌4.4%，西部数据(WDC.O)跌1.2%，闪迪(SNDK.O)跌1.5%，希捷科技(STX.O)跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260730160358409800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "Meta Platforms(META.O)美股盘前下跌8.3%，二季度自由现金流下降91%。微软(MSFT.O)盘前上涨7%，第四财季云业务收入增长超过市场预期。高通(QCOM.O)盘前下跌5.7%，Arm(ARM.O)盘前下跌7.2%。",
+          "url": "https://flash.jin10.com/detail/20260730160146877800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "微软预计2026年（根据会计调整的）资本开支为1750亿美元，之前预计1900亿美元。 微软美股盘后涨幅扩大至8%。",
+          "url": "https://wallstreetcn.com/livenews/3141937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股费城半导体指数下跌4%，英伟达下跌2.98%，台积电下跌3.67%，博通下跌1.87%，SK海力士下跌1.28%，美光科技下跌5%，美国超微公司下跌5.51%，英特尔下跌3.36%，阿斯麦下跌2.73%，泛林集团下跌5.28%，ArmHoldings下跌6.73%，闪迪下跌8.04%，高通下跌2.84%，迈威尔科技下跌4.82%，西部数据下跌0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3141779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "Meta美股盘后跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3141919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美股尾盘大跳水原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B0%BE%E7%9B%98%E5%A4%A7%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "为什么 ChatGPT 已经发布 4 年了，社会总生产力纹丝不动？",
@@ -645,11 +757,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时15分 ~ 16时26分]"
+          "appearance_count": 6,
+          "time_info": "[10时15分 ~ 19时08分]"
+        },
+        {
+          "title": "欧盟委员会发言人：ChatGPT和Roblox均已宣布用户数量超过数字服务法（DSA）阈值。",
+          "url": "https://flash.jin10.com/detail/20260730185354553800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "OpenAI 、 Anthropic 等上千员工联名请愿美政府控制 AI 发展速度，反映了什么？有何影响？",
@@ -684,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时08分"
+        },
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "Analog Devices Inc.（ADI）：漏洞与OpenAI无关。",
@@ -730,11 +865,12 @@
           "source": "华尔街见闻",
           "ranks": [
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[07时07分 ~ 19时08分]"
         },
         {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",

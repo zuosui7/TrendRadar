@@ -1,44 +1,45 @@
 {
-  "generated_at": "2026-08-02T02:01:14.908012+08:00",
-  "total_titles_processed": 364,
+  "generated_at": "2026-08-02T03:22:20.277443+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
-          "url": "https://flash.jin10.com/detail/20260802010534825800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "据以色列第13频道：以色列高级官员称，预计特朗普将很快下令恢复战斗。以色列已进入最高警戒状态。",
-          "url": "https://flash.jin10.com/detail/20260802010333953800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
           "url": "https://wallstreetcn.com/articles/3778460",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
+        },
+        {
+          "title": "以媒：特朗普接近批准袭击伊朗能源设施",
+          "url": "https://news.ifeng.com/c/8vFPS4k24LG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
+          "url": "https://flash.jin10.com/detail/20260802022303381800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -48,8 +49,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
+          "url": "https://flash.jin10.com/detail/20260802021825118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
@@ -59,8 +71,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "特朗普：伊朗确实挺硬气",
@@ -70,8 +82,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
+        },
+        {
+          "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
+          "url": "https://flash.jin10.com/detail/20260802010534825800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时22分]"
+        },
+        {
+          "title": "据以色列第13频道：以色列高级官员称，预计特朗普将很快下令恢复战斗。以色列已进入最高警戒状态。",
+          "url": "https://flash.jin10.com/detail/20260802010333953800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时22分]"
         },
         {
           "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
@@ -81,8 +117,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
+          "url": "https://flash.jin10.com/detail/20260802003624770800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 03时22分]"
         },
         {
           "title": "特朗普说伊朗确实挺硬气",
@@ -96,15 +144,37 @@
           "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "美国总统特朗普：不同意联邦检察官皮罗关于倒影池的看法。",
-          "url": "https://flash.jin10.com/detail/20260802003624770800",
+          "title": "特朗普Truth Social发布帖文：由于特朗普总统，石油出口正在激增！",
+          "url": "https://flash.jin10.com/detail/20260802021650818800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国前副总统哈里斯：特朗普是个孤立主义者，口口声声“美国优先”，但由于他未能理解美国所扮演的角色——尽管这一角色并不完美——他已经造成了两方面的后果，第一，让美国看上去不再是可靠的合作伙伴；第二，他让美国如今在全球事务中发挥影响力的权威降至前所未有的低。",
+          "url": "https://flash.jin10.com/detail/20260802014640512800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国前副总统哈里斯：（关于伊朗战争）这场战争是现任总统特朗普主动选择卷入的冲突，他与以色列联手开战，而对美国而言，并不存在明确的国家安全问题。",
+          "url": "https://flash.jin10.com/detail/20260802014407605800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "03时22分"
         },
         {
           "title": "特朗普威胁参议员通过其司法部长人选",
@@ -121,18 +191,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "据以色列第13频道：白宫表示，伊朗将付出巨大的代价，直到它回到谈判桌上。",
           "url": "https://flash.jin10.com/detail/20260802010749771800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时22分]"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -142,8 +213,54 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时22分]"
+        },
+        {
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时22分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时22分]"
+        },
+        {
+          "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
+          "url": "https://flash.jin10.com/detail/20260802010107992800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时01分]"
+          "time_info": "[02时01分 ~ 03时22分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
+          "url": "https://flash.jin10.com/detail/20260802004243455800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时22分]"
         },
         {
           "title": "美财长称正在全球范围内追查伊朗资产",
@@ -158,48 +275,15 @@
           "time_info": "[00时09分 ~ 02时01分]"
         },
         {
-          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
-          "url": "https://wallstreetcn.com/livenews/3143616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时01分]"
-        },
-        {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时01分]"
-        },
-        {
-          "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
-          "url": "https://flash.jin10.com/detail/20260802010107992800",
+          "title": "阿联酋外交部：伊朗的侵略性攻击公然违反了科威特的主权，并对其安全与稳定构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260802015032659800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
-          "url": "https://flash.jin10.com/detail/20260802004243455800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "03时22分"
         },
         {
           "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
@@ -211,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "伊朗用了新武器",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%94%A8%E4%BA%86%E6%96%B0%E6%AD%A6%E5%99%A8%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -226,8 +321,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -254,8 +349,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
@@ -265,8 +360,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     },
@@ -282,8 +377,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     },
@@ -299,8 +394,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 03时22分]"
         }
       ]
     }

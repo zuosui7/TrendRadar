@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T19:21:40.960344+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-08-01T21:18:35.671231+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -48,11 +48,25 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
@@ -65,19 +79,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 12时21分]"
-        },
-        {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -135,17 +136,6 @@
           "time_info": "06时05分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
-          "url": "https://flash.jin10.com/detail/20260801184158588800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）总统特使威特科夫、库什纳、美国副总统万斯、美国国务卿鲁比奥参与谈判。",
           "url": "https://flash.jin10.com/detail/20260801002313960800",
           "source": "金十数据",
@@ -179,6 +169,19 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 21时18分]"
+        },
+        {
           "title": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基需要让步。",
           "url": "https://wallstreetcn.com/livenews/3143395",
           "source": "华尔街见闻-快讯",
@@ -189,6 +192,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 02时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
+          "url": "https://flash.jin10.com/detail/20260801184158588800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
         },
         {
           "title": "特朗普对伊朗失去信心，称对方撒谎",
@@ -215,16 +230,15 @@
           "time_info": "[00时45分 ~ 02时21分]"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 19时21分]"
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -327,6 +341,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
           "title": "美国总统特朗普声称：我们只想赢（得伊朗战争）。 我们将非常沉重地打击他们。 未来数周将打击他们。",
           "url": "https://wallstreetcn.com/livenews/3143387",
           "source": "华尔街见闻-快讯",
@@ -336,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "美国总统特朗普：美国代理司法部长布兰奇应该获得批准。",
@@ -369,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "美国总统特朗普：（关于国际足联）我们从未谈及交易。",
@@ -528,7 +553,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -571,22 +596,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
-          "url": "https://flash.jin10.com/detail/20260801184828572800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -600,26 +615,15 @@
           "time_info": "06时05分"
         },
         {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20260801183717159800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "21时18分"
         },
         {
           "title": "伊朗警告打击美以能源基础设施",
@@ -644,15 +648,15 @@
           "time_info": "00时45分"
         },
         {
-          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260801183237897800",
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "21时18分"
         },
         {
           "title": "【伊朗称已关闭霍尔木兹海峡，美中央司令部否认】7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。 7月31日稍早，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。（央视）",
@@ -678,6 +682,30 @@
           "time_info": "[00时45分 ~ 06时05分]"
         },
         {
+          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
+          "url": "https://flash.jin10.com/detail/20260801184828572800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
+        },
+        {
           "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
           "url": "https://flash.jin10.com/detail/20260801164731787800",
           "source": "金十数据",
@@ -690,6 +718,30 @@
           "time_info": "[17时59分 ~ 19时21分]"
         },
         {
+          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20260801183717159800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260801183237897800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
+        },
+        {
           "title": "伊朗军方称近期使用新型无人机",
           "url": "https://wallstreetcn.com/livenews/3143579",
           "source": "华尔街见闻-快讯",
@@ -700,6 +752,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时59分 ~ 19时21分]"
+        },
+        {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时59分 ~ 21时18分]"
         },
         {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
@@ -726,18 +791,6 @@
           "time_info": "[02时20分 ~ 04时20分]"
         },
         {
-          "title": "伊朗军方称近期使用新型无人机",
-          "url": "https://flash.jin10.com/detail/20260801163642334800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 19时21分]"
-        },
-        {
           "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
           "url": "https://wallstreetcn.com/livenews/3143576",
           "source": "华尔街见闻-快讯",
@@ -759,6 +812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时20分 ~ 12时21分]"
+        },
+        {
+          "title": "伊朗西部伊斯兰阿巴德西吉尔附近听到爆炸声。",
+          "url": "https://wallstreetcn.com/livenews/3143589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
         },
         {
           "title": "伊朗警告称美国海军封锁可能导致更多海峡关闭",
@@ -807,24 +872,13 @@
           "time_info": "06时05分"
         },
         {
-          "title": "伊朗西部伊斯兰阿巴德西吉尔附近听到爆炸声。",
-          "url": "https://wallstreetcn.com/livenews/3143589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "美国无力消除霍尔木兹海峡的伊朗威胁",
           "url": "https://flash.jin10.com/detail/20260801173833419800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -953,7 +1007,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "DeepSeek 居然会对用户说「我去吃饭了」「我去睡了」，为啥会出现这样的现象？",
@@ -964,8 +1018,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时27分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 21时18分]"
         },
         {
           "title": "DeepSeek V4 flash 正式版发布，有哪些亮点值得关注？",
@@ -1064,6 +1118,18 @@
           "time_info": "[12时20分 ~ 15时27分]"
         },
         {
+          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
+          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时18分]"
+        },
+        {
           "title": "DeepSeek拟在内蒙古建超算中心",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E5%9C%A8%E5%86%85%E8%92%99%E5%8F%A4%E5%BB%BA%E8%B6%85%E7%AE%97%E4%B8%AD%E5%BF%83",
           "source": "bilibili 热搜",
@@ -1098,17 +1164,6 @@
           "time_info": "00时45分"
         },
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "DeepSeek V4 Flash模型权重发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%20Flash",
           "source": "bilibili 热搜",
@@ -1118,6 +1173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "DeepSeekV4Flash 便宜",
+          "url": "https://s.weibo.com/weibo?q=DeepSeekV4Flash%20%E4%BE%BF%E5%AE%9C&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     },
@@ -1147,8 +1213,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 21时18分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -1162,18 +1242,16 @@
           "time_info": "[00时45分 ~ 06时05分]"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
             9,
-            8,
-            12,
-            13
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 21时18分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -1187,17 +1265,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 06时05分]"
-        },
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 19时21分]"
         },
         {
           "title": "美股三大股指全线收涨",
@@ -1270,8 +1337,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -1313,7 +1380,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1405,8 +1472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 21时18分]"
         },
         {
           "title": "美联储没加息，30年期美债为何先“破防”？｜大师复盘",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T03:08:52.106486+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-08-03T04:55:36.934404+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -15,30 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时08分]"
-        },
-        {
-          "title": "沙特阿拉伯外长与伊朗外长通电话，讨论降低紧张局势的外交努力。",
-          "url": "https://flash.jin10.com/detail/20260803024302941800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
-          "url": "https://wallstreetcn.com/livenews/3143732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时55分]"
         },
         {
           "title": "伊朗总统：签署的谅解备忘录是沙姆成员（黎凡特地区国家）集体智慧的成果，所有成员对此表示认同。我相信，这份谅解备忘录将成为我们未来对外关系的核心。我们必须努力迫使敌人遵守其签署的承诺。这份谅解备忘录将提升我们国家、地区以及盟友的安全。",
@@ -47,9 +25,60 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
+          "url": "https://wallstreetcn.com/livenews/3143732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼谈判接近完成",
+          "url": "https://wallstreetcn.com/livenews/3143714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
+          "url": "https://wallstreetcn.com/livenews/3143712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
+          "url": "https://wallstreetcn.com/livenews/3143711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
         },
         {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
@@ -76,16 +105,29 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
-          "title": "伊朗外长：伊朗与阿曼谈判接近完成",
-          "url": "https://wallstreetcn.com/livenews/3143714",
-          "source": "华尔街见闻-快讯",
+          "title": "沙特阿拉伯外长与伊朗外长通电话，讨论降低紧张局势的外交努力。",
+          "url": "https://flash.jin10.com/detail/20260803024302941800",
+          "source": "金十数据",
           "ranks": [
             1,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
+          "url": "https://wallstreetcn.com/livenews/3143710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
         },
         {
           "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
@@ -100,16 +142,17 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
-          "title": "伊朗：与阿曼之间关于霍尔木兹海峡管理的磋商处于最终阶段，对话不涉及海峡的关闭或开放",
-          "url": "https://wallstreetcn.com/livenews/3143712",
+          "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
+          "url": "https://wallstreetcn.com/livenews/3143709",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            14
+            5,
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
         },
         {
           "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
@@ -118,18 +161,6 @@
           "ranks": [
             3,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
-        },
-        {
-          "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
-          "url": "https://wallstreetcn.com/livenews/3143711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -148,18 +179,6 @@
           "time_info": "[00时02分 ~ 01时11分]"
         },
         {
-          "title": "伊朗外交部发言人：美国的威胁早已司空见惯，德黑兰将基于自身利益采取行动，不会受各类威胁影响。 伊朗与巴基斯坦、土耳其官员会谈时谈及美方发出的警告与威胁，美方称遭到若伊朗袭击，美方将采取报复行动。",
-          "url": "https://wallstreetcn.com/livenews/3143710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
-        },
-        {
           "title": "黎巴嫩力量党主席萨米尔·贾加：这场危机只有在伊朗政权垮台或至少改变其行为和影响力的情况下才能结束。",
           "url": "https://flash.jin10.com/detail/20260803005516815800",
           "source": "金十数据",
@@ -172,16 +191,17 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
-          "title": "伊朗议会国家安全委员会：调停方正提供协助，以期重启与美国的谅解备忘录谈判。 各方正就所有议题交换意见。",
-          "url": "https://wallstreetcn.com/livenews/3143709",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗回应打击巴林亚马逊数据中心",
+          "url": "https://www.toutiao.com/trending/7669231761053859882/",
+          "source": "今日头条",
           "ranks": [
-            5,
-            17
+            28,
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 04时55分]"
         },
         {
           "title": "伊朗外交部发言人：我们接到了来自英国、乌克兰和保加利亚的电话，他们表示不会参与这场战争。",
@@ -196,6 +216,18 @@
           "time_info": "[01时11分 ~ 03时08分]"
         },
         {
+          "title": "伊朗最高领袖：伊朗和伊拉克是两个紧密相连的民族，彼此相连。",
+          "url": "https://wallstreetcn.com/livenews/3143725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
           "title": "阿拉格齐：伊朗与阿曼谈判接近完成",
           "url": "https://flash.jin10.com/detail/20260803005246093800",
           "source": "金十数据",
@@ -206,6 +238,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时08分]"
+        },
+        {
+          "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
+          "url": "https://wallstreetcn.com/livenews/3143715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "伊朗代理防长：敌方任何威胁都值得重视",
@@ -230,29 +274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时11分]"
-        },
-        {
-          "title": "伊朗回应打击巴林亚马逊数据中心",
-          "url": "https://www.toutiao.com/trending/7669231761053859882/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 03时08分]"
-        },
-        {
-          "title": "伊朗最高领袖：伊朗和伊拉克是两个紧密相连的民族，彼此相连。",
-          "url": "https://wallstreetcn.com/livenews/3143725",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         },
         {
           "title": "伊朗外交部发言人：对方知道，我们对任何针对我们的冒险行为将作出强烈回应。",
@@ -299,15 +320,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
-          "url": "https://wallstreetcn.com/livenews/3143715",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗学生通讯社：在乌克兰袭击中遇袭的伊朗商船船员及遇难船员遗体已返回伊朗。",
+          "url": "https://flash.jin10.com/detail/20260803030602050800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "04时55分"
         },
         {
           "title": "伊朗外交部发言人：华盛顿未按期允许霍尔木兹海峡航运恢复，并在期限届满前对我们发动攻击。",
@@ -330,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "伊朗总统：与美国的谅解备忘录将成为我们未来外交关系的核心",
+          "url": "https://flash.jin10.com/detail/20260803023011765800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "伊朗外交部发言人：与阿曼的谈判旨在寻找霍尔木兹海峡的共同机制。",
@@ -371,7 +403,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -434,7 +466,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -444,8 +476,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         },
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -455,8 +487,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 03时08分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 04时55分]"
+        },
+        {
+          "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
+          "url": "https://wallstreetcn.com/livenews/3143739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "以称内塔尼亚胡通过特朗普社媒得知美叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260803040451593800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -467,19 +521,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         },
         {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
           "url": "https://www.cls.cn/detail/2443463",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -489,8 +544,56 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
+        },
+        {
+          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
+          "url": "https://flash.jin10.com/detail/20260803015627779800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
+          "url": "https://flash.jin10.com/detail/20260803014329998800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
+          "url": "https://wallstreetcn.com/livenews/3143717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
+          "url": "https://flash.jin10.com/detail/20260803013751190800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
@@ -505,59 +608,16 @@
           "time_info": "[00时02分 ~ 01时11分]"
         },
         {
-          "title": "据以色列第12频道：相关人士称，尽管特朗普发表了声明，以色列国防军今天仍保持高度警戒，认为伊朗可能会制造意外情况。",
-          "url": "https://flash.jin10.com/detail/20260803015627779800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据以色列第12频道：以色列官员估计特朗普可能会再次改变对伊朗的立场。",
-          "url": "https://flash.jin10.com/detail/20260803014329998800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
-          "url": "https://wallstreetcn.com/livenews/3143717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
-          "url": "https://flash.jin10.com/detail/20260803013751190800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
           "url": "https://flash.jin10.com/detail/20260803013114997800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "据以色列广播公司：一位以色列官员表示，特朗普处理事务的方式使得认真准备和规划未来变得困难。",
@@ -566,7 +626,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -574,7 +634,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -583,11 +643,12 @@
           "ranks": [
             10,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -598,8 +659,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -616,8 +688,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         }
       ]
     },
@@ -634,8 +706,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时08分]"
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时55分]"
         }
       ]
     }

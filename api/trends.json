@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:59:18.453776+08:00",
-  "total_titles_processed": 628,
+  "generated_at": "2026-08-03T11:33:07.575092+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时59分]"
+        },
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼谈判接近完成",
@@ -119,7 +130,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -282,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时08分]"
+        },
+        {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "据伊朗学生通讯社：在乌克兰袭击中遇袭的伊朗商船船员及遇难船员遗体已返回伊朗。",
@@ -500,8 +522,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 11时33分]"
+        },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
           "url": "https://news.ifeng.com/c/8vGSlnonKX0",
@@ -514,15 +547,18 @@
           "time_info": "[00时01分 ~ 07时59分]"
         },
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
           "ranks": [
-            1
+            8,
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 11时33分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -538,19 +574,6 @@
           "time_info": "[00时01分 ~ 07时59分]"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
-        },
-        {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
           "source": "知乎",
@@ -560,6 +583,40 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 06时56分]"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时33分]"
         },
         {
           "title": "以总理通过特朗普社媒得知美叫停对伊打击，“我们有几个小时处于完全的信息真空”",
@@ -722,6 +779,17 @@
           "time_info": "[06时56分 ~ 07时59分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "据以色列广播公司：以色列官员对伊朗的铀库存以及特朗普政府对德黑兰行为的承诺表示质疑。",
           "url": "https://flash.jin10.com/detail/20260803013751190800",
           "source": "金十数据",
@@ -758,24 +826,13 @@
           "time_info": "[03时08分 ~ 04时55分]"
         },
         {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
           "url": "https://flash.jin10.com/detail/20260803064716887800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -877,6 +934,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        },
+        {
+          "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260803104538415800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
@@ -906,11 +974,12 @@
           "ranks": [
             13,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 11时33分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -930,7 +999,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -938,11 +1007,23 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时59分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 11时33分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T00:12:52.958831+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-08-05T03:06:45.489736+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "美媒：伊朗考虑允许欧洲在霍尔木兹海峡进行排雷",
@@ -41,15 +52,50 @@
           "time_info": "00时12分"
         },
         {
-          "title": "伊朗总统回应辞职传闻",
-          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
-          "source": "凤凰网",
+          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，如果美国停止对伊朗及其利益的侵略和犯罪行为，并满足所有必要条件以及既定要求，海峡局势才可能恢复到一个月前的状态。",
+          "url": "https://flash.jin10.com/detail/20260805023522601800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：一位接近谈判团队的消息人士表示，即使谈判最终促成伊朗与阿曼之间达成双边协议，该协议本身也无法提供确保霍尔木兹海峡安全所需的全部条件。",
+          "url": "https://flash.jin10.com/detail/20260805023452753800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "03时06分"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "美国媒体：伊朗立场软化，考虑允许欧洲国家清除霍尔木兹海峡的水雷",
@@ -63,15 +109,37 @@
           "time_info": "00时12分"
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
+          "title": "据伊朗法尔斯通讯社：仍然担心美国或某些地区方的阻挠行为可能会延长或干扰谈判进程。",
+          "url": "https://flash.jin10.com/detail/20260805022308055800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”，重点是确保航行安全",
+          "url": "https://wallstreetcn.com/livenews/3144895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：最近，一些美国官员通过直接或与地区伙伴的沟通发出了混合信号，导致谈判进程受到干扰。",
+          "url": "https://flash.jin10.com/detail/20260805022300329800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "03时06分"
         },
         {
           "title": "伊媒：尽管美国加以阻挠，伊朗与阿曼关于霍尔木兹海峡的谈判仍进入新阶段",
@@ -96,32 +164,77 @@
           "time_info": "00时12分"
         },
         {
-          "title": "伊朗：乌克兰道歉了",
-          "url": "https://www.douyin.com/hot/2596757",
-          "source": "抖音",
+          "title": "美民主党议员致信赫格塞思 质疑五角大楼对伊朗战争的伤亡统计",
+          "url": "https://flash.jin10.com/detail/20260805014624929800",
+          "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗：与阿曼就霍尔木兹海峡谈判取得“积极进展”",
+          "url": "https://flash.jin10.com/detail/20260805012901694800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "淡水河谷CEO：伊朗战争造成诸多项目的速度放缓。",
+          "url": "https://wallstreetcn.com/livenews/3144883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗外交部发言人Baghaei：将制定霍尔木兹海峡通航所需要的机制。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3144878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
+          "url": "https://wallstreetcn.com/livenews/3144874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至6％，闪迪涨幅扩大至10.8％，英特尔涨超9％，美光科技、AMD涨超7％，高通涨超6％。",
@@ -135,26 +248,61 @@
           "time_info": "00时12分"
         },
         {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
           "url": "https://wallstreetcn.com/articles/3778638",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3144900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "03时06分"
+        },
+        {
+          "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
+          "url": "https://flash.jin10.com/detail/20260805015406320800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美股三大股指均涨逾2%，费城半导体指数涨超7%",
+          "url": "https://flash.jin10.com/detail/20260805014841288800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         },
         {
           "title": "美股科技泡沫要破了吗",
@@ -178,22 +326,24 @@
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -203,8 +353,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -214,8 +364,48 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
+          "url": "https://flash.jin10.com/detail/20260805020906830800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "03时06分"
+        },
+        {
+          "title": "卡塔尔埃米尔：卡塔尔埃米尔接到美国总统特朗普的电话。",
+          "url": "https://flash.jin10.com/detail/20260805020734751800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时06分"
         }
       ]
     },
@@ -224,22 +414,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-          "url": "https://wallstreetcn.com/livenews/3144861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
           "title": "OpenAI降价,老日高喊中国万岁",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
             25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
+        },
+        {
+          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+          "url": "https://wallstreetcn.com/livenews/3144861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -284,11 +474,12 @@
           "url": "https://wallstreetcn.com/articles/3778620",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "appearance_count": 2,
+          "time_info": "[00时12分 ~ 03时06分]"
         }
       ]
     },
@@ -302,23 +493,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,

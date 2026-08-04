@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T04:24:07.619181+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-05T06:11:27.186400+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "美媒：伊朗考虑允许欧洲在霍尔木兹海峡进行排雷",
@@ -79,11 +79,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -95,8 +96,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "美国媒体：伊朗立场软化，考虑允许欧洲国家清除霍尔木兹海峡的水雷",
@@ -108,6 +109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美国国防部长赫格塞思驳斥CNN称美军在伊朗冲突期间消耗了近80%的萨德反导拦截弹。",
+          "url": "https://flash.jin10.com/detail/20260805054050371800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "据伊朗法尔斯通讯社：仍然担心美国或某些地区方的阻挠行为可能会延长或干扰谈判进程。",
@@ -160,7 +172,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -193,7 +205,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -215,7 +227,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -256,7 +268,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -267,8 +279,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
@@ -279,8 +291,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "金十图示：2026年08月04日（周二）热门中概股行情一览（美股收盘）",
@@ -289,9 +301,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "美股存储芯片指数初步收涨6.8%，费城半导体指数涨6.9%。 标普500指数初步收涨1.9%，科技板块涨4.4%，原材料、工业、金融板块至少涨1%，能源板块跌0.5%。 纳斯达克100指数初步收涨3.4%，成分股中，Palantir初步收涨超29%，Arm控股涨17.1%，美满电子涨13.3%，英特尔涨11.3%，闪迪涨10.7%，泰瑞达、Lumentum、拉姆研究、SpaceX至少涨超8%，Intuitive Surgical Inc.跌1.9%，核电股CEG跌2.1%，亚马逊跌2.3%跌幅第二大，Diamondback Energy跌3.4%。 卡特彼勒初步收涨6.1%，与思科、IBM、安进、高盛、英伟达、家得宝、Salesforce领跑道指成分股。",
@@ -300,7 +324,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -314,18 +338,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
         },
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -346,9 +358,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "周二（8月4日），美股存储芯片与硬件供应链指数涨6.74%，报202.90点。 成分股闪迪收涨10.84%，泰瑞达涨10.32%，Rambus、拉姆研究、美光科技至少涨7.62%，应用材料、西部数据至少涨4.05%，希捷科技涨1.72%。此外，SK海力士ADR涨8.17%。",
+          "url": "https://wallstreetcn.com/livenews/3144978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美股收盘：道指、标普500创新高 海力士涨8%",
@@ -357,9 +380,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "英伟达美股盘后涨2%，马斯克此前在电话会上谈及SpaceX算力计划。",
+          "url": "https://wallstreetcn.com/livenews/3144976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
+          "url": "https://www.cls.cn/detail/2445760",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -390,7 +435,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -409,7 +454,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -420,8 +465,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普：我的真实民调正处于最好水平",
+          "url": "https://flash.jin10.com/detail/20260805054537400800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普政府关税退税达1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260805053320970800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "【报道：特朗普政府退还约1000亿美元关税】自从美国最高法院否决其使用紧急权力（征收关税）以来，特朗普政府已发放了约1000亿美元的关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3144974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美国总统特朗普称，美国移民与海关执法局（ICE）7月逮捕约51000名非法外籍人员，打破历史最高纪录，日均逮捕1645人。 此前6月逮捕人数约43000人，创下当时的历史峰值，这意味着移民与海关执法局已连续两个月执法力度达到历史高位。",
@@ -430,9 +508,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
+          "url": "https://wallstreetcn.com/livenews/3144972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普就美伊局势通话 呼吁继续对话",
+          "url": "https://flash.jin10.com/detail/20260805052751847800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "美官员：霍尔木兹海峡临时航线免许可免收费，特朗普对伊朗谈判大门仍敞开",
@@ -441,7 +541,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -480,11 +580,12 @@
           "ranks": [
             4,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "中国版“生物DeepSeek”诞生",
@@ -493,11 +594,12 @@
           "ranks": [
             6,
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "疑似梁文锋早期微博被扒",
@@ -507,8 +609,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "DeepSeek斩杀了谁",
@@ -518,14 +620,14 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -535,8 +637,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -548,6 +650,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数大致持稳，日元连涨多日之后高位企稳",
+          "url": "https://wallstreetcn.com/livenews/3144923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3144848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260805045508425800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
@@ -580,34 +743,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数大致持稳，日元连涨多日之后高位企稳",
-          "url": "https://wallstreetcn.com/livenews/3144923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "恒天然：8月4日全球乳品贸易（GDT）拍卖价格指数上升0.1%，奶粉各合同期拍卖均价3,778美元/吨。 批发奶粉价格指数上升0.2%，报3,483美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3144848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -620,8 +755,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时12分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 06时11分]"
         }
       ]
     }

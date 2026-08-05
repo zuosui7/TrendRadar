@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T20:52:16.636248+08:00",
-  "total_titles_processed": 1376,
+  "generated_at": "2026-08-05T23:13:18.650141+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -42,6 +42,17 @@
           "time_info": "[12时08分 ~ 20时52分]"
         },
         {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时13分]"
+        },
+        {
           "title": "美财长透露与伊朗达成协议时间",
           "url": "https://news.ifeng.com/c/8vKxCYCwO7C",
           "source": "凤凰网",
@@ -51,17 +62,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 18时34分]"
-        },
-        {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -121,6 +121,28 @@
           "time_info": "03时06分"
         },
         {
+          "title": "福克斯新闻：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://flash.jin10.com/detail/20260805223254370800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "报道：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://wallstreetcn.com/livenews/3145467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
           "url": "https://www.cls.cn/detail/2445217",
           "source": "财联社热门",
@@ -140,7 +162,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -217,7 +239,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -310,6 +332,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "现货白银日内涨幅达5.0%，报62.5美元/盎司。 纽约金日内涨幅达3.0%，报4279美元/盎司。 据美国财政部，美国撤销了涉伊朗相关制裁。",
+          "url": "https://wallstreetcn.com/livenews/3145448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "伊朗否认会谈 美方为何强调还在谈",
           "url": "https://www.toutiao.com/trending/7670363922322427438/",
           "source": "今日头条",
@@ -327,7 +360,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -390,7 +423,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -417,6 +450,18 @@
           "time_info": "[12时08分 ~ 18时34分]"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时13分]"
+        },
+        {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
           "url": "https://flash.jin10.com/detail/20260805115022056800",
           "source": "金十数据",
@@ -437,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "特朗普推进移民执法 美国驱逐令签发量6月升至历史新高",
+          "url": "https://wallstreetcn.com/livenews/3145469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "美国总统特朗普：我在经济方面应该得个A+，食品和杂货的“价格都在下降。”",
@@ -476,22 +532,23 @@
           "url": "https://www.cls.cn/detail/2446327",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时13分]"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件",
-          "url": "https://www.toutiao.com/trending/7670517654829927979/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E4%B9%98%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%81%AD%E9%81%87%E9%A3%9E%E8%A1%8C%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
           "ranks": [
-            15
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "美国总统特朗普：如果没有摩擦，汽油价格将降至每加仑2.5美元。",
@@ -654,7 +711,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -695,7 +752,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -745,6 +802,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 08时02分]"
+        },
+        {
+          "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
@@ -801,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2446634",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "标普500指数涨超2%，美股费城半导体指数涨幅扩大至7.15%。英伟达股价上涨2.49%，博通股价上涨7.49%，超威半导体股价上涨9.08%，阿斯麦ADR上涨3.63%，英特尔股价上涨10.87%。 道指涨1090点，涨幅2.05%。",
@@ -954,6 +1033,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 23时13分]"
+        },
+        {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
           "url": "https://www.zhihu.com/question/2067873642554156045",
           "source": "知乎",
@@ -977,18 +1069,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时12分 ~ 08时02分]"
-        },
-        {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 20时52分]"
         },
         {
           "title": "中国版“生物DeepSeek”诞生",
@@ -1041,7 +1121,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI降价,老日高喊中国万岁",
@@ -1064,6 +1144,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 18时34分]"
+        },
+        {
+          "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
+          "url": "https://www.zhihu.com/question/2068265537105302957",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
@@ -1209,7 +1300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -1227,8 +1318,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时51分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[20时51分 ~ 23时13分]"
         }
       ]
     }

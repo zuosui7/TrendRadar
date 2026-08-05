@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:39:45.722746+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-08-05T18:34:19.664668+08:00",
+  "total_titles_processed": 1214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时34分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时34分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -188,6 +188,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3145320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "报道：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
           "url": "https://wallstreetcn.com/livenews/3144915",
           "source": "华尔街见闻-快讯",
@@ -298,6 +309,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
+          "url": "https://wallstreetcn.com/livenews/3145296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "美议员质疑美军伊朗战事伤亡统计",
           "url": "https://www.toutiao.com/trending/7669940984565792819/",
           "source": "今日头条",
@@ -323,7 +345,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -346,8 +368,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时34分]"
         },
         {
           "title": "美国总统特朗普：事情似乎进展顺利，如果霍尔木兹海峡开放，汽油价格将会下降。",
@@ -436,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-05）",
+          "url": "https://flash.jin10.com/detail/20260805181255161800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普政府关税退税达1000亿美元",
@@ -584,7 +617,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -760,6 +793,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
           "url": "https://flash.jin10.com/detail/20260805015406320800",
           "source": "金十数据",
@@ -817,69 +861,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI降价,老日高喊中国万岁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 08时02分]"
-        },
-        {
-          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
-          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时39分]"
-        },
-        {
-          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-          "url": "https://wallstreetcn.com/livenews/3144861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
-          "url": "https://flash.jin10.com/detail/20260805052416082800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "OpenAI模型在第三方网络测试中突破安全边界",
-          "url": "https://wallstreetcn.com/livenews/3144962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -930,6 +913,89 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时12分 ~ 06时11分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 08时02分]"
+        },
+        {
+          "title": "苹果状告OpenAI，反遭嘲讽：律师连邮件都发不对",
+          "url": "https://news.ifeng.com/c/8vKzM4B96pz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时34分]"
+        },
+        {
+          "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
+          "url": "https://wallstreetcn.com/livenews/3144861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
+          "url": "https://flash.jin10.com/detail/20260805052416082800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "OpenAI模型在第三方网络测试中突破安全边界",
+          "url": "https://wallstreetcn.com/livenews/3144962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
@@ -1026,8 +1092,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 18时34分]"
         }
       ]
     }

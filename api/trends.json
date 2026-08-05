@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T18:34:19.664668+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-08-05T20:52:16.636248+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8vKnanF6ECv",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 20时52分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时08分 ~ 18时34分]"
+        },
+        {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -122,6 +134,17 @@
           "time_info": "[00时12分 ~ 06时11分]"
         },
         {
+          "title": "伊朗总统与哈马斯领导人通话 表示支持巴勒斯坦人民",
+          "url": "https://wallstreetcn.com/livenews/3145393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "美国媒体：伊朗立场软化，考虑允许欧洲国家清除霍尔木兹海峡的水雷",
           "url": "https://wallstreetcn.com/livenews/3144859",
           "source": "华尔街见闻-快讯",
@@ -188,13 +211,24 @@
           "time_info": "00时12分"
         },
         {
+          "title": "据CBS新闻：伊朗和阿曼目前正在谈判的重开霍尔木兹海峡的（临时）方案，将对通过该水道的船只免收通行费或服务费。",
+          "url": "https://flash.jin10.com/detail/20260805202726611800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "【伊朗称霍尔木兹海峡不会立即开放】据伊朗国家电视台今天（8月5日）援引知情人士消息，伊朗与阿曼就霍尔木兹海峡船舶通行安排可能达成的协议，并不意味着海峡将立即恢复开放。消息称，伊朗与阿曼的相关谈判仅涉及双方就船舶通行秩序进行协调，与美国无关。消息人士同时表示，如果美国继续存在伊朗方面所称的“违规行为”，即便伊朗与阿曼达成协议，霍尔木兹海峡也不会恢复开放，其重新开放仍取决于美国改变相关行为并纠正其“违规行为”。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3145320",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -287,6 +321,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "伊朗媒体称是否开放霍尔木兹海峡取决于美方行为",
+          "url": "https://wallstreetcn.com/livenews/3145374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "伊朗外交部发言人Baghaei：将制定霍尔木兹海峡通航所需要的机制。（伊朗媒体IRIB）",
           "url": "https://wallstreetcn.com/livenews/3144878",
           "source": "华尔街见闻-快讯",
@@ -315,7 +360,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -345,7 +390,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -427,6 +472,28 @@
           "time_info": "12时08分"
         },
         {
+          "title": "最快今日宣布！霍尔木兹开放协议据悉接近达成 特朗普发声助阵",
+          "url": "https://www.cls.cn/detail/2446327",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://www.toutiao.com/trending/7670517654829927979/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "美国总统特朗普：如果没有摩擦，汽油价格将降至每加仑2.5美元。",
           "url": "https://flash.jin10.com/detail/20260805114320665800",
           "source": "金十数据",
@@ -466,7 +533,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -581,6 +648,17 @@
           "time_info": "03时06分"
         },
         {
+          "title": "特朗普所乘直升机遭遇飞行安全事件",
+          "url": "https://wallstreetcn.com/livenews/3145385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "卡塔尔埃米尔：卡塔尔埃米尔接到美国总统特朗普的电话。",
           "url": "https://flash.jin10.com/detail/20260805020734751800",
           "source": "金十数据",
@@ -617,7 +695,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -749,6 +827,17 @@
           "time_info": "[06时11分 ~ 08时02分]"
         },
         {
+          "title": "美伊协议预期升温，美股盘前SpaceX下跌7%、AMD跌超7%，黄金涨3%突破4200，油价走高",
+          "url": "https://wallstreetcn.com/articles/3778704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "SpaceX(SPCX.O)美股盘后涨超1%。",
           "url": "https://flash.jin10.com/detail/20260805040357009800",
           "source": "金十数据",
@@ -799,7 +888,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         },
@@ -862,7 +951,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -890,6 +979,18 @@
           "time_info": "[00时12分 ~ 08时02分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时34分 ~ 20时52分]"
+        },
+        {
           "title": "中国版“生物DeepSeek”诞生",
           "url": "https://www.toutiao.com/trending/7670182284162502194/",
           "source": "今日头条",
@@ -915,15 +1016,15 @@
           "time_info": "[00时12分 ~ 06时11分]"
         },
         {
-          "title": "梁文锋会不会成为中国AI里程碑人物？",
-          "url": "https://www.zhihu.com/question/10315979917",
-          "source": "知乎",
+          "title": "DeepSeek和GPT AI牛马最佳组合",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%92%8CGPT%20AI%E7%89%9B%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%BB%84%E5%90%88&t=31&band_rank=22&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek干完活自己写了个游戏",
@@ -932,7 +1033,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
         }
@@ -1092,8 +1193,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 20时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌正就一笔超过15亿美元的交易与AI编码代理初创公司Mechanize进行谈判。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3145391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价重回900元大关",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E900%E5%85%83%E5%A4%A7%E5%85%B3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
         }
       ]
     }

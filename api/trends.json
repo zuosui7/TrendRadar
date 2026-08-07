@@ -1,342 +1,160 @@
 {
-  "generated_at": "2026-08-07T22:31:53.129815+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2026-08-08T00:54:21.319449+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 24,
+      "keyword_group": "伊朗",
+      "match_count": 11,
       "titles": [
         {
-          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
-          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时50分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普签署行政令，宣布加征关税",
-          "url": "https://news.ifeng.com/c/8vNvJb617ek",
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时50分 ~ 16时14分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
-          "url": "https://www.cls.cn/detail/2447939",
-          "source": "财联社热门",
+          "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
+          "url": "https://flash.jin10.com/detail/20260808002305574800",
+          "source": "金十数据",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 14时09分]"
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            6,
-            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
+          "url": "https://wallstreetcn.com/livenews/3146838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
+          "url": "https://wallstreetcn.com/livenews/3146833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时54分 ~ 22时31分]"
-        },
-        {
-          "title": "乌兹别克斯坦方面称，乌兹别克斯坦总统与美国总统特朗普通电话。",
-          "url": "https://flash.jin10.com/detail/20260807222418037800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
-          "url": "https://www.cls.cn/detail/2447915",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时50分 ~ 14时09分]"
-        },
-        {
-          "title": "特朗普谈霍尔木兹海峡：进展顺利。",
-          "url": "https://wallstreetcn.com/livenews/3146315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "白宫顾问哈塞特：我确定特朗普没有向沃什提供利率建议",
-          "url": "https://wallstreetcn.com/livenews/3146787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
-          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 16时15分]"
-        },
-        {
-          "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
-          "url": "https://news.ifeng.com/c/8uzN3iPy76f",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 19时02分]"
-        },
-        {
-          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
-          "url": "https://wallstreetcn.com/livenews/3146430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
-        },
-        {
-          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
-          "url": "https://www.cls.cn/detail/2447932",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
-        },
-        {
-          "title": "法院裁决显示，美国上诉法院阻止了特朗普4亿美元的白宫宴会厅项目，但暂停执行相关裁决，为期14天，以便政府向最高法院提出上诉。",
-          "url": "https://flash.jin10.com/detail/20260807221921850800",
+          "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
+          "url": "https://flash.jin10.com/detail/20260808000114815800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         },
         {
-          "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
-          "url": "https://flash.jin10.com/detail/20260807073607063800",
+          "title": "伊朗德黑兰市长扎卡尼：伊朗不会放弃追求正义，直到对罪犯实施最终惩罚。",
+          "url": "https://flash.jin10.com/detail/20260807234812979800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
+          "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
         },
         {
-          "title": "美国总统特朗普：（谈及霍尔木兹海峡）进展顺利。",
-          "url": "https://flash.jin10.com/detail/20260807073117453800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "特朗普再称对伊朗战争将很快结束",
-          "url": "https://wallstreetcn.com/livenews/3146368",
+          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
+          "url": "https://wallstreetcn.com/livenews/3146828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "00时54分"
         },
         {
-          "title": "特朗普签署针对出生公民权的行政令",
-          "url": "https://www.toutiao.com/trending/7671022114153529394/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "白宫国家经济委员会主任哈塞特：特朗普和沃什时时刻刻谈论经济问题。",
-          "url": "https://flash.jin10.com/detail/20260807220824000800",
+          "title": "据伊通社（IRNA）：伊朗副外长表示，海湾安全必须由地区国家确保，无需外部干涉。",
+          "url": "https://flash.jin10.com/detail/20260807234249085800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "特朗普称继续支持国防部长赫格塞思",
-          "url": "https://wallstreetcn.com/livenews/3146357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
+          "time_info": "00时54分"
         },
         {
-          "title": "白宫国家经济委员会主任哈塞特：我相信美国总统特朗普不会给美联储主席沃什关于利率的建议。",
-          "url": "https://flash.jin10.com/detail/20260807220744224800",
+          "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
+          "url": "https://flash.jin10.com/detail/20260807233951248800",
           "source": "金十数据",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "特朗普将与矿企高管开会",
-          "url": "https://wallstreetcn.com/livenews/3146650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "特朗普承认部分弹药供应“相对紧张”",
-          "url": "https://wallstreetcn.com/livenews/3146293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "特朗普承认某些弹药供应紧张",
-          "url": "https://flash.jin10.com/detail/20260807061416820800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 22时31分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 14时09分]"
-        },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
           "ranks": [
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 22时31分]"
-        },
-        {
-          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3146560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "00时54分"
+        },
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -345,9 +163,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -356,186 +174,109 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
           "url": "https://www.cls.cn/detail/2448478",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时31分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 降息预期升温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "00时54分"
         },
         {
-          "title": "非农超预期下降，美股盘前快速拉升、存储概念股走高，光通信股AAOI涨超15%，现货黄金突破4300",
-          "url": "https://wallstreetcn.com/articles/3778924",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "美股存储板块跌幅进一步扩大",
-          "url": "https://flash.jin10.com/detail/20260807221528873800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2600354",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "美股三大指数集体收跌 西数跌超13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            15
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
+          "url": "https://flash.jin10.com/detail/20260808001738444800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
-          "title": "美国7月非农超预期下降，美股三大股指集体高开",
-          "url": "https://wallstreetcn.com/livenews/3146763",
+          "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3146757",
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
+          "url": "https://flash.jin10.com/detail/20260807234317790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 19时02分]"
-        },
-        {
-          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
-          "url": "https://www.zhihu.com/question/2068637080209421054",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时50分 ~ 16时15分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            18,
-            19,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时58分 ~ 19时02分]"
-        },
         {
           "title": "梁文锋 只想用座机",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时31分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时50分]"
-        },
-        {
-          "title": "DeepSeek终于打算激进扩张了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
-          "url": "https://www.zhihu.com/question/2068637080209421054",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -545,356 +286,70 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时14分 ~ 22时31分]"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 10时50分]"
-        },
-        {
-          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
-          "url": "https://www.toutiao.com/trending/7671088097861307923/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时54分 ~ 14时09分]"
-        },
-        {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
-        },
-        {
-          "title": "DeepSeek官宣涨价，且“幅度较大”！",
-          "url": "https://wallstreetcn.com/articles/3778814",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时50分"
-        },
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时15分 ~ 22时31分]"
-        },
-        {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 22时31分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
-          "url": "https://www.cls.cn/detail/2447874",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 14时09分]"
-        },
-        {
-          "title": "ADNOC：（自从美国+以色列对伊朗发动战争以来）公司15艘船只遭到打击。 在霍尔木兹海峡遭到的打击中，一人死亡、20人受伤。 仍然受到地区局势的“沉重”影响。",
-          "url": "https://wallstreetcn.com/livenews/3146786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
-          "url": "https://flash.jin10.com/detail/20260807074227443800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
-          "url": "https://www.zhihu.com/question/2068728009981440588",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
-          "url": "https://flash.jin10.com/detail/20260807070032047800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "日本石油公司ENEOS首席财务官：伊朗战争结束后，我们需要中长期内扩大石油储备，并实现原油采购来源多元化。将与政府紧密协调，加强石油供应链的韧性。",
-          "url": "https://flash.jin10.com/detail/20260807132544810800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "伊朗发视频隐喻美国国运衰落原因",
-          "url": "https://www.toutiao.com/trending/7671188288800899082/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
-          "url": "https://wallstreetcn.com/livenews/3146751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-          "url": "https://www.zhihu.com/question/2068631767326660517",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        },
         {
           "title": "核心团队跑路,Gemini陷大危机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
-        {
-          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
+        },
+        {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI智能音箱定价逾300美元，iPhone设计之父操刀设计“甜甜圈”外形",
-          "url": "https://wallstreetcn.com/articles/3778889",
-          "source": "华尔街见闻",
+          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
-          "url": "https://flash.jin10.com/detail/20260807120847851800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
-          "url": "https://flash.jin10.com/detail/20260807155143219800",
-          "source": "金十数据",
+          "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
+          "url": "https://wallstreetcn.com/livenews/3146816",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国非农数据公布后，美股股指期货快速拉升，纳指期货日内涨0.79%，标普500指数期货涨0.39%，道指期货涨0.27%。美债价格飙升，10年期美国国债收益率目前下跌4.29个基点，报4.627%；非美货币普遍走高，美元兑日元短线走低80点，报157.72。",
-          "url": "https://wallstreetcn.com/livenews/3146733",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
-          "title": "7月非农就业数据疲软，美债价格飙升。",
-          "url": "https://flash.jin10.com/detail/20260807203421543800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
-          "url": "https://wallstreetcn.com/livenews/3146770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "00时54分"
         }
       ]
     }

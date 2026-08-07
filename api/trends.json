@@ -1,11 +1,172 @@
 {
-  "generated_at": "2026-08-08T00:54:21.319449+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:49:36.196569+08:00",
+  "total_titles_processed": 376,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
+          "url": "https://flash.jin10.com/detail/20260808011808390800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
+          "url": "https://flash.jin10.com/detail/20260808001738444800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "哈塞特称特朗普与沃什经常讨论经济问题",
+          "url": "https://flash.jin10.com/detail/20260808011630958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3146836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
+        },
+        {
+          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
+          "url": "https://flash.jin10.com/detail/20260807234317790800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
+          "url": "https://wallstreetcn.com/livenews/3146844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美媒：特朗普推进罢免美联储理事库克 以“严重失职”为由正式启动罢免程序",
+          "url": "https://flash.jin10.com/detail/20260808010047168800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "报道：特朗普继续推进罢免美联储理事库克",
+          "url": "https://wallstreetcn.com/livenews/3146842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美国总统特朗普：两名奥巴马和拜登任命的联邦上诉法院法官刚刚投票反对这个迫切需要的军事中心。该中心对于华盛顿特区以及美国国家安全本身都是必需的。这显然是对裁量权的严重滥用。",
+          "url": "https://flash.jin10.com/detail/20260808005505559800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美国总统特朗普：我们将立即向美国最高法院提出上诉。",
+          "url": "https://flash.jin10.com/detail/20260808005050504800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "美国总统特朗普：法院有关舞厅项目的裁决必须由最高法院全面推翻。",
+          "url": "https://flash.jin10.com/detail/20260808005043099800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "据ABC新闻：特朗普在最高法院遭遇挫折后，仍继续推进解雇美联储理事丽莎·库克的尝试。",
+          "url": "https://flash.jin10.com/detail/20260808004923983800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        },
+        {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -15,8 +176,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
+        },
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -30,37 +202,62 @@
           "time_info": "00时54分"
         },
         {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
+          "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
+          "url": "https://wallstreetcn.com/livenews/3146860",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时49分"
+        },
+        {
+          "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
           "url": "https://wallstreetcn.com/livenews/3146838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://wallstreetcn.com/livenews/3146833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
+        },
+        {
+          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
+          "url": "https://wallstreetcn.com/livenews/3146828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -88,17 +285,6 @@
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
-          "url": "https://wallstreetcn.com/livenews/3146828",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
@@ -142,8 +328,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -153,8 +339,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -164,8 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -175,8 +361,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
@@ -186,80 +372,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "美股存储板块集体大跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
           "source": "百度热搜",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
-          "url": "https://flash.jin10.com/detail/20260808001738444800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。 Warren要求各家公司提供消费者关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3146836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "特朗普提名律师丹妮尔·图曼·塞弗斯出任美国联邦通信委员会（FCC）委员。",
-          "url": "https://flash.jin10.com/detail/20260807234317790800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
-          "url": "https://wallstreetcn.com/livenews/3146814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         }
       ]
     },
@@ -272,11 +398,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
           "source": "百度热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -286,8 +413,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         }
       ]
     },
@@ -300,11 +427,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时49分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -321,7 +449,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
@@ -333,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
         }
       ]
     },

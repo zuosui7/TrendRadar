@@ -1,105 +1,34 @@
 {
-  "generated_at": "2026-08-07T07:58:59.772629+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-07T10:50:25.849246+08:00",
+  "total_titles_processed": 480,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "DeepSeek终于打算激进扩张了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
-          "url": "https://www.zhihu.com/question/2068637080209421054",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
           "url": "https://www.cls.cn/detail/2447939",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "特朗普签署行政令，宣布加征关税",
+          "url": "https://news.ifeng.com/c/8vNvJb617ek",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时50分"
         },
         {
           "title": "特朗普谈霍尔木兹海峡：进展顺利。",
@@ -111,6 +40,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "据华尔街日报：特朗普已下令对五角大楼弹药储备泄露事件展开新的调查，政府官员表示，这是他为应对有关伊朗战争的破坏性信息披露而采取的最新升级举措。",
@@ -135,6 +97,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "特朗普再称对伊朗战争将很快结束",
+          "url": "https://wallstreetcn.com/livenews/3146368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
           "title": "特朗普签署针对出生公民权的行政令",
           "url": "https://www.toutiao.com/trending/7671022114153529394/",
           "source": "今日头条",
@@ -144,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "特朗普称继续支持国防部长赫格塞思",
+          "url": "https://wallstreetcn.com/livenews/3146357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -170,6 +154,114 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "DeepSeek终于打算激进扩张了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E7%BB%88%E4%BA%8E%E6%89%93%E7%AE%97%E6%BF%80%E8%BF%9B%E6%89%A9%E5%BC%A0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 6,
       "titles": [
@@ -183,6 +275,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
+          "url": "https://www.cls.cn/detail/2447874",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -201,17 +305,6 @@
           "source": "金十数据",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
-          "url": "https://www.cls.cn/detail/2447874",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -243,29 +336,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时50分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时50分"
         },
         {
           "title": "美股三大指数集体收跌 西数跌超13%",
@@ -282,7 +388,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -294,6 +400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",

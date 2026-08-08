@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:40:22.564083+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-08-08T17:37:12.340867+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -16,8 +16,23 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 17时37分]"
+        },
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时40分]"
+          "time_info": "[12时56分 ~ 17时37分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -32,8 +47,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时53分 ~ 16时40分]"
+          "appearance_count": 16,
+          "time_info": "[03时53分 ~ 17时37分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -47,20 +62,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时25分 ~ 16时40分]"
-        },
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时56分 ~ 16时40分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -240,6 +241,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时53分 ~ 05时38分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -478,7 +490,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -492,6 +504,18 @@
           "time_info": "[00时54分 ~ 09时27分]"
         },
         {
+          "title": "是否将辞职？伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时25分 ~ 17时37分]"
+        },
+        {
           "title": "以情报高官疑因伊朗行动失败被解职",
           "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
           "source": "凤凰网",
@@ -503,18 +527,6 @@
           "time_info": "[00时54分 ~ 07时33分]"
         },
         {
-          "title": "是否将辞职？伊朗总统最新发声",
-          "url": "https://news.ifeng.com/c/8vPtnVvufXW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 16时40分]"
-        },
-        {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
           "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
           "source": "凤凰网",
@@ -522,8 +534,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时49分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 17时37分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -559,11 +571,12 @@
           "ranks": [
             1,
             2,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时52分 ~ 16时40分]"
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 17时37分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -586,17 +599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
-        },
-        {
-          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
-          "url": "https://wallstreetcn.com/livenews/3146979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -647,6 +649,18 @@
           "time_info": "[00时54分 ~ 02时55分]"
         },
         {
+          "title": "伊朗总统称敌人未能将伊朗推入崩溃",
+          "url": "https://wallstreetcn.com/livenews/3146979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时37分]"
+        },
+        {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
           "url": "https://wallstreetcn.com/livenews/3146859",
           "source": "华尔街见闻-快讯",
@@ -668,6 +682,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时33分]"
+        },
+        {
+          "title": "曝美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://www.toutiao.com/trending/7671436241469538350/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时37分]"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -720,6 +746,29 @@
           "time_info": "[00时54分 ~ 01时49分]"
         },
         {
+          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+          "url": "https://wallstreetcn.com/livenews/3146980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 17时37分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
           "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
           "url": "https://wallstreetcn.com/livenews/3146828",
           "source": "华尔街见闻-快讯",
@@ -732,17 +781,6 @@
           "time_info": "[00时54分 ~ 01时49分]"
         },
         {
-          "title": "曝美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://www.toutiao.com/trending/7671436241469538350/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
-        },
-        {
           "title": "伊朗外交部长表示，面对全球军费开支最高的军队，伊朗实力强大的武装部队已展现出自身的备战状态、作战能力与军事力量。",
           "url": "https://wallstreetcn.com/livenews/3146865",
           "source": "华尔街见闻-快讯",
@@ -752,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
-        },
-        {
-          "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
-          "url": "https://wallstreetcn.com/livenews/3146980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -956,22 +983,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时40分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
           "appearance_count": 11,
-          "time_info": "[06时34分 ~ 16时40分]"
+          "time_info": "[09时27分 ~ 17时37分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -985,8 +998,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时37分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[06时34分 ~ 17时37分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1077,11 +1105,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时40分 ~ 17时37分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -1144,11 +1173,12 @@
           "ranks": [
             5,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时27分 ~ 16时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时27分 ~ 17时37分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -1162,8 +1192,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时53分 ~ 16时40分]"
+          "appearance_count": 16,
+          "time_info": "[03时53分 ~ 17时37分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -1335,8 +1365,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时54分 ~ 16时40分]"
+          "appearance_count": 20,
+          "time_info": "[00时54分 ~ 17时37分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1363,8 +1393,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时51分 ~ 16时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时51分 ~ 17时37分]"
         }
       ]
     },

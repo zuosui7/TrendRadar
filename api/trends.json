@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T18:33:56.526215+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-08-09T20:48:01.221829+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -76,6 +76,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 11时42分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 20时48分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -156,19 +169,6 @@
           "time_info": "[11时42分 ~ 18时33分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 18时33分]"
-        },
-        {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
           "url": "https://wallstreetcn.com/livenews/3146999",
           "source": "华尔街见闻-快讯",
@@ -206,6 +206,22 @@
           "time_info": "[11时42分 ~ 14时55分]"
         },
         {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            6,
+            7,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 20时48分]"
+        },
+        {
           "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
           "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
           "source": "凤凰网",
@@ -217,19 +233,48 @@
           "time_info": "[11时42分 ~ 18时33分]"
         },
         {
-          "title": "伊朗总统说必须摆脱非战非和局面",
-          "url": "https://wallstreetcn.com/livenews/3147050",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            5,
-            6,
-            7,
-            10
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 18时33分]"
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
         },
         {
           "title": "伊朗外长再重申目前未与美国谈判",
@@ -237,11 +282,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 20时48分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -254,17 +300,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时33分 ~ 05时29分]"
-        },
-        {
-          "title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只",
-          "url": "https://wallstreetcn.com/livenews/3147066",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -357,6 +392,18 @@
           "time_info": "[16时41分 ~ 18时33分]"
         },
         {
+          "title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只",
+          "url": "https://wallstreetcn.com/livenews/3147066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 20时48分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
           "url": "https://flash.jin10.com/detail/20260808225609300800",
           "source": "金十数据",
@@ -443,6 +490,17 @@
           "time_info": "[15时54分 ~ 17时39分]"
         },
         {
+          "title": "伊朗陆军司令：将回应任何敌对行动",
+          "url": "https://www.toutiao.com/trending/7671949132243763263/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
           "title": "伊朗外长强调霍尔木兹海峡未重新开放",
           "url": "https://flash.jin10.com/detail/20260809163624666800",
           "source": "金十数据",
@@ -503,6 +561,17 @@
           "time_info": "[02时36分 ~ 03时29分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.douyin.com/hot/2603545",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
           "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，现在达成协议的最佳时机，因为伊朗是“强大而团结的，在战争中被视为胜利者”。",
           "url": "https://flash.jin10.com/detail/20260808224230628800",
           "source": "金十数据",
@@ -526,15 +595,37 @@
           "time_info": "[00时32分 ~ 00时33分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
+        },
+        {
           "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
           "url": "https://flash.jin10.com/detail/20260809181113625800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3147079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -554,7 +645,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -581,6 +672,28 @@
           "time_info": "09时39分"
         },
         {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://wallstreetcn.com/livenews/3147075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "伊朗陆军司令：将对任何敌对行动作出坚决回应",
+          "url": "https://wallstreetcn.com/livenews/3147074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
           "title": "据阿曼国家通讯社：阿曼方面谴责（伊朗）在霍尔木兹海峡过境时对船只的反复攻击。",
           "url": "https://flash.jin10.com/detail/20260808215846341800",
           "source": "金十数据",
@@ -590,12 +703,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "伊朗最高领袖与总统举行会谈",
+          "url": "https://flash.jin10.com/detail/20260809191842613800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
+          "url": "https://wallstreetcn.com/livenews/3147068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
+          "url": "https://flash.jin10.com/detail/20260809190537023800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
+          "url": "https://flash.jin10.com/detail/20260809185800231800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
+        },
+        {
+          "title": "伊朗央行禁止银行超额提款",
+          "url": "https://flash.jin10.com/detail/20260809183958442800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -605,8 +784,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 20时48分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -692,8 +871,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 20时48分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -706,17 +885,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
-          "url": "https://wallstreetcn.com/livenews/3147067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -746,6 +914,30 @@
           "time_info": "[14时55分 ~ 16时41分]"
         },
         {
+          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
+          "url": "https://wallstreetcn.com/livenews/3147067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 20时48分]"
+        },
+        {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时33分 ~ 20时48分]"
+        },
+        {
           "title": "舒默怒斥特朗普：你在哪个星球",
           "url": "https://www.toutiao.com/trending/7671480510048452651/",
           "source": "今日头条",
@@ -770,17 +962,6 @@
           "time_info": "[01时29分 ~ 02时36分]"
         },
         {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
           "url": "https://flash.jin10.com/detail/20260808205550359800",
           "source": "金十数据",
@@ -790,12 +971,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -804,11 +996,25 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 20时48分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 20时48分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -838,19 +1044,6 @@
           "time_info": "[00时32分 ~ 18时33分]"
         },
         {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 18时33分]"
-        },
-        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -860,8 +1053,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时42分 ~ 18时33分]"
+          "appearance_count": 9,
+          "time_info": "[11时42分 ~ 20时48分]"
+        },
+        {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时47分 ~ 20时48分]"
         }
       ]
     },
@@ -915,8 +1119,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 20时48分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -994,8 +1198,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 20时48分]"
         }
       ]
     }

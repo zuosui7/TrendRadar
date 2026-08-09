@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T00:34:23.349090+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-10T02:39:11.661436+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -37,19 +49,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
+          "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
+          "url": "https://flash.jin10.com/detail/20260810022129742800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时39分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗总统府负责新闻与通信事务的副主任宣布，伊朗最高领袖穆杰塔巴任命穆赫辛·雷扎伊为其在国家安全委员会的代表。",
+          "url": "https://flash.jin10.com/detail/20260810015638671800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -59,19 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
-          "url": "https://flash.jin10.com/detail/20260809234510218800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -81,8 +93,42 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时39分]"
+        },
+        {
+          "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
+          "url": "https://flash.jin10.com/detail/20260809234510218800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 02时39分]"
+        },
+        {
+          "title": "伊朗陆军司令：将回应任何敌对行动",
+          "url": "https://www.toutiao.com/trending/7671949132243763263/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 02时39分]"
+        },
+        {
+          "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
+          "url": "https://flash.jin10.com/detail/20260810011547418800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时39分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -94,12 +140,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：也门国家抵抗力量表示，胡塞武装是伊朗的工具，其决策权掌握在伊朗手中。该组织企图通过制造混乱、激化紧张局势来为伊朗服务，以帮助其缓解外部压力。也门国家抵抗力量强调，胡塞武装并非和平工具，而是“战争工具”，与其达成和平毫无可能。该组织同时警告，胡塞武装的冒险行为绝不会被姑息纵容。",
+          "url": "https://flash.jin10.com/detail/20260810003151519800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -109,8 +166,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -120,8 +177,30 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
+        },
+        {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 02时39分]"
+        },
+        {
+          "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260810010023977800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时34分"
+          "time_info": "02时39分"
         },
         {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
@@ -159,8 +238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -170,8 +249,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
+          "appearance_count": 3,
+          "time_info": "[00时34分 ~ 02时39分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:39:28.896896+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2026-08-10T17:20:04.580728+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -54,11 +54,12 @@
             27,
             25,
             17,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 15时39分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 17时20分]"
         },
         {
           "title": "伊朗高层变动，最高领袖发出新任命",
@@ -68,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 15时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 17时20分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -81,6 +82,40 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 17时20分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -108,17 +143,6 @@
           "time_info": "09时43分"
         },
         {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -128,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
-        },
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
@@ -158,7 +171,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -200,18 +213,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时31分]"
-        },
-        {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 15时39分]"
         },
         {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
@@ -344,7 +345,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -358,6 +359,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "伊朗军方称美军敢来就斩断他们的脚",
+          "url": "https://flash.jin10.com/detail/20260810164954295800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "伊朗称谈判代表将在“适当的时候”访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3147367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         },
         {
           "title": "伊朗高层重要人事变动",
@@ -391,6 +414,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗：乌克兰必须为袭击伊朗货轮赔偿",
+          "url": "https://flash.jin10.com/detail/20260810163758674800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "伊朗正在改写霍尔木兹航线？",
+          "url": "https://flash.jin10.com/detail/20260810163601223800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "伊朗：与阿曼有关霍尔木兹海峡的协议包含海上服务费。",
+          "url": "https://wallstreetcn.com/livenews/3147358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放海峡需美国结束封锁并予以赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3147356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },
@@ -407,8 +474,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时38分 ~ 15时39分]"
+          "appearance_count": 13,
+          "time_info": "[02时38分 ~ 17时20分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -433,6 +500,19 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 17时20分]"
+        },
+        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
@@ -444,6 +524,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时43分 ~ 17时20分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -470,29 +562,15 @@
           "time_info": "11时54分"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 15时39分]"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时43分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 17时20分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -508,15 +586,28 @@
           "time_info": "[02时39分 ~ 05时31分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时54分 ~ 15时39分]"
+          "time_info": "[15时39分 ~ 17时20分]"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时39分 ~ 17时20分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -567,17 +658,6 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -598,17 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
-        },
-        {
-          "title": "前美国官员：特朗普使美国安全恶化",
-          "url": "https://www.toutiao.com/trending/7671249968112173098/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -712,8 +781,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "城堡证券今年来首次喊多黄金：五大催化剂共振有望引爆金价",
+          "url": "https://flash.jin10.com/detail/20260810165318145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
+        },
         {
           "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
           "url": "https://flash.jin10.com/detail/20260810151012200800",
@@ -721,7 +801,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -739,6 +819,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek为何重启融资",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%BA%E4%BD%95%E9%87%8D%E5%90%AF%E8%9E%8D%E8%B5%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 17时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -749,11 +846,29 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时54分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时54分 ~ 17时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴克莱：日本投资者7月份减持美债 买入欧洲发达市场债券",
+          "url": "https://wallstreetcn.com/livenews/3147365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时20分"
         }
       ]
     },

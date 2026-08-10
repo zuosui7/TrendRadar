@@ -1,33 +1,35 @@
 {
-  "generated_at": "2026-08-10T07:31:28.172329+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-08-10T09:43:23.654475+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
-        },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
           "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -35,22 +37,24 @@
           "source": "今日头条",
           "ranks": [
             4,
-            2
+            2,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
           "ranks": [
-            3
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -62,6 +66,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -78,13 +93,24 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
+          "title": "伊朗议会批准霍尔木兹海峡安全纲要",
+          "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -95,7 +121,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -263,6 +289,17 @@
           "time_info": "[02时38分 ~ 02时39分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -283,12 +320,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "伊朗公布美军基地遭袭前后卫星对比图",
+          "url": "https://www.toutiao.com/trending/7671344515512762409/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -302,6 +350,18 @@
           "time_info": "[00时34分 ~ 06时31分]"
         },
         {
+          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时38分 ~ 09时43分]"
+        },
+        {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
           "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
           "source": "凤凰网",
@@ -311,17 +371,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
-        },
-        {
-          "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748556",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时38分 ~ 07时31分]"
         },
         {
           "title": "特朗普称正在“低调处理”伊朗问题",
@@ -398,6 +447,39 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
+        },
+        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -418,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
+          "url": "https://wallstreetcn.com/livenews/3147162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时43分"
         }
       ]
     },
@@ -433,8 +526,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -445,8 +538,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时34分 ~ 09时43分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -456,8 +549,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时31分 ~ 07时31分]"
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 09时43分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",

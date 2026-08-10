@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:26:44.647999+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-08-10T15:39:28.896896+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -53,11 +53,23 @@
             2,
             27,
             25,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 13时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 15时39分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 15时39分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时26分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -107,6 +108,17 @@
           "time_info": "09时43分"
         },
         {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -118,6 +130,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
           "url": "https://flash.jin10.com/detail/20260810063550783800",
           "source": "金十数据",
@@ -127,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部发言人：（就麦加防御协定回应称）过去三年间，地区各国已意识到，安全绝非是可以从欺诈性中间商那里购买的商品。任何基于现实、正确识别敌人与威胁的计划，都有助于维护地区安全，并防止以色列制造动荡。",
+          "url": "https://flash.jin10.com/detail/20260810152449467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
@@ -166,6 +200,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时31分]"
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 15时39分]"
         },
         {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
@@ -232,17 +278,6 @@
           "time_info": "[05时31分 ~ 07时31分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时26分]"
-        },
-        {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
           "url": "https://flash.jin10.com/detail/20260810011547418800",
           "source": "金十数据",
@@ -303,6 +338,17 @@
           "time_info": "[02时38分 ~ 02时39分]"
         },
         {
+          "title": "伊朗外交部发言人：我们呼吁地区各国在没有外部势力介入的情况下加强关系、增进互信并维护安全。",
+          "url": "https://flash.jin10.com/detail/20260810152044806800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -331,7 +377,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -350,7 +396,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -361,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时38分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[02时38分 ~ 15时39分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -433,8 +479,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 15时39分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -445,8 +491,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 15时39分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -462,6 +508,17 @@
           "time_info": "[02时39分 ~ 05时31分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 15时39分]"
+        },
+        {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
           "url": "https://flash.jin10.com/detail/20260810033626643800",
           "source": "金十数据",
@@ -472,17 +529,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时26分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -521,6 +567,17 @@
           "time_info": "[04时31分 ~ 05时31分]"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -538,9 +595,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -560,7 +628,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
         },
@@ -593,6 +661,19 @@
           "time_info": "[00时34分 ~ 09时43分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时31分 ~ 15时39分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -603,18 +684,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 09时43分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时31分 ~ 13时26分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -635,9 +704,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260810151012200800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
+          "url": "https://flash.jin10.com/detail/20260810110224681800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
@@ -651,28 +748,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时54分 ~ 13时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
-          "url": "https://flash.jin10.com/detail/20260810110224681800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "appearance_count": 3,
+          "time_info": "[11时54分 ~ 15时39分]"
         }
       ]
     },

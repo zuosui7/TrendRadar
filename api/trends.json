@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T15:05:54.328868+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-11T18:01:45.336549+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -26,8 +26,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
+          "time_info": "[11时43分 ~ 18时01分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -54,29 +77,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时01分 ~ 05时41分]"
-        },
-        {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时43分 ~ 15时05分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
         },
         {
           "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
@@ -302,6 +302,17 @@
           "time_info": "[00时01分 ~ 01时03分]"
         },
         {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时00分 ~ 18时01分]"
+        },
+        {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
           "url": "https://flash.jin10.com/detail/20260810233716507800",
           "source": "金十数据",
@@ -352,7 +363,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -374,7 +385,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -407,7 +418,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -418,7 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -429,7 +440,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -495,7 +506,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -528,7 +539,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -618,6 +629,17 @@
           "time_info": "[00时01分 ~ 09时40分]"
         },
         {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -628,17 +650,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时01分 ~ 07时35分]"
-        },
-        {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -654,6 +665,20 @@
           "time_info": "[00时01分 ~ 05时41分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -664,6 +689,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时39分 ~ 13时07分]"
+        },
+        {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 18时01分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
         },
         {
           "title": "特朗普否认华尔街日报关于他与沃什谈话的报道，称：我非常尊重美联储主席沃什。 几天前还曾与沃什短暂对话过一次。 自从沃什接任美联储主席以来，和他谈过一次。",
@@ -683,7 +730,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -697,41 +744,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
         },
         {
           "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
@@ -804,6 +816,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时35分]"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 18时01分]"
         },
         {
           "title": "美国总统特朗普：几天前与美联储主席沃什通话。",
@@ -968,17 +992,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时42分"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
         },
         {
           "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
@@ -1306,6 +1319,17 @@
           "time_info": "[00时01分 ~ 05时41分]"
         },
         {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时39分 ~ 18时01分]"
+        },
+        {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
           "url": "https://www.cls.cn/detail/2450652",
           "source": "财联社热门",
@@ -1318,17 +1342,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时36分 ~ 15时05分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时39分 ~ 15时05分]"
         },
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T09:51:12.739305+08:00",
-  "total_titles_processed": 666,
+  "generated_at": "2026-08-12T12:08:07.157490+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -31,6 +31,18 @@
           "time_info": "[01时08分 ~ 07时39分]"
         },
         {
+          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时40分 ~ 12时08分]"
+        },
+        {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
           "url": "https://flash.jin10.com/detail/20260812053053264800",
           "source": "金十数据",
@@ -42,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 07时39分]"
+        },
+        {
+          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
+          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -80,15 +103,15 @@
           "time_info": "[05时45分 ~ 06时40分]"
         },
         {
-          "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
-          "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
-          "source": "凤凰网",
+          "title": "特朗普承认：悄悄换乘飞机了",
+          "url": "https://wallstreetcn.com/livenews/3148388",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
@@ -119,7 +142,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -130,7 +153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -141,9 +164,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
+          "url": "https://flash.jin10.com/detail/20260812111839439800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
@@ -152,20 +186,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "内塔尼亚胡“反悔”拒绝特朗普加沙方案，美以分歧激化有何后果？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33759913",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "09时51分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -230,6 +253,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "伊朗，密集“换帅”",
+          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
+        },
+        {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
           "url": "https://flash.jin10.com/detail/20260812063020231800",
           "source": "金十数据",
@@ -240,6 +274,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
+          "url": "https://www.cls.cn/detail/2451814",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
         },
         {
           "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
@@ -255,48 +313,16 @@
           "time_info": "[01时08分 ~ 07时39分]"
         },
         {
-          "title": "伊朗，密集“换帅”",
-          "url": "https://news.ifeng.com/c/8vWOAc0ERio",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
-          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
-          "url": "https://www.cls.cn/detail/2451814",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
-        },
-        {
           "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
           "url": "https://www.cls.cn/detail/2451716",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
@@ -382,6 +408,18 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时39分 ~ 12时08分]"
+        },
+        {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -393,16 +431,16 @@
           "time_info": "[01时08分 ~ 07时39分]"
         },
         {
-          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
-          "url": "https://www.cls.cn/detail/2451784",
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时39分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 12时08分]"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
@@ -415,18 +453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时08分 ~ 05时45分]"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 09时51分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -605,19 +631,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[01时08分 ~ 12时08分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 09时51分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时08分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -676,6 +703,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
+          "url": "https://flash.jin10.com/detail/20260812110126650800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         }
       ]
     }

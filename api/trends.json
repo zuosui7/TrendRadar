@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T12:09:20.269626+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-08-14T21:04:12.090393+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -81,7 +81,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -107,6 +107,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 06时40分]"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -132,6 +143,17 @@
           "time_info": "[09时50分 ~ 12时09分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "霉霉特朗普 版权",
           "url": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%20%E7%89%88%E6%9D%83&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -149,7 +171,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -160,7 +182,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -215,7 +237,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -325,6 +347,19 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 21时04分]"
+        },
+        {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
           "url": "https://www.zhihu.com/question/2071335529577239335",
           "source": "知乎",
@@ -333,18 +368,6 @@
             2,
             1,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 12时09分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            2
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -454,6 +477,19 @@
           "time_info": "[01时03分 ~ 12时09分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 21时04分]"
+        },
+        {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
           "url": "https://wallstreetcn.com/articles/3779332",
           "source": "华尔街见闻",
@@ -463,6 +499,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 06时40分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 21时04分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -489,36 +538,12 @@
           "time_info": "[03时01分 ~ 06时40分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 12时09分]"
-        },
-        {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
           "url": "https://www.toutiao.com/trending/7673637537293798953/",
           "source": "今日头条",
           "ranks": [
             6,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 12时09分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -562,7 +587,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -605,7 +630,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -640,7 +665,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -728,9 +753,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "伊朗称拦截并摧毁一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3149735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国副总统万斯谈及伊朗：美国手上有诸多可用于应对伊朗的手段。首要目标是让美国的石油与汽油维持低价。最终目标同样是让霍尔木兹海峡恢复稳定，油价回归平稳。",
@@ -747,8 +783,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
           "url": "https://wallstreetcn.com/livenews/3149336",
@@ -1029,6 +1076,47 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
+          "url": "https://www.cls.cn/detail/2453615",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时50分]"
+        },
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1039,7 +1127,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
         },
@@ -1057,32 +1145,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "美元",
+      "match_count": 1,
       "titles": [
         {
-          "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
-          "url": "https://www.cls.cn/detail/2453615",
-          "source": "财联社热门",
+          "title": "美国零售销售数据公布后，标普500指数期货升至盘中高点，美国国债上涨，美元指数跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149766",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 09时50分]"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时40分"
+          "time_info": "21时04分"
         }
       ]
     }

@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-15T10:52:07.337220+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-08-15T11:38:24.360213+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
           "url": "https://news.ifeng.com/c/8vaHza2NSPn",
@@ -42,6 +53,19 @@
           "time_info": "[05时25分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 11时38分]"
+        },
+        {
           "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
           "url": "https://www.zhihu.com/question/2070813507499643585",
           "source": "知乎",
@@ -53,18 +77,6 @@
           "time_info": "[05时24分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 10时52分]"
-        },
-        {
           "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
           "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
           "source": "凤凰网",
@@ -72,8 +84,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时38分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -81,11 +93,62 @@
           "source": "金十数据",
           "ranks": [
             8,
-            20
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时38分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时38分]"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时38分]"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时38分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时38分]"
         },
         {
           "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
@@ -112,39 +175,16 @@
           "time_info": "[07时22分 ~ 09时09分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
           "source": "金十数据",
           "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 10时52分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             12,
-            22
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时09分 ~ 10时52分]"
+          "time_info": "[10时52分 ~ 11时38分]"
         },
         {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
@@ -170,17 +210,6 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
           "url": "https://flash.jin10.com/detail/20260815042631790800",
           "source": "金十数据",
@@ -190,17 +219,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
@@ -283,7 +301,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -295,8 +313,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 10时52分]"
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时38分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -344,6 +362,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时38分"
+        },
+        {
           "title": "美股收盘：三大股指低收 博通跌近6%",
           "url": "https://flash.jin10.com/detail/20260815040246091800",
           "source": "金十数据",
@@ -361,6 +390,33 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "俱往矣!DeepSeek大幅涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时24分 ~ 11时38分]"
+        },
+        {
+          "title": "DeepSeek Harness实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            8,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时24分 ~ 11时38分]"
+        },
+        {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
           "url": "https://wallstreetcn.com/articles/3779418",
           "source": "华尔街见闻",
@@ -373,42 +429,6 @@
           "time_info": "[05时24分 ~ 09时09分]"
         },
         {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时24分 ~ 10时52分]"
-        },
-        {
-          "title": "DeepSeek Harness实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时24分 ~ 10时52分]"
-        },
-        {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
           "title": "DeepSeek Harness是什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -418,6 +438,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 05时25分]"
+        },
+        {
+          "title": "DeepSeek-V4 Pro 跑分飙升",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时38分]"
         }
       ]
     },
@@ -453,22 +485,24 @@
           "source": "金十数据",
           "ranks": [
             12,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时09分 ~ 10时52分]"
+          "appearance_count": 3,
+          "time_info": "[09时09分 ~ 11时38分]"
         },
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
           "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时38分]"
         }
       ]
     },
@@ -476,6 +510,17 @@
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价银价油价都涨了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时51分 ~ 11时38分]"
+        },
         {
           "title": "金价银价油价都涨了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top",
@@ -498,17 +543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 09时09分]"
-        },
-        {
-          "title": "金价银价油价都涨了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
         },
         {
           "title": "金价反复跳水 老铺黄金罕见大促",
@@ -535,8 +569,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 10时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时09分 ~ 11时38分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -584,11 +618,12 @@
           "url": "https://flash.jin10.com/detail/20260815100007836800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时38分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",

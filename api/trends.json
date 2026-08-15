@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T07:22:06.193621+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-08-15T09:09:55.296642+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
+        },
+        {
+          "title": "特朗普称将宣布霍尔木兹为“美国领土”",
+          "url": "https://www.toutiao.com/trending/7673394710149267497/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -54,6 +65,18 @@
           "time_info": "[05时25分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
+          "url": "https://wallstreetcn.com/livenews/3149885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时09分]"
+        },
+        {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3149869",
           "source": "华尔街见闻-快讯",
@@ -66,15 +89,37 @@
           "time_info": "[05时25分 ~ 07时22分]"
         },
         {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://flash.jin10.com/detail/20260815081235064800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
@@ -86,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
+          "url": "https://wallstreetcn.com/livenews/3149900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
@@ -182,6 +238,18 @@
           "time_info": "[05时24分 ~ 05时25分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时09分]"
+        },
+        {
           "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
           "url": "https://wallstreetcn.com/livenews/3149871",
           "source": "华尔街见闻-快讯",
@@ -192,17 +260,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股收盘）",
@@ -244,6 +301,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
+        },
+        {
           "title": "DeepSeek Harness是什么",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -262,8 +331,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -271,29 +340,31 @@
           "source": "bilibili 热搜",
           "ranks": [
             18,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
+        },
         {
           "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
           "url": "https://wallstreetcn.com/articles/3779437",
@@ -306,26 +377,66 @@
           "time_info": "[07时21分 ~ 07时22分]"
         },
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
           "url": "https://wallstreetcn.com/livenews/3149890",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
+          "url": "https://flash.jin10.com/detail/20260815090110907800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时09分"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时09分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815080428529800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时09分"
         }
       ]
     },
@@ -346,6 +457,18 @@
           "time_info": "[05时25分 ~ 07时22分]"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时09分]"
+        },
+        {
           "title": "伊朗方面的最新表态传递出哪些信号",
           "url": "https://www.toutiao.com/trending/7673859930650054186/",
           "source": "今日头条",
@@ -355,17 +478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 05时25分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         }
       ]
     },
@@ -404,6 +516,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时09分]"
+        },
+        {
           "title": "金价反复跳水 老铺黄金罕见大促",
           "url": "https://www.toutiao.com/trending/7673177168197992475/",
           "source": "今日头条",
@@ -413,34 +537,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 05时25分]"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
         }
       ]
     },

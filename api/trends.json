@@ -1,711 +1,277 @@
 {
-  "generated_at": "2026-08-15T11:38:24.360213+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-08-16T07:20:17.696154+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 25,
+      "keyword_group": "伊朗",
+      "match_count": 11,
       "titles": [
         {
-          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-          "url": "https://wallstreetcn.com/livenews/3149935",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://news.ifeng.com/c/8vcIckuO3Db",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "title": "伊朗外长称无意延长停火协议",
+          "url": "https://news.ifeng.com/c/8vc12jNNZER",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普称将宣布霍尔木兹为“美国领土”",
-          "url": "https://www.toutiao.com/trending/7673394710149267497/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
-          "url": "https://flash.jin10.com/detail/20260815050235011800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260816055833172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
+          "url": "https://wallstreetcn.com/livenews/3150003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://wallstreetcn.com/livenews/3149999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
+          "url": "https://flash.jin10.com/detail/20260816050035901800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
+          "url": "https://flash.jin10.com/detail/20260816045907477800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
+          "url": "https://flash.jin10.com/detail/20260816024442715800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
+          "url": "https://flash.jin10.com/detail/20260816024231719800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
+          "url": "https://wallstreetcn.com/livenews/3149978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
+          "url": "https://wallstreetcn.com/livenews/3149974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
           "url": "https://www.cls.cn/detail/2455050",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时22分]"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 11时38分]"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://flash.jin10.com/detail/20260815081235064800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普证实部署中东的“林肯”号航母将被替换",
-          "url": "https://wallstreetcn.com/livenews/3149900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普表示，每周从委内瑞拉获取数百万桶石油。 伊朗仍拥有导弹和无人机，但数量并不多。伊朗已无防御力量。伊朗货币毫无价值。 我们在伊朗问题上取得了重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
-          "url": "https://wallstreetcn.com/livenews/3149885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时09分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时38分]"
-        },
-        {
-          "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3149869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "特朗普如何将马斯克重新拉回身边",
-          "url": "https://www.toutiao.com/trending/7674001293995675190/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗仍有导弹和无人机，但已经不多了。",
-          "url": "https://flash.jin10.com/detail/20260815042631790800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国总统特朗普：没人知道我们在伊朗有多成功。你知道谁最清楚我们做得有多好吗？伊朗。",
-          "url": "https://flash.jin10.com/detail/20260815042546976800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "美国总统特朗普：每周从委内瑞拉提取数百万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260815042454997800",
-          "source": "金十数据",
+          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
+          "source": "澎湃新闻",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国总统特朗普：美国有能力摧毁伊朗，但我们不想这样做。",
-          "url": "https://flash.jin10.com/detail/20260815042110296800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "特朗普：很快将宣布霍尔木兹海峡为“美国领土”",
-          "url": "https://flash.jin10.com/detail/20260815041128597800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国总统特朗普：我不在乎在中期选举前打击伊朗经济。",
-          "url": "https://wallstreetcn.com/livenews/3149861",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "据相关信函：美国银行监管机构有条件地批准与特朗普家族关联的世界自由信托公司的银行牌照。",
-          "url": "https://flash.jin10.com/detail/20260815040403133800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "特朗普料将出席白宫预测市场会议",
-          "url": "https://wallstreetcn.com/livenews/3149855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 11时38分]"
-        },
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "美股三大股指低跌，博通跌近6%，闪迪涨超7%",
-          "url": "https://wallstreetcn.com/livenews/3149871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260815040705233800",
+          "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
+          "url": "https://flash.jin10.com/detail/20260816042803106800",
           "source": "金十数据",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260815040702357800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美股三大指数全线收跌",
-          "url": "https://www.toutiao.com/trending/7674037560066441266/",
-          "source": "今日头条",
-          "ranks": [
-            25
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时38分"
-        },
-        {
-          "title": "美股收盘：三大股指低收 博通跌近6%",
-          "url": "https://flash.jin10.com/detail/20260815040246091800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "07时20分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "DeepSeek-V4-Pro-0813 已发布，体验下来怎么样？",
+          "url": "https://www.zhihu.com/question/2071619812795609447",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            8,
-            10,
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时24分 ~ 11时38分]"
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 07时20分]"
         },
         {
           "title": "DeepSeek Harness实测",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            8,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时24分 ~ 11时38分]"
-        },
-        {
-          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
-          "url": "https://wallstreetcn.com/articles/3779418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 09时09分]"
-        },
-        {
-          "title": "DeepSeek Harness是什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
-        },
-        {
-          "title": "DeepSeek-V4 Pro 跑分飙升",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4%20Pro%20%E8%B7%91%E5%88%86%E9%A3%99%E5%8D%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 11时38分]"
+          "time_info": "[07时19分 ~ 07时20分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
+          "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
+          "url": "https://www.cls.cn/detail/2455147",
+          "source": "财联社热门",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时09分"
-        },
-        {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 09时09分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
-          "url": "https://flash.jin10.com/detail/20260815080428529800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
-          "url": "https://flash.jin10.com/detail/20260815090110907800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时38分]"
+          "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
+          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价银价油价都涨了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 11时38分]"
-        },
-        {
-          "title": "金价银价油价都涨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%83%BD%E6%B6%A8%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时09分]"
-        },
-        {
-          "title": "金价反复跳水 老铺黄金罕见大促",
-          "url": "https://www.toutiao.com/trending/7673177168197992475/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 11时38分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时24分 ~ 09时09分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
-          "url": "https://wallstreetcn.com/livenews/3149890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 11时38分]"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
-          "url": "https://flash.jin10.com/detail/20260815050027660800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时09分]"
-        },
-        {
-          "title": "伊朗方面的最新表态传递出哪些信号",
-          "url": "https://www.toutiao.com/trending/7673859930650054186/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伯克希尔Q2大幅增持谷歌，Alphabet跃升为其第三大持仓股",
-          "url": "https://wallstreetcn.com/livenews/3149876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦Q2增持谷歌",
-          "url": "https://wallstreetcn.com/livenews/3149872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 07时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数14日下跌",
-          "url": "https://wallstreetcn.com/livenews/3149863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "time_info": "[07时19分 ~ 07时20分]"
         }
       ]
     }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T07:20:17.696154+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-16T09:14:13.491929+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -26,63 +26,79 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
           "url": "https://flash.jin10.com/detail/20260816055833172800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时14分]"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
           "url": "https://wallstreetcn.com/livenews/3150003",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时14分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://wallstreetcn.com/livenews/3149999",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时14分]"
         },
         {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
           "url": "https://flash.jin10.com/detail/20260816050035901800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时14分]"
         },
         {
           "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
           "url": "https://flash.jin10.com/detail/20260816045907477800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 09时14分]"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
@@ -91,7 +107,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -102,7 +118,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -113,7 +129,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -124,7 +140,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -132,18 +148,53 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普誓言美航母重回锅气时代",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AA%93%E8%A8%80%E7%BE%8E%E8%88%AA%E6%AF%8D%E9%87%8D%E5%9B%9E%E9%94%85%E6%B0%94%E6%97%B6%E4%BB%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "据CNN：71%的人认为美国总统特朗普在降低日常商品价格方面的努力还不够，较去年58%的比例有所上升。",
+          "url": "https://flash.jin10.com/detail/20260816090134155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
+        },
+        {
+          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -157,15 +208,26 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普周日日程一览",
+          "url": "https://flash.jin10.com/detail/20260816080736055800",
+          "source": "金十数据",
           "ranks": [
-            17
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
+          "url": "https://flash.jin10.com/detail/20260816080613858800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
@@ -174,7 +236,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -192,19 +254,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -228,11 +291,12 @@
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -241,7 +305,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -252,7 +316,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -270,8 +334,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时19分 ~ 07时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时19分 ~ 09时14分]"
         }
       ]
     }
